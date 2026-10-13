@@ -1,0 +1,2222 @@
+{
+ "(Accessory parotid gland)": {
+  "ta2Id": "2806",
+  "zanatomyId": "2806",
+  "en": "(Accessory parotid gland)",
+  "la": "(Glandula parotidea accessoria)"
+ },
+ "Abducens nerve (VI)": {
+  "ta2Id": "6283",
+  "zanatomyId": "6283",
+  "en": "Abducens nerve (VI)",
+  "la": "Nervus abducens (VI)"
+ },
+ "Accessory branch of middle meningeal artery": {
+  "ta2Id": "4432",
+  "zanatomyId": "4432",
+  "en": "Accessory branch of middle meningeal artery",
+  "la": "Ramus accessorius arteriae meningeae mediae"
+ },
+ "Accessory nerve (XI)": {
+  "ta2Id": "6352",
+  "zanatomyId": "6352",
+  "en": "Accessory nerve (XI)",
+  "la": "Nervus accessorius (XI)"
+ },
+ "Alveolar process": {
+  "ta2Id": "791",
+  "zanatomyId": "791",
+  "en": "Alveolar process",
+  "la": "Processus alveolaris maxillae"
+ },
+ "Angle of mandible": {
+  "ta2Id": "861",
+  "zanatomyId": "861",
+  "en": "Angle of mandible",
+  "la": "Angulus mandibulae"
+ },
+ "Angular artery": {
+  "ta2Id": "4397",
+  "zanatomyId": "4397",
+  "en": "Angular artery",
+  "la": "Arteria angularis"
+ },
+ "Angular vein": {
+  "ta2Id": "4818",
+  "zanatomyId": "4818",
+  "en": "Angular vein",
+  "la": "Vena angularis"
+ },
+ "Anterior belly of digastric muscle": {
+  "ta2Id": "2161",
+  "zanatomyId": "2161",
+  "en": "Anterior belly of digastric muscle",
+  "la": "Venter anterior musculi digastrici"
+ },
+ "Anterior cells of ethmoid bone": {
+  "ta2Id": "729",
+  "zanatomyId": "729",
+  "en": "Anterior cells of ethmoid bone",
+  "la": "Cellulae anteriores ossis ethmoidei"
+ },
+ "Anterior deep temporal artery": {
+  "ta2Id": "4440",
+  "zanatomyId": "4440",
+  "en": "Anterior deep temporal artery",
+  "la": "Arteria temporalis profunda anterior"
+ },
+ "Anterior division of mandibular nerve": {
+  "ta2Id": "6249",
+  "zanatomyId": "6249",
+  "en": "Anterior division of mandibular nerve",
+  "la": "Divisio anterior nervi mandibularis"
+ },
+ "Anterior division of retromandibular vein": {
+  "ta2Id": "4830",
+  "zanatomyId": "4830",
+  "en": "Anterior division of retromandibular vein",
+  "la": "Divisio anterior venae mandibularis"
+ },
+ "Anterior ethmoidal artery": {
+  "ta2Id": "4487",
+  "zanatomyId": "4487",
+  "en": "Anterior ethmoidal artery",
+  "la": "Arteria ethmoidea anterior"
+ },
+ "Anterior inferior jugular nodes": {
+  "ta2Id": "5232",
+  "zanatomyId": "5232",
+  "en": "Anterior inferior jugular nodes",
+  "la": "Nodi jugulares inferiores anteriores"
+ },
+ "Anterior intercavernous sinus": {
+  "ta2Id": "4863",
+  "zanatomyId": "4863",
+  "en": "Anterior intercavernous sinus",
+  "la": "Sinus intercavernosus anterior"
+ },
+ "Anterior septal branches of anterior ethmoidal artery": {
+  "ta2Id": "4489",
+  "zanatomyId": "4489",
+  "en": "Anterior septal branches of anterior ethmoidal artery",
+  "la": "Rami septales anteriores arteriae ethmoideae anterioris"
+ },
+ "Artery of pterygoid canal": {
+  "ta2Id": "4454",
+  "zanatomyId": "4454",
+  "en": "Artery of pterygoid canal",
+  "la": "Arteria canalis pterygoidei"
+ },
+ "Articular capsule of temporomandibular joint": {
+  "ta2Id": "7151",
+  "zanatomyId": "7151",
+  "en": "Articular capsule of temporomandibular joint",
+  "la": "Capsula articularis articuli temporomandibularis"
+ },
+ "Articular disc of temporomandibular joint": {
+  "ta2Id": "1623",
+  "zanatomyId": "1623",
+  "en": "Articular disc of temporomandibular joint",
+  "la": "Discus articulationis temporomandibularis"
+ },
+ "Articular tubercle": {
+  "ta2Id": "714",
+  "zanatomyId": "714",
+  "en": "Articular tubercle",
+  "la": "Tuberculum articulare"
+ },
+ "Ary-epiglottic part of oblique arytenoid muscle": {
+  "ta2Id": "2204",
+  "zanatomyId": "2204",
+  "en": "Ary-epiglottic part of oblique arytenoid muscle",
+  "la": "Pars aryepiglottica musculi arytenoidei obliqui"
+ },
+ "Arytenoid cartilage": {
+  "ta2Id": "983",
+  "zanatomyId": "983",
+  "en": "Arytenoid cartilage",
+  "la": "Cartilago arytenoidea"
+ },
+ "Ascending pharyngeal artery": {
+  "ta2Id": "4378",
+  "zanatomyId": "4378",
+  "en": "Ascending pharyngeal artery",
+  "la": "Arteria pharyngea ascendens"
+ },
+ "Atlas (C1)": {
+  "ta2Id": "1038",
+  "zanatomyId": "1038",
+  "en": "Atlas (C1)",
+  "la": "Atlas (C1)"
+ },
+ "Auriculotemporal nerve": {
+  "ta2Id": "6261",
+  "zanatomyId": "6261",
+  "en": "Auriculotemporal nerve",
+  "la": "Nervus auriculotemporalis"
+ },
+ "Axis (C2)": {
+  "ta2Id": "1050",
+  "zanatomyId": "1050",
+  "en": "Axis (C2)",
+  "la": "Axis (C2)"
+ },
+ "Basilar venous plexus": {
+  "ta2Id": "4866",
+  "zanatomyId": "4866",
+  "en": "Basilar venous plexus",
+  "la": "Plexus venosus basilaris"
+ },
+ "Body of mandible": {
+  "ta2Id": "836",
+  "zanatomyId": "836",
+  "en": "Body of mandible",
+  "la": "Corpus mandibulae"
+ },
+ "Buccal artery": {
+  "ta2Id": "4443",
+  "zanatomyId": "4443",
+  "en": "Buccal artery",
+  "la": "Arteria buccalis"
+ },
+ "Buccal nerve": {
+  "ta2Id": "6258",
+  "zanatomyId": "6258",
+  "en": "Buccal nerve",
+  "la": "Nervus buccalis"
+ },
+ "Bucinator": {
+  "ta2Id": "2086",
+  "zanatomyId": "2086",
+  "en": "Bucinator",
+  "la": "Bucinator"
+ },
+ "Bucinator node": {
+  "ta2Id": "5207",
+  "zanatomyId": "5207",
+  "en": "Bucinator node",
+  "la": "Nodus bucinatorius"
+ },
+ "Carotid canal": {
+  "ta2Id": "651",
+  "zanatomyId": "651",
+  "en": "Carotid canal",
+  "la": "Canalis carotidis"
+ },
+ "Carotid triangle": {
+  "ta2Id": "235",
+  "zanatomyId": "235",
+  "en": "Carotid triangle",
+  "la": "Trigonum caroticum"
+ },
+ "Cavernous sinus": {
+  "ta2Id": "4860",
+  "zanatomyId": "4860",
+  "en": "Cavernous sinus",
+  "la": "Sinus cavernosus"
+ },
+ "Cement": {
+  "ta2Id": "1612",
+  "zanatomyId": "1612",
+  "en": "Cement",
+  "la": "Cementum"
+ },
+ "Central retinal artery": {
+  "ta2Id": "4470",
+  "zanatomyId": "4470",
+  "en": "Central retinal artery",
+  "la": "Arteria centralis retinae"
+ },
+ "Chorda tympani": {
+  "ta2Id": "6292",
+  "zanatomyId": "6292",
+  "en": "Chorda tympani",
+  "la": "Chorda tympani"
+ },
+ "Cochlear nerve": {
+  "ta2Id": "6318",
+  "zanatomyId": "6318",
+  "en": "Cochlear nerve",
+  "la": "Nervus cochlearis"
+ },
+ "Common carotid artery": {
+  "ta2Id": "4366",
+  "zanatomyId": "4366",
+  "en": "Common carotid artery",
+  "la": "Carotis communis"
+ },
+ "Common facial vein": {
+  "ta2Id": "4816",
+  "zanatomyId": "4816",
+  "en": "Common facial vein",
+  "la": "Vena facialis communis"
+ },
+ "Condylar process": {
+  "ta2Id": "872",
+  "zanatomyId": "872",
+  "en": "Condylar process",
+  "la": "Processus condylaris"
+ },
+ "Corniculate cartilage": {
+  "ta2Id": "997",
+  "zanatomyId": "997",
+  "en": "Corniculate cartilage",
+  "la": "Cartilago corniculata"
+ },
+ "Coronoid process of mandible": {
+  "ta2Id": "869",
+  "zanatomyId": "869",
+  "en": "Coronoid process of mandible",
+  "la": "Processus coronoideus mandibulae"
+ },
+ "Corrugator supercilii": {
+  "ta2Id": "2071",
+  "zanatomyId": "2071",
+  "en": "Corrugator supercilii",
+  "la": "Musculus corrugator supercilii"
+ },
+ "Cricoid cartilage": {
+  "ta2Id": "978",
+  "zanatomyId": "978",
+  "en": "Cricoid cartilage",
+  "la": "Cartilago cricoidea"
+ },
+ "Cricopharyngeal ligament": {
+  "ta2Id": "1669",
+  "zanatomyId": "1669",
+  "en": "Cricopharyngeal ligament",
+  "la": "Ligamentum cricopharyngeum"
+ },
+ "Crown of tooth": {
+  "ta2Id": "915",
+  "zanatomyId": "915",
+  "en": "Crown of tooth",
+  "la": "Corona dentis"
+ },
+ "Deciduous teeth": {
+  "ta2Id": "912",
+  "zanatomyId": "912",
+  "en": "Deciduous teeth",
+  "la": "Dentes decidui"
+ },
+ "Deep cervical artery": {
+  "ta2Id": "4608",
+  "zanatomyId": "4608",
+  "en": "Deep cervical artery",
+  "la": "Arteria cervicalis profunda"
+ },
+ "Deep part of masseter": {
+  "ta2Id": "2107",
+  "zanatomyId": "2107",
+  "en": "Deep part of masseter",
+  "la": "Pars profunda masseteris"
+ },
+ "Deep temporal nerves": {
+  "ta2Id": "6254",
+  "zanatomyId": "6254",
+  "en": "Deep temporal nerves",
+  "la": "Nervi temporales profundi"
+ },
+ "Dental pulp": {
+  "ta2Id": "934",
+  "zanatomyId": "934",
+  "en": "Dental pulp",
+  "la": "Pulpa dentis"
+ },
+ "Dentine": {
+  "ta2Id": "937",
+  "zanatomyId": "937",
+  "en": "Dentine",
+  "la": "Dentinum"
+ },
+ "Depressor anguli oris": {
+  "ta2Id": "2076",
+  "zanatomyId": "2076",
+  "en": "Depressor anguli oris",
+  "la": "Depressor anguli oris"
+ },
+ "Depressor labii inferioris": {
+  "ta2Id": "2083",
+  "zanatomyId": "2083",
+  "en": "Depressor labii inferioris",
+  "la": "Depressor labii inferioris"
+ },
+ "Depressor septi nasi": {
+  "ta2Id": "2065",
+  "zanatomyId": "2065",
+  "en": "Depressor septi nasi",
+  "la": "Depressor septi nasi"
+ },
+ "Descending palatine artery": {
+  "ta2Id": "4456",
+  "zanatomyId": "4456",
+  "en": "Descending palatine artery",
+  "la": "Arteria palatina descendens"
+ },
+ "Digastric muscle": {
+  "ta2Id": "2160",
+  "zanatomyId": "2160",
+  "en": "Digastric muscle",
+  "la": "Musculus digastricus"
+ },
+ "Enamel": {
+  "ta2Id": "938",
+  "zanatomyId": "938",
+  "en": "Enamel",
+  "la": "Enamelum"
+ },
+ "Epiglottis": {
+  "ta2Id": "3190",
+  "zanatomyId": "3190",
+  "en": "Epiglottis",
+  "la": "Epiglottis"
+ },
+ "Ethmoid bone": {
+  "ta2Id": "721",
+  "zanatomyId": "721",
+  "en": "Ethmoid bone",
+  "la": "Os ethmoideum"
+ },
+ "External carotid artery": {
+  "ta2Id": "4369",
+  "zanatomyId": "4369",
+  "en": "External carotid artery",
+  "la": "Carotis externa"
+ },
+ "External jugular vein": {
+  "ta2Id": "4956",
+  "zanatomyId": "4956",
+  "en": "External jugular vein",
+  "la": "Vena iugularis externa"
+ },
+ "External part of thyro-arytenoid muscle": {
+  "ta2Id": "2200",
+  "zanatomyId": "2200",
+  "en": "External part of thyro-arytenoid muscle",
+  "la": "Pars externa musculi thyreoarytenoidei"
+ },
+ "Facial artery": {
+  "ta2Id": "4388",
+  "zanatomyId": "4388",
+  "en": "Facial artery",
+  "la": "Arteria facialis"
+ },
+ "Facial nerve (VII)": {
+  "ta2Id": "6284",
+  "zanatomyId": "6284",
+  "en": "Facial nerve (VII)",
+  "la": "Nervus facialis (VII)"
+ },
+ "Facial vein": {
+  "ta2Id": "4817",
+  "zanatomyId": "4817",
+  "en": "Facial vein",
+  "la": "Vena facialis"
+ },
+ "Foramen lacerum": {
+  "ta2Id": "459",
+  "zanatomyId": "459",
+  "en": "Foramen lacerum",
+  "la": "Foramen lacerum"
+ },
+ "Foramen magnum": {
+  "ta2Id": "553",
+  "zanatomyId": "553",
+  "en": "Foramen magnum",
+  "la": "Foramen magnum"
+ },
+ "Foramen ovale": {
+  "ta2Id": "622",
+  "zanatomyId": "622",
+  "en": "Foramen ovale",
+  "la": "Foramen ovale"
+ },
+ "Foramen rotundum": {
+  "ta2Id": "621",
+  "zanatomyId": "621",
+  "en": "Foramen rotundum",
+  "la": "Foramen rotundum"
+ },
+ "Foramen spinosum": {
+  "ta2Id": "624",
+  "zanatomyId": "624",
+  "en": "Foramen spinosum",
+  "la": "Foramen spinosum"
+ },
+ "Frontal bone": {
+  "ta2Id": "520",
+  "zanatomyId": "520",
+  "en": "Frontal bone",
+  "la": "Os frontale"
+ },
+ "Frontal branch of superficial temporal artery": {
+  "ta2Id": "4420",
+  "zanatomyId": "4420",
+  "en": "Frontal branch of superficial temporal artery",
+  "la": "Ramus fontale arteriae temporalis superficialis"
+ },
+ "Frontalis muscle": {
+  "ta2Id": "2056",
+  "zanatomyId": "2056",
+  "en": "Frontalis muscle",
+  "la": "Musculus frontalis"
+ },
+ "Genioglossus muscle": {
+  "ta2Id": "2117",
+  "zanatomyId": "2117",
+  "en": "Genioglossus muscle",
+  "la": "Musculus genioglossus"
+ },
+ "Geniohyoid muscle": {
+  "ta2Id": "2166",
+  "zanatomyId": "2166",
+  "en": "Geniohyoid muscle",
+  "la": "Musculus geniohyoideus"
+ },
+ "Gingiva": {
+  "ta2Id": "2790",
+  "zanatomyId": "2790",
+  "en": "Gingiva",
+  "la": "Gingiva"
+ },
+ "Glossopharyngeal nerve (IX)": {
+  "ta2Id": "6320",
+  "zanatomyId": "6320",
+  "en": "Glossopharyngeal nerve (IX)",
+  "la": "Nervus glossopharyngeus (IX)"
+ },
+ "Greater palatine artery": {
+  "ta2Id": "4457",
+  "zanatomyId": "4457",
+  "en": "Greater palatine artery",
+  "la": "Arteria palatina major"
+ },
+ "Greater palatine foramen": {
+  "ta2Id": "463",
+  "zanatomyId": "463",
+  "en": "Greater palatine foramen",
+  "la": "Foramen palatinum majus"
+ },
+ "Greater palatine nerve": {
+  "ta2Id": "6224",
+  "zanatomyId": "6224",
+  "en": "Greater palatine nerve",
+  "la": "Nervus palatinus major"
+ },
+ "Hard palate": {
+  "ta2Id": "2779",
+  "zanatomyId": "2779",
+  "en": "Hard palate",
+  "la": "Palatum durum"
+ },
+ "Hyoglossus muscle": {
+  "ta2Id": "2118",
+  "zanatomyId": "2118",
+  "en": "Hyoglossus muscle",
+  "la": "Musculus hyoglossus"
+ },
+ "Hyoid bone": {
+  "ta2Id": "876",
+  "zanatomyId": "876",
+  "en": "Hyoid bone",
+  "la": "Os hyoideum"
+ },
+ "Hypoglossal canal": {
+  "ta2Id": "559",
+  "zanatomyId": "559",
+  "en": "Hypoglossal canal",
+  "la": "Canalis hypoglossus"
+ },
+ "Hypoglossal nerve (XII)": {
+  "ta2Id": "6357",
+  "zanatomyId": "6357",
+  "en": "Hypoglossal nerve (XII)",
+  "la": "Nervus hypoglossus (XII)"
+ },
+ "Iliocostalis colli muscle": {
+  "ta2Id": "2261",
+  "zanatomyId": "2261",
+  "en": "Iliocostalis colli muscle",
+  "la": "Musculus iliocostalis colli"
+ },
+ "Incisive canals": {
+  "ta2Id": "788",
+  "zanatomyId": "788",
+  "en": "Incisive canals",
+  "la": "Canales incisivi"
+ },
+ "Incisive foramina": {
+  "ta2Id": "797",
+  "zanatomyId": "797",
+  "en": "Incisive foramina",
+  "la": "Foramina incisiva"
+ },
+ "Incisive fossa": {
+  "ta2Id": "464",
+  "zanatomyId": "464",
+  "en": "Incisive fossa",
+  "la": "Fossa incisiva"
+ },
+ "Incus": {
+  "ta2Id": "888",
+  "zanatomyId": "888",
+  "en": "Incus",
+  "la": "Incus"
+ },
+ "Inferior alveolar artery": {
+  "ta2Id": "4426",
+  "zanatomyId": "4426",
+  "en": "Inferior alveolar artery",
+  "la": "Arteria alveolaris inferior"
+ },
+ "Inferior alveolar nerve": {
+  "ta2Id": "6274",
+  "zanatomyId": "6274",
+  "en": "Inferior alveolar nerve",
+  "la": "Nervus alveolaris inferior"
+ },
+ "Inferior head of lateral pterygoid muscle": {
+  "ta2Id": "2111",
+  "zanatomyId": "2111",
+  "en": "Inferior head of lateral pterygoid muscle",
+  "la": "Caput inferius musculi pterygoidei lateralis"
+ },
+ "Inferior labial artery": {
+  "ta2Id": "4393",
+  "zanatomyId": "4393",
+  "en": "Inferior labial artery",
+  "la": "Arteria labialis inferior"
+ },
+ "Inferior labial veins": {
+  "ta2Id": "4825",
+  "zanatomyId": "4825",
+  "en": "Inferior labial veins",
+  "la": "Venae labiales inferiores"
+ },
+ "Inferior nasal concha bone": {
+  "ta2Id": "740",
+  "zanatomyId": "740",
+  "en": "Inferior nasal concha bone",
+  "la": "Concha nasalis inferior"
+ },
+ "Inferior oblique muscle": {
+  "ta2Id": "2051",
+  "zanatomyId": "2051",
+  "en": "Inferior oblique muscle",
+  "la": "Musculus obliquus inferior bulbi oculi"
+ },
+ "Inferior ophthalmic vein": {
+  "ta2Id": "4900",
+  "zanatomyId": "4900",
+  "en": "Inferior ophthalmic vein",
+  "la": "Vena ophthalmica inferior"
+ },
+ "Inferior orbital fissure": {
+  "ta2Id": "489",
+  "zanatomyId": "489",
+  "en": "Inferior orbital fissure",
+  "la": "Fissura orbitalis inferior"
+ },
+ "Inferior petrosal sinus": {
+  "ta2Id": "4858",
+  "zanatomyId": "4858",
+  "en": "Inferior petrosal sinus",
+  "la": "Sinus petrosus inferior"
+ },
+ "Inferior pharyngeal constrictor": {
+  "ta2Id": "2187",
+  "zanatomyId": "2187",
+  "en": "Inferior pharyngeal constrictor",
+  "la": "Constrictor inferior pharyngis"
+ },
+ "Inferior rectus muscle": {
+  "ta2Id": "2043",
+  "zanatomyId": "2043",
+  "en": "Inferior rectus muscle",
+  "la": "Musculus rectus inferior"
+ },
+ "Inferior sagittal sinus": {
+  "ta2Id": "4854",
+  "zanatomyId": "4854",
+  "en": "Inferior sagittal sinus",
+  "la": "Sinus sagittalis inferior"
+ },
+ "Infra-auricular nodes": {
+  "ta2Id": "5204",
+  "zanatomyId": "5204",
+  "en": "Infra-auricular nodes",
+  "la": "Nodi infraauriculares"
+ },
+ "Infra-orbital artery": {
+  "ta2Id": "4447",
+  "zanatomyId": "4447",
+  "en": "Infra-orbital artery",
+  "la": "Arteria infraorbitalis"
+ },
+ "Infra-orbital canal": {
+  "ta2Id": "759",
+  "zanatomyId": "759",
+  "en": "Infra-orbital canal",
+  "la": "Canalis infraorbitalis"
+ },
+ "Infra-orbital foramen": {
+  "ta2Id": "763",
+  "zanatomyId": "763",
+  "en": "Infra-orbital foramen",
+  "la": "Foramen infraorbitale"
+ },
+ "Infra-orbital groove": {
+  "ta2Id": "760",
+  "zanatomyId": "760",
+  "en": "Infra-orbital groove",
+  "la": "Sulcus infraorbitalis"
+ },
+ "Infra-orbital nerve": {
+  "ta2Id": "6239",
+  "zanatomyId": "6239",
+  "en": "Infra-orbital nerve",
+  "la": "Nervus infraorbitalis"
+ },
+ "Infratemporal fossa": {
+  "ta2Id": "428",
+  "zanatomyId": "428",
+  "en": "Infratemporal fossa",
+  "la": "Fossa infratemporalis"
+ },
+ "Intermediate tendon of digastric muscle": {
+  "ta2Id": "2162",
+  "zanatomyId": "2162",
+  "en": "Intermediate tendon of digastric muscle",
+  "la": "Tendo intermedius musculi digastrici"
+ },
+ "Internal acoustic meatus": {
+  "ta2Id": "671",
+  "zanatomyId": "671",
+  "en": "Internal acoustic meatus",
+  "la": "Meatus acusticus internus"
+ },
+ "Internal carotid artery": {
+  "ta2Id": "4463",
+  "zanatomyId": "4463",
+  "en": "Internal carotid artery",
+  "la": "Carotis interna"
+ },
+ "Internal jugular vein": {
+  "ta2Id": "4800",
+  "zanatomyId": "4800",
+  "en": "Internal jugular vein",
+  "la": "Vena jugularis interna"
+ },
+ "Intraglandular parotid nodes": {
+  "ta2Id": "5205",
+  "zanatomyId": "5205",
+  "en": "Intraglandular parotid nodes",
+  "la": "Nodi parotidei intraglandulares"
+ },
+ "Jugular foramen": {
+  "ta2Id": "458",
+  "zanatomyId": "458",
+  "en": "Jugular foramen",
+  "la": "Foramen jugulare"
+ },
+ "Jugulodigastric node": {
+  "ta2Id": "5226",
+  "zanatomyId": "5226",
+  "en": "Jugulodigastric node",
+  "la": "Nodus jugulodigastricus"
+ },
+ "Lacrimal artery": {
+  "ta2Id": "4476",
+  "zanatomyId": "4476",
+  "en": "Lacrimal artery",
+  "la": "Arteria lacrimalis"
+ },
+ "Lacrimal bone": {
+  "ta2Id": "744",
+  "zanatomyId": "744",
+  "en": "Lacrimal bone",
+  "la": "Os lacrimale"
+ },
+ "Laryngopharynx": {
+  "ta2Id": "2879",
+  "zanatomyId": "2879",
+  "en": "Laryngopharynx",
+  "la": "Pars laryngea pharyngis"
+ },
+ "Lateral crico-arytenoid muscle": {
+  "ta2Id": "2198",
+  "zanatomyId": "2198",
+  "en": "Lateral crico-arytenoid muscle",
+  "la": "Musculus cricoarytendoideus lateralis"
+ },
+ "Lateral process of nasal septal cartilage": {
+  "ta2Id": "947",
+  "zanatomyId": "947",
+  "en": "Lateral process of nasal septal cartilage",
+  "la": "Processus lateralis cartilaginis septi nasi"
+ },
+ "Lateral pterygoid muscle": {
+  "ta2Id": "2109",
+  "zanatomyId": "2109",
+  "en": "Lateral pterygoid muscle",
+  "la": "Musculus pterygoideus lateralis"
+ },
+ "Lateral rectus muscle": {
+  "ta2Id": "2045",
+  "zanatomyId": "2045",
+  "en": "Lateral rectus muscle",
+  "la": "Musculus rectus lateralis bulbi oculi"
+ },
+ "Lateral superior jugular node": {
+  "ta2Id": "5227",
+  "zanatomyId": "5227",
+  "en": "Lateral superior jugular node",
+  "la": "Nodus jugularis superior lateralis"
+ },
+ "Lateral temporomandibular ligament": {
+  "ta2Id": "1624",
+  "zanatomyId": "1624",
+  "en": "Lateral temporomandibular ligament",
+  "la": "Ligamentum temporomandibulare laterale"
+ },
+ "Lateral thyrohyoid ligament": {
+  "ta2Id": "1653",
+  "zanatomyId": "1653",
+  "en": "Lateral thyrohyoid ligament",
+  "la": "Ligamentum thyreohyoideum laterale"
+ },
+ "Left common carotid artery": {
+  "ta2Id": "4183",
+  "zanatomyId": "4183",
+  "en": "Left common carotid artery",
+  "la": "Carotis communis sinistra"
+ },
+ "Lesser palatine foramina": {
+  "ta2Id": "814",
+  "zanatomyId": "814",
+  "en": "Lesser palatine foramina",
+  "la": "Foramina palatina minora"
+ },
+ "Lesser palatine nerves": {
+  "ta2Id": "6227",
+  "zanatomyId": "6227",
+  "en": "Lesser palatine nerves",
+  "la": "Nervi palatini minores"
+ },
+ "Levator anguli oris": {
+  "ta2Id": "2084",
+  "zanatomyId": "2084",
+  "en": "Levator anguli oris",
+  "la": "Levator anguli oris"
+ },
+ "Levator labii superioris": {
+  "ta2Id": "2081",
+  "zanatomyId": "2081",
+  "en": "Levator labii superioris",
+  "la": "Levator labii superioris"
+ },
+ "Levator nasolabialis": {
+  "ta2Id": "2082",
+  "zanatomyId": "2082",
+  "en": "Levator nasolabialis",
+  "la": "Levator nasolabialis"
+ },
+ "Levator palpebrae superioris": {
+  "ta2Id": "2052",
+  "zanatomyId": "2052",
+  "en": "Levator palpebrae superioris",
+  "la": "Levator palpebrae superioris"
+ },
+ "Levator scapulae": {
+  "ta2Id": "2234",
+  "zanatomyId": "2234",
+  "en": "Levator scapulae",
+  "la": "Levator scapulae"
+ },
+ "Levator veli palatini": {
+  "ta2Id": "2128",
+  "zanatomyId": "2128",
+  "en": "Levator veli palatini",
+  "la": "Levator veli palatini"
+ },
+ "Lingual artery": {
+  "ta2Id": "4383",
+  "zanatomyId": "4383",
+  "en": "Lingual artery",
+  "la": "Arteria lingualis"
+ },
+ "Lingual nerve": {
+  "ta2Id": "6267",
+  "zanatomyId": "6267",
+  "en": "Lingual nerve",
+  "la": "Nervus lingualis"
+ },
+ "Lingual papillae": {
+  "ta2Id": "2837",
+  "zanatomyId": "2837",
+  "en": "Lingual papillae",
+  "la": "Papillae linguales"
+ },
+ "Lingual vein": {
+  "ta2Id": "4807",
+  "zanatomyId": "4807",
+  "en": "Lingual vein",
+  "la": "Vena lingualis"
+ },
+ "Lingula of mandible": {
+  "ta2Id": "866",
+  "zanatomyId": "866",
+  "en": "Lingula of mandible",
+  "la": "Lingula mandibulae"
+ },
+ "Long posterior ciliary arteries": {
+  "ta2Id": "4481",
+  "zanatomyId": "4481",
+  "en": "Long posterior ciliary arteries",
+  "la": "Arteriae ciliares posteriores longae"
+ },
+ "Longissimus capitis muscle": {
+  "ta2Id": "2266",
+  "zanatomyId": "2266",
+  "en": "Longissimus capitis muscle",
+  "la": "Musculus longissimus capitis"
+ },
+ "Longissimus colli muscle": {
+  "ta2Id": "2265",
+  "zanatomyId": "2265",
+  "en": "Longissimus colli muscle",
+  "la": "Musculus longissimus colli"
+ },
+ "Longus capitis muscle": {
+  "ta2Id": "2149",
+  "zanatomyId": "2149",
+  "en": "Longus capitis muscle",
+  "la": "Musculus longus capitis"
+ },
+ "Longus colli muscle": {
+  "ta2Id": "2148",
+  "zanatomyId": "2148",
+  "en": "Longus colli muscle",
+  "la": "Musculus longus colli"
+ },
+ "Lower canine": {
+  "ta2Id": "907",
+  "zanatomyId": "907*33",
+  "en": "Lower canine",
+  "la": "Dens caninus inferioris"
+ },
+ "Lower first molar tooth": {
+  "ta2Id": "910",
+  "zanatomyId": "910*36",
+  "en": "Lower first molar tooth",
+  "la": "Dens molaris primus inferioris"
+ },
+ "Lower first premolar": {
+  "ta2Id": "909",
+  "zanatomyId": "909*34",
+  "en": "Lower first premolar",
+  "la": "Dens premolaris primus inferioris"
+ },
+ "Lower lateral incisor": {
+  "ta2Id": "906",
+  "zanatomyId": "906*32",
+  "en": "Lower lateral incisor",
+  "la": "Dens incisivus lateralis inferioris"
+ },
+ "Lower medial incisor": {
+  "ta2Id": "906",
+  "zanatomyId": "906*31",
+  "en": "Lower medial incisor",
+  "la": "Dens incisivus medialis inferioris"
+ },
+ "Lower second molar tooth": {
+  "ta2Id": "910",
+  "zanatomyId": "910*37",
+  "en": "Lower second molar tooth",
+  "la": "Dens molaris secundus inferioris"
+ },
+ "Lower second premolar": {
+  "ta2Id": "909",
+  "zanatomyId": "909*35",
+  "en": "Lower second premolar",
+  "la": "Dens premolaris secundus inferioris"
+ },
+ "Major alar cartilage": {
+  "ta2Id": "940",
+  "zanatomyId": "940",
+  "en": "Major alar cartilage",
+  "la": "Cartilago alaris major"
+ },
+ "Malleus": {
+  "ta2Id": "881",
+  "zanatomyId": "881",
+  "en": "Malleus",
+  "la": "Malleus"
+ },
+ "Mandible": {
+  "ta2Id": "835",
+  "zanatomyId": "835",
+  "en": "Mandible",
+  "la": "Mandibula"
+ },
+ "Mandibular canal": {
+  "ta2Id": "867",
+  "zanatomyId": "867",
+  "en": "Mandibular canal",
+  "la": "Canalis mandibulae"
+ },
+ "Mandibular fossa": {
+  "ta2Id": "712",
+  "zanatomyId": "712",
+  "en": "Mandibular fossa",
+  "la": "Fossa mandibularis"
+ },
+ "Mandibular nerve": {
+  "ta2Id": "6246",
+  "zanatomyId": "6246",
+  "en": "Mandibular nerve",
+  "la": "Nervus mandibularis"
+ },
+ "Mandibular node": {
+  "ta2Id": "5210",
+  "zanatomyId": "5210",
+  "en": "Mandibular node",
+  "la": "Nodus mandibularis"
+ },
+ "Mandibular notch": {
+  "ta2Id": "871",
+  "zanatomyId": "871",
+  "en": "Mandibular notch",
+  "la": "Incisura mandibulae"
+ },
+ "Masseter": {
+  "ta2Id": "2105",
+  "zanatomyId": "2105",
+  "en": "Masseter",
+  "la": "Masseter"
+ },
+ "Masseteric nerve": {
+  "ta2Id": "6253",
+  "zanatomyId": "6253",
+  "en": "Masseteric nerve",
+  "la": "Nervus massetericus"
+ },
+ "Mastoid nodes": {
+  "ta2Id": "5200",
+  "zanatomyId": "5200",
+  "en": "Mastoid nodes",
+  "la": "Nodi mastoidei"
+ },
+ "Mastoid process": {
+  "ta2Id": "644",
+  "zanatomyId": "644",
+  "en": "Mastoid process",
+  "la": "Processus mastoideus"
+ },
+ "Maxilla": {
+  "ta2Id": "756",
+  "zanatomyId": "756",
+  "en": "Maxilla",
+  "la": "Maxilla"
+ },
+ "Maxillary artery": {
+  "ta2Id": "4422",
+  "zanatomyId": "4422",
+  "en": "Maxillary artery",
+  "la": "Arteria maxillaris"
+ },
+ "Maxillary nerve": {
+  "ta2Id": "6216",
+  "zanatomyId": "6216",
+  "en": "Maxillary nerve",
+  "la": "Nervus maxillaris"
+ },
+ "Maxillary sinus": {
+  "ta2Id": "3177",
+  "zanatomyId": "3177",
+  "en": "Maxillary sinus",
+  "la": "Sinus maxillaris"
+ },
+ "Maxillary tuberosity": {
+  "ta2Id": "773",
+  "zanatomyId": "773",
+  "en": "Maxillary tuberosity",
+  "la": "Tuber maxillae"
+ },
+ "Maxillary veins": {
+  "ta2Id": "4835",
+  "zanatomyId": "4835",
+  "en": "Maxillary veins",
+  "la": "Venae maxillares"
+ },
+ "Medial pterygoid muscle": {
+  "ta2Id": "2113",
+  "zanatomyId": "2113",
+  "en": "Medial pterygoid muscle",
+  "la": "Musculus pterygoideus medialis"
+ },
+ "Medial rectus muscle": {
+  "ta2Id": "2044",
+  "zanatomyId": "2044",
+  "en": "Medial rectus muscle",
+  "la": "Musculus rectus medialis"
+ },
+ "Median cricothyroid ligament": {
+  "ta2Id": "1662",
+  "zanatomyId": "1662",
+  "en": "Median cricothyroid ligament",
+  "la": "Ligamentum cricothyreoideum medianum"
+ },
+ "Median thyrohyoid ligament": {
+  "ta2Id": "1652",
+  "zanatomyId": "1652",
+  "en": "Median thyrohyoid ligament",
+  "la": "Ligamentum thyreohyoideum medianum"
+ },
+ "Meningeal branch of maxillary nerve": {
+  "ta2Id": "6217",
+  "zanatomyId": "6217",
+  "en": "Meningeal branch of maxillary nerve",
+  "la": "Ramus meningeus nervi maxillaris"
+ },
+ "Mental branch of inferior alveolar artery": {
+  "ta2Id": "4430",
+  "zanatomyId": "4430",
+  "en": "Mental branch of inferior alveolar artery",
+  "la": "Ramus mentalis arteriae alveolaris inferioris"
+ },
+ "Mental foramen": {
+  "ta2Id": "845",
+  "zanatomyId": "845",
+  "en": "Mental foramen",
+  "la": "Foramen mentale"
+ },
+ "Mental nerve": {
+  "ta2Id": "6279",
+  "zanatomyId": "6279",
+  "en": "Mental nerve",
+  "la": "Nervus mentalis"
+ },
+ "Mental protuberance": {
+  "ta2Id": "840",
+  "zanatomyId": "840",
+  "en": "Mental protuberance",
+  "la": "Protuberantia mentalis"
+ },
+ "Mentalis muscle": {
+  "ta2Id": "2087",
+  "zanatomyId": "2087",
+  "en": "Mentalis muscle",
+  "la": "Musculus mentalis"
+ },
+ "Middle cells of ethmoid bone": {
+  "ta2Id": "730",
+  "zanatomyId": "730",
+  "en": "Middle cells of ethmoid bone",
+  "la": "Cellulae mediae ossis ethmoidei"
+ },
+ "Middle meningeal artery": {
+  "ta2Id": "4431",
+  "zanatomyId": "4431",
+  "en": "Middle meningeal artery",
+  "la": "Arteria meningea media"
+ },
+ "Middle pharyngeal constrictor": {
+  "ta2Id": "2184",
+  "zanatomyId": "2184",
+  "en": "Middle pharyngeal constrictor",
+  "la": "Constrictor medius pharyngis"
+ },
+ "Motor root of trigeminal nerve": {
+  "ta2Id": "6195",
+  "zanatomyId": "6195",
+  "en": "Motor root of trigeminal nerve",
+  "la": "Radix motoria nervi trigemini"
+ },
+ "Mucosa of nasal cavity": {
+  "ta2Id": "3158",
+  "zanatomyId": "3158",
+  "en": "Mucosa of nasal cavity",
+  "la": "Tunica mucosa nasi"
+ },
+ "Musculus uvulae": {
+  "ta2Id": "2130",
+  "zanatomyId": "2130",
+  "en": "Musculus uvulae",
+  "la": "Musculus uvulae"
+ },
+ "Mylohyoid branch of inferior alveolar artery": {
+  "ta2Id": "4427",
+  "zanatomyId": "4427",
+  "en": "Mylohyoid branch of inferior alveolar artery",
+  "la": "Ramus mylohyoideus arteriae alveolaris inferioris"
+ },
+ "Mylohyoid line": {
+  "ta2Id": "848",
+  "zanatomyId": "848",
+  "en": "Mylohyoid line",
+  "la": "Linea mylohyoidea"
+ },
+ "Mylohyoid muscle": {
+  "ta2Id": "2165",
+  "zanatomyId": "2165",
+  "en": "Mylohyoid muscle",
+  "la": "Musculus mylohyoideus"
+ },
+ "Nasal bone": {
+  "ta2Id": "748",
+  "zanatomyId": "748",
+  "en": "Nasal bone",
+  "la": "Os nasale"
+ },
+ "Nasal septal cartilage": {
+  "ta2Id": "946",
+  "zanatomyId": "946",
+  "en": "Nasal septal cartilage",
+  "la": "Cartilago septi nasi"
+ },
+ "Nasalis muscle": {
+  "ta2Id": "2062",
+  "zanatomyId": "2062",
+  "en": "Nasalis muscle",
+  "la": "Musculus nasalis"
+ },
+ "Nasolabial node": {
+  "ta2Id": "5208",
+  "zanatomyId": "5208",
+  "en": "Nasolabial node",
+  "la": "Nodus nasolabialis"
+ },
+ "Nasolacrimal canal": {
+  "ta2Id": "490",
+  "zanatomyId": "490",
+  "en": "Nasolacrimal canal",
+  "la": "Canalis nasolacrimalis"
+ },
+ "Nasopalatine nerve": {
+  "ta2Id": "6221",
+  "zanatomyId": "6221",
+  "en": "Nasopalatine nerve",
+  "la": "Nervus nasopalatinus"
+ },
+ "Nasopharynx": {
+  "ta2Id": "2862",
+  "zanatomyId": "2862",
+  "en": "Nasopharynx",
+  "la": "Pars nasalis pharyngis"
+ },
+ "Nerve to mylohyoid muscle": {
+  "ta2Id": "6275",
+  "zanatomyId": "6275",
+  "en": "Nerve to mylohyoid muscle",
+  "la": "Nervus mylohyoideus"
+ },
+ "Nuchal ligament": {
+  "ta2Id": "1678",
+  "zanatomyId": "1678",
+  "en": "Nuchal ligament",
+  "la": "Ligamentum nuchae"
+ },
+ "Obliquus inferior capitis muscle": {
+  "ta2Id": "2252",
+  "zanatomyId": "2252",
+  "en": "Obliquus inferior capitis muscle",
+  "la": "Musculus obliquus inferior capitis"
+ },
+ "Obliquus superior capitis muscle": {
+  "ta2Id": "2251",
+  "zanatomyId": "2251",
+  "en": "Obliquus superior capitis muscle",
+  "la": "Musculus obliquus superior capitis"
+ },
+ "Occipital artery": {
+  "ta2Id": "4398",
+  "zanatomyId": "4398",
+  "en": "Occipital artery",
+  "la": "Arteria occipitalis"
+ },
+ "Occipital bone": {
+  "ta2Id": "552",
+  "zanatomyId": "552",
+  "en": "Occipital bone",
+  "la": "Os occipitale"
+ },
+ "Occipital nodes": {
+  "ta2Id": "5199",
+  "zanatomyId": "5199",
+  "en": "Occipital nodes",
+  "la": "Nodi occipitales"
+ },
+ "Occipital sinus": {
+  "ta2Id": "4855",
+  "zanatomyId": "4855",
+  "en": "Occipital sinus",
+  "la": "Sinus occipitalis"
+ },
+ "Occipital vein": {
+  "ta2Id": "4781",
+  "zanatomyId": "4781",
+  "en": "Occipital vein",
+  "la": "Vena occipitalis"
+ },
+ "Occipitalis muscle": {
+  "ta2Id": "2057",
+  "zanatomyId": "2057",
+  "en": "Occipitalis muscle",
+  "la": "Musculus occipitalis"
+ },
+ "Oculomotor nerve (III)": {
+  "ta2Id": "6187",
+  "zanatomyId": "6187",
+  "en": "Oculomotor nerve (III)",
+  "la": "Nervus oculomotorius (III)"
+ },
+ "Olfactory nerve (I)": {
+  "ta2Id": "6181",
+  "zanatomyId": "6181",
+  "en": "Olfactory nerve (I)",
+  "la": "Nervus olfactorius (I)"
+ },
+ "Omohyoid muscle": {
+  "ta2Id": "2169",
+  "zanatomyId": "2169",
+  "en": "Omohyoid muscle",
+  "la": "Musculus omohyoideus"
+ },
+ "Ophthalmic artery": {
+  "ta2Id": "4469",
+  "zanatomyId": "4469",
+  "en": "Ophthalmic artery",
+  "la": "Arteria ophthalmica"
+ },
+ "Ophthalmic nerve": {
+  "ta2Id": "6196",
+  "zanatomyId": "6196",
+  "en": "Ophthalmic nerve",
+  "la": "Nervus ophthalmicus"
+ },
+ "Optic canal": {
+  "ta2Id": "605",
+  "zanatomyId": "605",
+  "en": "Optic canal",
+  "la": "Canalis opticus"
+ },
+ "Optic nerve (II)": {
+  "ta2Id": "6183",
+  "zanatomyId": "6183",
+  "en": "Optic nerve (II)",
+  "la": "Nervus opticus (II)"
+ },
+ "Oral cavity": {
+  "ta2Id": "2794",
+  "zanatomyId": "2794",
+  "en": "Oral cavity",
+  "la": "Cavitas oris"
+ },
+ "Orbicularis oculi muscle": {
+  "ta2Id": "2066",
+  "zanatomyId": "2066",
+  "en": "Orbicularis oculi muscle",
+  "la": "Musculus orbicularis oculi"
+ },
+ "Orbicularis oris muscle": {
+  "ta2Id": "2073",
+  "zanatomyId": "2073",
+  "en": "Orbicularis oris muscle",
+  "la": "Musculus orbicularis oris"
+ },
+ "Orbital part of orbicularis oculi": {
+  "ta2Id": "2070",
+  "zanatomyId": "2070",
+  "en": "Orbital part of orbicularis oculi",
+  "la": "Pars orbitalis musculi orbicularis oculi"
+ },
+ "Oropharynx": {
+  "ta2Id": "2875",
+  "zanatomyId": "2875",
+  "en": "Oropharynx",
+  "la": "Pars oralis pharyngis"
+ },
+ "Palate": {
+  "ta2Id": "2778",
+  "zanatomyId": "2778",
+  "en": "Palate",
+  "la": "Palatum"
+ },
+ "Palatine bone": {
+  "ta2Id": "798",
+  "zanatomyId": "798",
+  "en": "Palatine bone",
+  "la": "Os palatinum"
+ },
+ "Palatine tonsil": {
+  "ta2Id": "2853",
+  "zanatomyId": "2853",
+  "en": "Palatine tonsil",
+  "la": "Tonsilla palatina"
+ },
+ "Palatoglossus muscle": {
+  "ta2Id": "2131",
+  "zanatomyId": "2131",
+  "en": "Palatoglossus muscle",
+  "la": "Musculus palatoglossus"
+ },
+ "Palatopharyngeus muscle": {
+  "ta2Id": "2132",
+  "zanatomyId": "2132",
+  "en": "Palatopharyngeus muscle",
+  "la": "Musculus palatopharyngeus"
+ },
+ "Palpebral part of orbicularis oculi": {
+  "ta2Id": "2067",
+  "zanatomyId": "2067",
+  "en": "Palpebral part of orbicularis oculi",
+  "la": "Pars palpebralis musculi orbicularis oculi"
+ },
+ "Parietal bone": {
+  "ta2Id": "504",
+  "zanatomyId": "504",
+  "en": "Parietal bone",
+  "la": "Os parietale"
+ },
+ "Parotid duct": {
+  "ta2Id": "2805",
+  "zanatomyId": "2805",
+  "en": "Parotid duct",
+  "la": "Ductus parotideus"
+ },
+ "Parotid gland": {
+  "ta2Id": "2800",
+  "zanatomyId": "2800",
+  "en": "Parotid gland",
+  "la": "Glandula parotidea"
+ },
+ "Periodontium": {
+  "ta2Id": "2819",
+  "zanatomyId": "2819",
+  "en": "Periodontium",
+  "la": "Periodontium"
+ },
+ "Permanent teeth": {
+  "ta2Id": "913",
+  "zanatomyId": "913",
+  "en": "Permanent teeth",
+  "la": "Dentes permanentes"
+ },
+ "Platysma": {
+  "ta2Id": "2147",
+  "zanatomyId": "2147",
+  "en": "Platysma",
+  "la": "Platysma"
+ },
+ "Posterior auricular artery": {
+  "ta2Id": "4405",
+  "zanatomyId": "4405",
+  "en": "Posterior auricular artery",
+  "la": "Arteria auricularis posterior"
+ },
+ "Posterior auricular vein": {
+  "ta2Id": "4958",
+  "zanatomyId": "4958",
+  "en": "Posterior auricular vein",
+  "la": "Vena auricularis posterior"
+ },
+ "Posterior belly of digastric muscle": {
+  "ta2Id": "2163",
+  "zanatomyId": "2163",
+  "en": "Posterior belly of digastric muscle",
+  "la": "Venter posterior musculi digastrici"
+ },
+ "Posterior cells of ethmoid bone": {
+  "ta2Id": "731",
+  "zanatomyId": "731",
+  "en": "Posterior cells of ethmoid bone",
+  "la": "Cellulae posteriores ossis ethmoidei"
+ },
+ "Posterior crico-arytenoid muscle": {
+  "ta2Id": "2196",
+  "zanatomyId": "2196",
+  "en": "Posterior crico-arytenoid muscle",
+  "la": "Musculus cricoarytenoideus posterior"
+ },
+ "Posterior deep temporal artery": {
+  "ta2Id": "4441",
+  "zanatomyId": "4441",
+  "en": "Posterior deep temporal artery",
+  "la": "Arteria temporalis profunda posterior"
+ },
+ "Posterior division of mandibular nerve": {
+  "ta2Id": "6260",
+  "zanatomyId": "6260",
+  "en": "Posterior division of mandibular nerve",
+  "la": "Divisio posterior nervi mandibularis"
+ },
+ "Posterior division of retromandibular vein": {
+  "ta2Id": "4957",
+  "zanatomyId": "4957",
+  "en": "Posterior division of retromandibular vein",
+  "la": "Divisio posterior venae retromandibularis"
+ },
+ "Posterior ethmoidal artery": {
+  "ta2Id": "4492",
+  "zanatomyId": "4492",
+  "en": "Posterior ethmoidal artery",
+  "la": "Arteria ethmoidea posterior"
+ },
+ "Posterior intercavernous sinus": {
+  "ta2Id": "4864",
+  "zanatomyId": "4864",
+  "en": "Posterior intercavernous sinus",
+  "la": "Sinus intercavernosus posterior"
+ },
+ "Posterior lateral nasal branches of sphenopalatine artery.": {
+  "ta2Id": "4461",
+  "zanatomyId": "4461",
+  "en": "Posterior lateral nasal branches of sphenopalatine artery",
+  "la": "Rami nasales latérales posteriores arteriae sphenopalatinae"
+ },
+ "Posterior septal branches of sphenopalatine artery": {
+  "ta2Id": "4462",
+  "zanatomyId": "4462",
+  "en": "Posterior septal branches of sphenopalatine artery",
+  "la": "Rami septales posteriores arteriae sphenopalatinae"
+ },
+ "Posterior superior alveolar artery": {
+  "ta2Id": "4444",
+  "zanatomyId": "4444",
+  "en": "Posterior superior alveolar artery",
+  "la": "Arteria alveolaris superior posterior"
+ },
+ "Posterior superior alveolar foramina": {
+  "ta2Id": "769",
+  "zanatomyId": "769",
+  "en": "Posterior superior alveolar foramina",
+  "la": "Foramina alveolaria superiora posteriora"
+ },
+ "Pre-auricular nodes": {
+  "ta2Id": "5203",
+  "zanatomyId": "5203",
+  "en": "Pre-auricular nodes",
+  "la": "Nodi preauriculares"
+ },
+ "Procerus muscle": {
+  "ta2Id": "2061",
+  "zanatomyId": "2061",
+  "en": "Procerus muscle",
+  "la": "Musculus procerus"
+ },
+ "Pterygoid canal": {
+  "ta2Id": "639",
+  "zanatomyId": "639",
+  "en": "Pterygoid canal",
+  "la": "Canalis pterygoideus"
+ },
+ "Pterygoid hamulus": {
+  "ta2Id": "637",
+  "zanatomyId": "637",
+  "en": "Pterygoid hamulus",
+  "la": "Hamulus pterygoideus"
+ },
+ "Pterygoid venous plexus": {
+  "ta2Id": "4836",
+  "zanatomyId": "4836",
+  "en": "Pterygoid venous plexus",
+  "la": "Plexus venosus pterygoideus"
+ },
+ "Pterygomandibular raphe": {
+  "ta2Id": "2178",
+  "zanatomyId": "2178",
+  "en": "Pterygomandibular raphe",
+  "la": "Raphe pterygomandibularis"
+ },
+ "Pterygopalatine fossa": {
+  "ta2Id": "429",
+  "zanatomyId": "429",
+  "en": "Pterygopalatine fossa",
+  "la": "Fossa pterygopalatina"
+ },
+ "Pterygospinous ligament": {
+  "ta2Id": "1566",
+  "zanatomyId": "1566",
+  "en": "Pterygospinous ligament",
+  "la": "Ligamentum pterygospinale"
+ },
+ "Quadrangular membrane": {
+  "ta2Id": "1658",
+  "zanatomyId": "1658",
+  "en": "Quadrangular membrane",
+  "la": "Membrana quadrangularis"
+ },
+ "Ramus of mandible": {
+  "ta2Id": "860",
+  "zanatomyId": "860",
+  "en": "Ramus of mandible",
+  "la": "Ramus mandibulae"
+ },
+ "Rectus anterior capitis muscle": {
+  "ta2Id": "2150",
+  "zanatomyId": "2150",
+  "en": "Rectus anterior capitis muscle",
+  "la": "Musculus rectus anterior capitis"
+ },
+ "Rectus lateralis capitis muscle": {
+  "ta2Id": "2151",
+  "zanatomyId": "2151",
+  "en": "Rectus lateralis capitis muscle",
+  "la": "Musculus rectus lateralis capitis"
+ },
+ "Rectus posterior major capitis muscle": {
+  "ta2Id": "2249",
+  "zanatomyId": "2249",
+  "en": "Rectus posterior major capitis muscle",
+  "la": "Musculus rectus posterior major capitis"
+ },
+ "Rectus posterior minor capitis muscle": {
+  "ta2Id": "2250",
+  "zanatomyId": "2250",
+  "en": "Rectus posterior minor capitis muscle",
+  "la": "Musculus rectus posterior minor capitis"
+ },
+ "Retromandibular vein": {
+  "ta2Id": "4831",
+  "zanatomyId": "4831",
+  "en": "Retromandibular vein",
+  "la": "Vena retromandibularis"
+ },
+ "Retropharyngeal nodes": {
+  "ta2Id": "5234",
+  "zanatomyId": "5234",
+  "en": "Retropharyngeal nodes",
+  "la": "Nodi retropharyngei"
+ },
+ "Right common carotid artery": {
+  "ta2Id": "4181",
+  "zanatomyId": "4181",
+  "en": "Right common carotid artery",
+  "la": "Carotis communis dextra"
+ },
+ "Risorius muscle": {
+  "ta2Id": "2078",
+  "zanatomyId": "2078",
+  "en": "Risorius muscle",
+  "la": "Musculus risorius"
+ },
+ "Root of tooth": {
+  "ta2Id": "927",
+  "zanatomyId": "927",
+  "en": "Root of tooth",
+  "la": "Radix dentis"
+ },
+ "Scalenus anterior muscle": {
+  "ta2Id": "2152",
+  "zanatomyId": "2152",
+  "en": "Scalenus anterior muscle",
+  "la": "Musculus scalenus anterior"
+ },
+ "Scalenus medius muscle": {
+  "ta2Id": "2153",
+  "zanatomyId": "2153",
+  "en": "Scalenus medius muscle",
+  "la": "Musculus scalenus medius"
+ },
+ "Scalenus posterior muscle": {
+  "ta2Id": "2154",
+  "zanatomyId": "2154",
+  "en": "Scalenus posterior muscle",
+  "la": "Musculus scalenus posterior"
+ },
+ "Sensory root of trigeminal nerve": {
+  "ta2Id": "6193",
+  "zanatomyId": "6193",
+  "en": "Sensory root of trigeminal nerve",
+  "la": "Radix sensoria nervi trigemini"
+ },
+ "Septal branches of posterior ethmoidal artery": {
+  "ta2Id": "4494",
+  "zanatomyId": "4494",
+  "en": "Septal branches of posterior ethmoidal artery",
+  "la": "Rami septales arteriae ethmoideae posterioris"
+ },
+ "Short posterior ciliary arteries": {
+  "ta2Id": "4479",
+  "zanatomyId": "4479",
+  "en": "Short posterior ciliary arteries",
+  "la": "Arteriae ciliares posteriores breves"
+ },
+ "Sigmoid sinus": {
+  "ta2Id": "4847",
+  "zanatomyId": "4847",
+  "en": "Sigmoid sinus",
+  "la": "Sinus sigmoideus"
+ },
+ "Sinus of frontal bone": {
+  "ta2Id": "549",
+  "zanatomyId": "549",
+  "en": "Sinus of frontal bone",
+  "la": "Sinus ossis frontalis"
+ },
+ "Sinus of sphenoid bone": {
+  "ta2Id": "600",
+  "zanatomyId": "600",
+  "en": "Sinus of sphenoid bone",
+  "la": "Sinus ossis sphenoidei"
+ },
+ "Soft palate": {
+  "ta2Id": "2780",
+  "zanatomyId": "2780",
+  "en": "Soft palate",
+  "la": "Palatum molle"
+ },
+ "Sphenoid bone": {
+  "ta2Id": "584",
+  "zanatomyId": "584",
+  "en": "Sphenoid bone",
+  "la": "Os sphenoideum"
+ },
+ "Sphenomandibular ligament": {
+  "ta2Id": "1568",
+  "zanatomyId": "1568",
+  "en": "Sphenomandibular ligament",
+  "la": "Ligamentum sphenomandibulare"
+ },
+ "Sphenopalatine artery": {
+  "ta2Id": "4460",
+  "zanatomyId": "4460",
+  "en": "Sphenopalatine artery",
+  "la": "Arteria sphenopalatina"
+ },
+ "Spinalis capitis muscle": {
+  "ta2Id": "2270",
+  "zanatomyId": "2270",
+  "en": "Spinalis capitis muscle",
+  "la": "Musculus spinalis capitis"
+ },
+ "Splenius capitis muscle": {
+  "ta2Id": "2273",
+  "zanatomyId": "2273",
+  "en": "Splenius capitis muscle",
+  "la": "Musculus splenius capitis"
+ },
+ "Splenius colli muscle": {
+  "ta2Id": "2274",
+  "zanatomyId": "2274",
+  "en": "Splenius colli muscle",
+  "la": "Musculus splenius colli"
+ },
+ "Stapes": {
+  "ta2Id": "895",
+  "zanatomyId": "895",
+  "en": "Stapes",
+  "la": "Stapes"
+ },
+ "Sternocleidomastoid muscle": {
+  "ta2Id": "2156",
+  "zanatomyId": "2156",
+  "en": "Sternocleidomastoid muscle",
+  "la": "Musculus sternocleidomastoideus"
+ },
+ "Sternohyoid muscle": {
+  "ta2Id": "2168",
+  "zanatomyId": "2168",
+  "en": "Sternohyoid muscle",
+  "la": "Musculus sternohyoideus"
+ },
+ "Sternothyroid muscle": {
+  "ta2Id": "2173",
+  "zanatomyId": "2173",
+  "en": "Sternothyroid muscle",
+  "la": "Musculus sternothyreoideus"
+ },
+ "Straight part of cricothyroid muscle": {
+  "ta2Id": "2194",
+  "zanatomyId": "2194",
+  "en": "Straight part of cricothyroid muscle",
+  "la": "Pars recta musculi cricothyreoidei"
+ },
+ "Straight sinus": {
+  "ta2Id": "4853",
+  "zanatomyId": "4853",
+  "en": "Straight sinus",
+  "la": "Sinus rectus"
+ },
+ "Styloglossus muscle": {
+  "ta2Id": "2121",
+  "zanatomyId": "2121",
+  "en": "Styloglossus muscle",
+  "la": "Musculus styloglossus"
+ },
+ "Stylohyoid ligament": {
+  "ta2Id": "1567",
+  "zanatomyId": "1567",
+  "en": "Stylohyoid ligament",
+  "la": "Ligamentum stylohyoideum"
+ },
+ "Stylohyoid muscle": {
+  "ta2Id": "2164",
+  "zanatomyId": "2164",
+  "en": "Stylohyoid muscle",
+  "la": "Musculus stylohyoideus"
+ },
+ "Styloid process of temporal bone": {
+  "ta2Id": "683",
+  "zanatomyId": "683",
+  "en": "Styloid process of temporal bone",
+  "la": "Processus styloideus ossis temporalis"
+ },
+ "Stylomandibular ligament": {
+  "ta2Id": "1569",
+  "zanatomyId": "1569",
+  "en": "Stylomandibular ligament",
+  "la": "Ligamentum stylomandibulare"
+ },
+ "Stylomastoid foramen": {
+  "ta2Id": "684",
+  "zanatomyId": "684",
+  "en": "Stylomastoid foramen",
+  "la": "Foramen stylomastoideum"
+ },
+ "Stylopharyngeus muscle": {
+  "ta2Id": "2190",
+  "zanatomyId": "2190",
+  "en": "Stylopharyngeus muscle",
+  "la": "Musculus stylopharyngeus"
+ },
+ "Sublingual caruncle": {
+  "ta2Id": "2788",
+  "zanatomyId": "2788",
+  "en": "Sublingual caruncle",
+  "la": "Caruncula sublingualis"
+ },
+ "Sublingual gland": {
+  "ta2Id": "2807",
+  "zanatomyId": "2807",
+  "en": "Sublingual gland",
+  "la": "Glandula sublingualis"
+ },
+ "Submandibular duct": {
+  "ta2Id": "2811",
+  "zanatomyId": "2811",
+  "en": "Submandibular duct",
+  "la": "Ductus submandibularis"
+ },
+ "Submandibular gland": {
+  "ta2Id": "2810",
+  "zanatomyId": "2810",
+  "en": "Submandibular gland",
+  "la": "Glandula submandibularis"
+ },
+ "Submandibular nodes": {
+  "ta2Id": "5214",
+  "zanatomyId": "5214",
+  "en": "Submandibular nodes",
+  "la": "Nodi submandibulares"
+ },
+ "Submandibular triangle": {
+  "ta2Id": "232",
+  "zanatomyId": "232",
+  "en": "Submandibular triangle",
+  "la": "Trigonum submandibulare"
+ },
+ "Submental artery": {
+  "ta2Id": "4391",
+  "zanatomyId": "4391",
+  "en": "Submental artery",
+  "la": "Arteria submentalis"
+ },
+ "Submental nodes": {
+  "ta2Id": "5213",
+  "zanatomyId": "5213",
+  "en": "Submental nodes",
+  "la": "Nodi submentales"
+ },
+ "Submental vein": {
+  "ta2Id": "4829",
+  "zanatomyId": "4829",
+  "en": "Submental vein",
+  "la": "Vena submentalis"
+ },
+ "Superficial lateral cervical nodes": {
+  "ta2Id": "5224",
+  "zanatomyId": "5224",
+  "en": "Superficial lateral cervical nodes",
+  "la": "Nodi cervicales latérales superficiales"
+ },
+ "Superficial parotid nodes": {
+  "ta2Id": "5201",
+  "zanatomyId": "5201",
+  "en": "Superficial parotid nodes",
+  "la": "Nodi parotidei superficiales"
+ },
+ "Superficial part of masseter": {
+  "ta2Id": "2106",
+  "zanatomyId": "2106",
+  "en": "Superficial part of masseter",
+  "la": "Pars superficialis masseteris"
+ },
+ "Superficial temporal artery": {
+  "ta2Id": "4413",
+  "zanatomyId": "4413",
+  "en": "Superficial temporal artery",
+  "la": "Arteria temporalis superficialis"
+ },
+ "Superficial temporal veins": {
+  "ta2Id": "4832",
+  "zanatomyId": "4832",
+  "en": "Superficial temporal veins",
+  "la": "Venae temporales superficiales"
+ },
+ "Superior head of lateral pterygoid muscle": {
+  "ta2Id": "2110",
+  "zanatomyId": "2110",
+  "en": "Superior head of lateral pterygoid muscle",
+  "la": "Caput superius musculi pterygoidei lateralis"
+ },
+ "Superior labial artery": {
+  "ta2Id": "4394",
+  "zanatomyId": "4394",
+  "en": "Superior labial artery",
+  "la": "Arteria labialis superior"
+ },
+ "Superior labial vein": {
+  "ta2Id": "4824",
+  "zanatomyId": "4824",
+  "en": "Superior labial vein",
+  "la": "Vena labialis superior"
+ },
+ "Superior oblique muscle": {
+  "ta2Id": "2048",
+  "zanatomyId": "2048",
+  "en": "Superior oblique muscle",
+  "la": "Musculus obliquus superior bulbi oculi"
+ },
+ "Superior ophthalmic vein": {
+  "ta2Id": "4887",
+  "zanatomyId": "4887",
+  "en": "Superior ophthalmic vein",
+  "la": "Vena ophthalmica superior"
+ },
+ "Superior orbital fissure": {
+  "ta2Id": "488",
+  "zanatomyId": "488",
+  "en": "Superior orbital fissure",
+  "la": "Fissura orbitalis superior"
+ },
+ "Superior parathyroid gland": {
+  "ta2Id": "3871",
+  "zanatomyId": "3871",
+  "en": "Superior parathyroid gland",
+  "la": "Glandula parathyreoidea superior"
+ },
+ "Superior petrosal sinus": {
+  "ta2Id": "4850",
+  "zanatomyId": "4850",
+  "en": "Superior petrosal sinus",
+  "la": "Sinus petrosus superior"
+ },
+ "Superior pharyngeal constrictor": {
+  "ta2Id": "2179",
+  "zanatomyId": "2179",
+  "en": "Superior pharyngeal constrictor",
+  "la": "Constrictor superior pharyngis"
+ },
+ "Superior rectus muscle": {
+  "ta2Id": "2042",
+  "zanatomyId": "2042",
+  "en": "Superior rectus muscle",
+  "la": "Musculus rectus superior"
+ },
+ "Superior sagittal sinus": {
+  "ta2Id": "4856",
+  "zanatomyId": "4856",
+  "en": "Superior sagittal sinus",
+  "la": "Sinus sagittalis superior"
+ },
+ "Superior thyroid artery": {
+  "ta2Id": "4370",
+  "zanatomyId": "4370",
+  "en": "Superior thyroid artery",
+  "la": "Arteria thyreoidea superior arteria thyroidea superior"
+ },
+ "Superior thyroid vein": {
+  "ta2Id": "4812",
+  "zanatomyId": "4812",
+  "en": "Superior thyroid vein",
+  "la": "Vena thyreoidea superior"
+ },
+ "Supra-orbital artery": {
+  "ta2Id": "4486",
+  "zanatomyId": "4486",
+  "en": "Supra-orbital artery",
+  "la": "Arteria supraorbitalis"
+ },
+ "Supra-orbital foramen": {
+  "ta2Id": "527",
+  "zanatomyId": "527",
+  "en": "Supra-orbital foramen",
+  "la": "Foramen supraorbitale"
+ },
+ "Supratrochlear artery": {
+  "ta2Id": "4499",
+  "zanatomyId": "4499",
+  "en": "Supratrochlear artery",
+  "la": "Arteria supratrochlearis"
+ },
+ "Teeth": {
+  "ta2Id": "901",
+  "zanatomyId": "901",
+  "en": "Teeth",
+  "la": "Dentes"
+ },
+ "Temporal bone": {
+  "ta2Id": "641",
+  "zanatomyId": "641",
+  "en": "Temporal bone",
+  "la": "Os temporale"
+ },
+ "Temporalis muscle": {
+  "ta2Id": "2108",
+  "zanatomyId": "2108",
+  "en": "Temporalis muscle",
+  "la": "Musculus temporalis"
+ },
+ "Temporomandibular joint": {
+  "ta2Id": "1622",
+  "zanatomyId": "1622",
+  "en": "Temporomandibular joint",
+  "la": "Articulatio temporomandibularis"
+ },
+ "Temporoparietalis muscle": {
+  "ta2Id": "2058",
+  "zanatomyId": "2058",
+  "en": "Temporoparietalis muscle",
+  "la": "Musculus temporoparietalis"
+ },
+ "Tensor veli palatini": {
+  "ta2Id": "2129",
+  "zanatomyId": "2129",
+  "en": "Tensor veli palatini",
+  "la": "Tensor veli palatini"
+ },
+ "Thyro-arytenoid muscle": {
+  "ta2Id": "2199",
+  "zanatomyId": "2199",
+  "en": "Thyro-arytenoid muscle",
+  "la": "Musculus thyreoarytenoideus"
+ },
+ "Thyro-epiglottic part of thyro-arytenoid muscle": {
+  "ta2Id": "2201",
+  "zanatomyId": "2201",
+  "en": "Thyro-epiglottic part of thyro-arytenoid muscle",
+  "la": "Pars thyreoepiglottica musculi thyreoarytenoidei"
+ },
+ "Thyrohyoid muscle": {
+  "ta2Id": "2174",
+  "zanatomyId": "2174",
+  "en": "Thyrohyoid muscle",
+  "la": "Musculus thyreohyoideus"
+ },
+ "Thyroid cartilage": {
+  "ta2Id": "967",
+  "zanatomyId": "967",
+  "en": "Thyroid cartilage",
+  "la": "Cartilago thyreoidea"
+ },
+ "Thyroid gland": {
+  "ta2Id": "3863",
+  "zanatomyId": "3863",
+  "en": "Thyroid gland",
+  "la": "Glandula thyreoidea"
+ },
+ "Thyroid nodes": {
+  "ta2Id": "5220",
+  "zanatomyId": "5220",
+  "en": "Thyroid nodes",
+  "la": "Nodi thyreoidei"
+ },
+ "Tongue": {
+  "ta2Id": "2820",
+  "zanatomyId": "2820",
+  "en": "Tongue",
+  "la": "Lingua"
+ },
+ "Transverse arytenoid muscle": {
+  "ta2Id": "2205",
+  "zanatomyId": "2205",
+  "en": "Transverse arytenoid muscle",
+  "la": "Musculus arytenoideus transversus"
+ },
+ "Transverse cervical artery": {
+  "ta2Id": "4601",
+  "zanatomyId": "4601",
+  "en": "Transverse cervical artery",
+  "la": "Arteria transversa colli arteria transversa cervicis"
+ },
+ "Transverse facial artery": {
+  "ta2Id": "4416",
+  "zanatomyId": "4416",
+  "en": "Transverse facial artery",
+  "la": "Arteria transversa faciei"
+ },
+ "Transverse sinus": {
+  "ta2Id": "4849",
+  "zanatomyId": "4849",
+  "en": "Transverse sinus",
+  "la": "Sinus transversus"
+ },
+ "Trigeminal ganglion": {
+  "ta2Id": "6194",
+  "zanatomyId": "6194",
+  "en": "Trigeminal ganglion",
+  "la": "Ganglion trigeminale"
+ },
+ "Trigeminal nerve (V)": {
+  "ta2Id": "6192",
+  "zanatomyId": "6192",
+  "en": "Trigeminal nerve (V)",
+  "la": "Nervus trigeminus (V)"
+ },
+ "Trochlea of superior oblique muscle": {
+  "ta2Id": "2049",
+  "zanatomyId": "2049",
+  "en": "Trochlea of superior oblique muscle",
+  "la": "Trochlea musculi obliqui superioris"
+ },
+ "Trochlear nerve (IV)": {
+  "ta2Id": "6191",
+  "zanatomyId": "6191",
+  "en": "Trochlear nerve (IV)",
+  "la": "Nervus trochlearis (IV)"
+ },
+ "Upper canine": {
+  "ta2Id": "907",
+  "zanatomyId": "907*13",
+  "en": "Upper canine",
+  "la": "Dens caninus superioris"
+ },
+ "Upper first molar tooth": {
+  "ta2Id": "910",
+  "zanatomyId": "910*16",
+  "en": "Upper first molar tooth",
+  "la": "Dens molaris primus suprioris"
+ },
+ "Upper first premolar": {
+  "ta2Id": "909",
+  "zanatomyId": "909*14",
+  "en": "Upper first premolar",
+  "la": "Dens premolaris primus superioris"
+ },
+ "Upper lateral incisor": {
+  "ta2Id": "906",
+  "zanatomyId": "906*12",
+  "en": "Upper lateral incisor",
+  "la": "Dens incisivus lateralis superioris"
+ },
+ "Upper medial incisor": {
+  "ta2Id": "906",
+  "zanatomyId": "906*11",
+  "en": "Upper medial incisor",
+  "la": "Dens incisivus medialis superioris"
+ },
+ "Upper second molar tooth": {
+  "ta2Id": "910",
+  "zanatomyId": "910*17",
+  "en": "Upper second molar tooth",
+  "la": "Dens molaris secundus superioris"
+ },
+ "Upper second premolar": {
+  "ta2Id": "909",
+  "zanatomyId": "909*15",
+  "en": "Upper second premolar",
+  "la": "Dens premolaris secundus superioris"
+ },
+ "Uvula of palate": {
+  "ta2Id": "2781",
+  "zanatomyId": "2781",
+  "en": "Uvula of palate",
+  "la": "Uvula palatina"
+ },
+ "Vagus nerve (X)": {
+  "ta2Id": "6332",
+  "zanatomyId": "6332",
+  "en": "Vagus nerve (X)",
+  "la": "Nervus vagus (X)"
+ },
+ "Vertebra C3": {
+  "ta2Id": "1032",
+  "zanatomyId": "1032*3",
+  "en": "Vertebra C3",
+  "la": "Vertebra cervicalis III"
+ },
+ "Vertebra C4": {
+  "ta2Id": "1032",
+  "zanatomyId": "1032*4",
+  "en": "Vertebra C4",
+  "la": "Vertebra cervicalis IV"
+ },
+ "Vertebra C5": {
+  "ta2Id": "1032",
+  "zanatomyId": "1032*5",
+  "en": "Vertebra C5",
+  "la": "Vertebra cervicalis V"
+ },
+ "Vertebra C6": {
+  "ta2Id": "1055",
+  "zanatomyId": "1055",
+  "en": "Vertebra C6",
+  "la": "Vertebra cervicalis VI"
+ },
+ "Vertebra C7": {
+  "ta2Id": "1032",
+  "zanatomyId": "1032*7",
+  "en": "Vertebra C7",
+  "la": "Vertebra cervicalis VII"
+ },
+ "Vertebral artery": {
+  "ta2Id": "4538",
+  "zanatomyId": "4538",
+  "en": "Vertebral artery",
+  "la": "Arteria vertebralis"
+ },
+ "Vertebral vein": {
+  "ta2Id": "4780",
+  "zanatomyId": "4780",
+  "en": "Vertebral vein",
+  "la": "Vena vertebralis"
+ },
+ "Vestibular nerve": {
+  "ta2Id": "6308",
+  "zanatomyId": "6308",
+  "en": "Vestibular nerve",
+  "la": "Nervus vestibularis"
+ },
+ "Vestibulocochlear nerve (VIII)": {
+  "ta2Id": "6307",
+  "zanatomyId": "6307",
+  "en": "Vestibulocochlear nerve (VIII)",
+  "la": "Nervus vestibulocochlearis (VIII)"
+ },
+ "Vomer": {
+  "ta2Id": "751",
+  "zanatomyId": "751",
+  "en": "Vomer",
+  "la": "Vomer"
+ },
+ "Zygomatic bone": {
+  "ta2Id": "818",
+  "zanatomyId": "818",
+  "en": "Zygomatic bone",
+  "la": "Os zygomaticum"
+ },
+ "Zygomaticus major muscle": {
+  "ta2Id": "2079",
+  "zanatomyId": "2079",
+  "en": "Zygomaticus major muscle",
+  "la": "Musculus zygomaticus major"
+ },
+ "Zygomaticus minor muscle": {
+  "ta2Id": "2080",
+  "zanatomyId": "2080",
+  "en": "Zygomaticus minor muscle",
+  "la": "Musculus zygomaticus minor"
+ }
+}

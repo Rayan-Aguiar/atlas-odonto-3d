@@ -1,0 +1,118 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/geist';
+@import '@fontsource-variable/newsreader';
+
+@theme {
+  --font-sans: 'Geist Variable', ui-sans-serif, system-ui, sans-serif;
+  --font-specimen: 'Newsreader Variable', Georgia, serif;
+
+  --color-bg: oklch(0.165 0.008 200);
+  --color-surface: oklch(0.205 0.009 200);
+  --color-surface-2: oklch(0.245 0.01 200);
+  --color-surface-3: oklch(0.29 0.012 200);
+  --color-line: oklch(0.32 0.012 200);
+  --color-line-strong: oklch(0.42 0.014 200);
+  --color-ink: oklch(0.95 0.006 200);
+  --color-ink-muted: oklch(0.76 0.012 200);
+  --color-ink-faint: oklch(0.64 0.012 200);
+  --color-primary: oklch(0.74 0.095 180);
+  --color-primary-strong: oklch(0.8 0.1 180);
+  --color-primary-ink: oklch(0.18 0.03 180);
+  --color-primary-soft: oklch(0.74 0.095 180 / 0.14);
+  --color-highlight: oklch(0.85 0.12 178);
+  --color-highlight-soft: oklch(0.85 0.12 178 / 0.14);
+  --color-verified: oklch(0.78 0.12 155);
+  --color-partial: oklch(0.82 0.12 85);
+  --color-pending: oklch(0.74 0.1 40);
+  --color-danger: oklch(0.7 0.15 25);
+
+  --text-2xs: 0.75rem;
+  --text-xs: 0.8125rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+
+  --radius-control: 8px;
+  --radius-panel: 12px;
+
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* semantic z-index scale */
+  --z-canvas-overlay: 10;
+  --z-panel: 20;
+  --z-toolbar: 30;
+  --z-popover: 40;
+  --z-modal-backdrop: 50;
+  --z-modal: 60;
+  --z-toast: 70;
+  --z-tooltip: 80;
+}
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+  html {
+    color-scheme: dark;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    background: var(--color-bg);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    overflow: hidden;
+  }
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+  }
+  ::selection {
+    background: var(--color-primary-soft);
+  }
+  button {
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+}
+
+@layer components {
+  .scroll-area {
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-line-strong) transparent;
+  }
+  /* The specimen sits in a softly lit vitrine: a quiet radial falloff behind the canvas. */
+  .viewer-backdrop {
+    background:
+      radial-gradient(ellipse 60% 55% at 50% 42%, oklch(0.255 0.012 200) 0%, oklch(0.195 0.009 200) 55%, var(--color-bg) 100%);
+  }
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

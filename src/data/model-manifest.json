@@ -1,0 +1,6609 @@
+{
+ "bones": {
+  "anterior-cells-of-ethmoid-bone__l": {
+   "source": "Anterior cells of ethmoid bone.l",
+   "min": [
+    0.0054,
+    1.5811,
+    0.055
+   ],
+   "max": [
+    0.0126,
+    1.5953,
+    0.0627
+   ]
+  },
+  "anterior-cells-of-ethmoid-bone__r": {
+   "source": "Anterior cells of ethmoid bone.r",
+   "min": [
+    -0.0126,
+    1.5811,
+    0.055
+   ],
+   "max": [
+    -0.0054,
+    1.5953,
+    0.0627
+   ]
+  },
+  "arytenoid-cartilage__r": {
+   "source": "Arytenoid cartilage.r",
+   "min": [
+    -0.008,
+    1.4731,
+    0.0036
+   ],
+   "max": [
+    -0.0025,
+    1.4812,
+    0.0109
+   ]
+  },
+  "arytenoid-cartilage__l": {
+   "source": "Arytenoid cartilage.l",
+   "min": [
+    0.0025,
+    1.4731,
+    0.0036
+   ],
+   "max": [
+    0.008,
+    1.4812,
+    0.0109
+   ]
+  },
+  "atlas-c1": {
+   "source": "Atlas (C1)",
+   "min": [
+    -0.043,
+    1.5331,
+    -0.046
+   ],
+   "max": [
+    0.043,
+    1.5528,
+    0.0031
+   ]
+  },
+  "axis-c2": {
+   "source": "Axis (C2)",
+   "min": [
+    -0.0268,
+    1.5085,
+    -0.0524
+   ],
+   "max": [
+    0.0268,
+    1.5514,
+    0.0004
+   ]
+  },
+  "corniculate-cartilage__r": {
+   "source": "Corniculate cartilage.r",
+   "min": [
+    -0.0044,
+    1.4806,
+    0.0033
+   ],
+   "max": [
+    -0.0029,
+    1.4822,
+    0.0049
+   ]
+  },
+  "corniculate-cartilage__l": {
+   "source": "Corniculate cartilage.l",
+   "min": [
+    0.0029,
+    1.4806,
+    0.0033
+   ],
+   "max": [
+    0.0044,
+    1.4822,
+    0.0049
+   ]
+  },
+  "cricoid-cartilage": {
+   "source": "Cricoid cartilage",
+   "min": [
+    -0.0122,
+    1.4569,
+    0.0014
+   ],
+   "max": [
+    0.0122,
+    1.4744,
+    0.0203
+   ]
+  },
+  "ethmoid-bone": {
+   "source": "Ethmoid bone",
+   "min": [
+    -0.0187,
+    1.566,
+    0.0314
+   ],
+   "max": [
+    0.0187,
+    1.6054,
+    0.0759
+   ]
+  },
+  "frontal-bone": {
+   "source": "Frontal bone",
+   "min": [
+    -0.0612,
+    1.5926,
+    0.018
+   ],
+   "max": [
+    0.0612,
+    1.6992,
+    0.0871
+   ]
+  },
+  "hyoid-bone": {
+   "source": "Hyoid bone",
+   "min": [
+    -0.0227,
+    1.4915,
+    0.003
+   ],
+   "max": [
+    0.0227,
+    1.511,
+    0.039
+   ]
+  },
+  "inferior-nasal-concha-bone__l": {
+   "source": "Inferior nasal concha bone.l",
+   "min": [
+    0.0044,
+    1.5521,
+    0.0408
+   ],
+   "max": [
+    0.0149,
+    1.5746,
+    0.0754
+   ]
+  },
+  "inferior-nasal-concha-bone__r": {
+   "source": "Inferior nasal concha bone.r",
+   "min": [
+    -0.0149,
+    1.5521,
+    0.0408
+   ],
+   "max": [
+    -0.0044,
+    1.5746,
+    0.0754
+   ]
+  },
+  "lacrimal-bone__l": {
+   "source": "Lacrimal bone.l",
+   "min": [
+    0.0065,
+    1.5731,
+    0.0615
+   ],
+   "max": [
+    0.0171,
+    1.5982,
+    0.0762
+   ]
+  },
+  "lacrimal-bone__r": {
+   "source": "Lacrimal bone.r",
+   "min": [
+    -0.0171,
+    1.5731,
+    0.0615
+   ],
+   "max": [
+    -0.0065,
+    1.5982,
+    0.0762
+   ]
+  },
+  "lateral-process-of-nasal-septal-cartilage__l": {
+   "source": "Lateral process of nasal septal cartilage.l",
+   "min": [
+    0,
+    1.5538,
+    0.0821
+   ],
+   "max": [
+    0.0132,
+    1.5867,
+    0.1157
+   ]
+  },
+  "lateral-process-of-nasal-septal-cartilage__r": {
+   "source": "Lateral process of nasal septal cartilage.r",
+   "min": [
+    -0.0132,
+    1.5538,
+    0.0821
+   ],
+   "max": [
+    0,
+    1.5867,
+    0.1157
+   ]
+  },
+  "major-alar-cartilage__l": {
+   "source": "Major alar cartilage.l",
+   "min": [
+    0.0001,
+    1.5481,
+    0.087
+   ],
+   "max": [
+    0.0148,
+    1.5623,
+    0.1144
+   ]
+  },
+  "major-alar-cartilage__r": {
+   "source": "Major alar cartilage.r",
+   "min": [
+    -0.0148,
+    1.5481,
+    0.087
+   ],
+   "max": [
+    -0.0001,
+    1.5623,
+    0.1144
+   ]
+  },
+  "mandible": {
+   "source": "Mandible",
+   "min": [
+    -0.0517,
+    1.4963,
+    0.0018
+   ],
+   "max": [
+    0.0517,
+    1.5786,
+    0.0838
+   ]
+  },
+  "maxilla__l": {
+   "source": "Maxilla.l",
+   "min": [
+    -0.0002,
+    1.5374,
+    0.0401
+   ],
+   "max": [
+    0.046,
+    1.6052,
+    0.0939
+   ]
+  },
+  "maxilla__r": {
+   "source": "Maxilla.r",
+   "min": [
+    -0.046,
+    1.5374,
+    0.0401
+   ],
+   "max": [
+    0.0002,
+    1.6052,
+    0.0939
+   ]
+  },
+  "middle-cells-of-ethmoid-bone__l": {
+   "source": "Middle cells of ethmoid bone.l",
+   "min": [
+    0.0053,
+    1.5811,
+    0.0473
+   ],
+   "max": [
+    0.0143,
+    1.5944,
+    0.0557
+   ]
+  },
+  "middle-cells-of-ethmoid-bone__r": {
+   "source": "Middle cells of ethmoid bone.r",
+   "min": [
+    -0.0143,
+    1.5811,
+    0.0473
+   ],
+   "max": [
+    -0.0053,
+    1.5944,
+    0.0557
+   ]
+  },
+  "nasal-bone__l": {
+   "source": "Nasal bone.l",
+   "min": [
+    0,
+    1.5737,
+    0.0793
+   ],
+   "max": [
+    0.0084,
+    1.6051,
+    0.1003
+   ]
+  },
+  "nasal-bone__r": {
+   "source": "Nasal bone.r",
+   "min": [
+    -0.0084,
+    1.5737,
+    0.0793
+   ],
+   "max": [
+    0,
+    1.6051,
+    0.1003
+   ]
+  },
+  "nasal-septal-cartilage": {
+   "source": "Nasal septal cartilage",
+   "min": [
+    -0.0025,
+    1.5511,
+    0.0735
+   ],
+   "max": [
+    0.0024,
+    1.5855,
+    0.1158
+   ]
+  },
+  "occipital-bone": {
+   "source": "Occipital bone",
+   "min": [
+    -0.0597,
+    1.5507,
+    -0.1034
+   ],
+   "max": [
+    0.0597,
+    1.6552,
+    0.0124
+   ]
+  },
+  "palatine-bone__l": {
+   "source": "Palatine bone.l",
+   "min": [
+    0.0008,
+    1.544,
+    0.0248
+   ],
+   "max": [
+    0.027,
+    1.5841,
+    0.06
+   ]
+  },
+  "palatine-bone__r": {
+   "source": "Palatine bone.r",
+   "min": [
+    -0.027,
+    1.544,
+    0.0248
+   ],
+   "max": [
+    -0.0008,
+    1.5841,
+    0.06
+   ]
+  },
+  "parietal-bone__l": {
+   "source": "Parietal bone.l",
+   "min": [
+    -0.0074,
+    1.5897,
+    -0.1006
+   ],
+   "max": [
+    0.0743,
+    1.7054,
+    0.0427
+   ]
+  },
+  "parietal-bone__r": {
+   "source": "Parietal bone.r",
+   "min": [
+    -0.0744,
+    1.5898,
+    -0.1003
+   ],
+   "max": [
+    0.0056,
+    1.7055,
+    0.0391
+   ]
+  },
+  "posterior-cells-of-ethmoid-bone__l": {
+   "source": "Posterior cells of ethmoid bone.l",
+   "min": [
+    0.0044,
+    1.5818,
+    0.0395
+   ],
+   "max": [
+    0.0139,
+    1.5941,
+    0.048
+   ]
+  },
+  "posterior-cells-of-ethmoid-bone__r": {
+   "source": "Posterior cells of ethmoid bone.r",
+   "min": [
+    -0.0139,
+    1.5818,
+    0.0395
+   ],
+   "max": [
+    -0.0044,
+    1.5941,
+    0.048
+   ]
+  },
+  "sphenoid-bone": {
+   "source": "Sphenoid bone",
+   "min": [
+    -0.0544,
+    1.5503,
+    0.0023
+   ],
+   "max": [
+    0.0544,
+    1.6202,
+    0.0554
+   ]
+  },
+  "sinus-of-frontal-bone": {
+   "source": "Sinus of frontal bone",
+   "min": [
+    -0.0252,
+    1.6014,
+    0.0744
+   ],
+   "max": [
+    0.0252,
+    1.6326,
+    0.0861
+   ]
+  },
+  "sinus-of-sphenoid-bone": {
+   "source": "Sinus of sphenoid bone",
+   "min": [
+    -0.0141,
+    1.5833,
+    0.0221
+   ],
+   "max": [
+    0.0141,
+    1.605,
+    0.0397
+   ]
+  },
+  "temporal-bone__l": {
+   "source": "Temporal bone.l",
+   "min": [
+    0.0096,
+    1.5487,
+    -0.0516
+   ],
+   "max": [
+    0.0723,
+    1.6231,
+    0.0448
+   ]
+  },
+  "temporal-bone__r": {
+   "source": "Temporal bone.r",
+   "min": [
+    -0.0723,
+    1.5487,
+    -0.0516
+   ],
+   "max": [
+    -0.0096,
+    1.6231,
+    0.0448
+   ]
+  },
+  "thyroid-cartilage": {
+   "source": "Thyroid cartilage",
+   "min": [
+    -0.0206,
+    1.461,
+    0.0005
+   ],
+   "max": [
+    0.0206,
+    1.4988,
+    0.032
+   ]
+  },
+  "vertebra-c3": {
+   "source": "Vertebra C3",
+   "min": [
+    -0.0283,
+    1.4931,
+    -0.054
+   ],
+   "max": [
+    0.0283,
+    1.5197,
+    0.0002
+   ]
+  },
+  "vertebra-c4": {
+   "source": "Vertebra C4",
+   "min": [
+    -0.0289,
+    1.4806,
+    -0.0526
+   ],
+   "max": [
+    0.0291,
+    1.5056,
+    -0.0003
+   ]
+  },
+  "vertebra-c5": {
+   "source": "Vertebra C5",
+   "min": [
+    -0.0307,
+    1.4689,
+    -0.058
+   ],
+   "max": [
+    0.0307,
+    1.4914,
+    -0.0016
+   ]
+  },
+  "vertebra-c6": {
+   "source": "Vertebra C6",
+   "min": [
+    -0.0306,
+    1.4537,
+    -0.0668
+   ],
+   "max": [
+    0.0306,
+    1.4783,
+    -0.0031
+   ]
+  },
+  "vertebra-c7": {
+   "source": "Vertebra C7",
+   "min": [
+    -0.0356,
+    1.4385,
+    -0.0772
+   ],
+   "max": [
+    0.0356,
+    1.4655,
+    -0.0069
+   ]
+  },
+  "vomer": {
+   "source": "Vomer",
+   "min": [
+    -0.0051,
+    1.5574,
+    0.021
+   ],
+   "max": [
+    0.0051,
+    1.5804,
+    0.0821
+   ]
+  },
+  "zygomatic-bone__l": {
+   "source": "Zygomatic bone.l",
+   "min": [
+    0.0316,
+    1.5537,
+    0.0327
+   ],
+   "max": [
+    0.0623,
+    1.6085,
+    0.0717
+   ]
+  },
+  "zygomatic-bone__r": {
+   "source": "Zygomatic bone.r",
+   "min": [
+    -0.0623,
+    1.5537,
+    0.0327
+   ],
+   "max": [
+    -0.0316,
+    1.6085,
+    0.0717
+   ]
+  }
+ },
+ "joints": {
+  "articular-capsule-of-temporomandibular-joint__l": {
+   "source": "Articular capsule of temporomandibular joint.l",
+   "min": [
+    0.0346,
+    1.5667,
+    0.001
+   ],
+   "max": [
+    0.0574,
+    1.5796,
+    0.0157
+   ]
+  },
+  "articular-capsule-of-temporomandibular-joint__r": {
+   "source": "Articular capsule of temporomandibular joint.r",
+   "min": [
+    -0.0574,
+    1.5667,
+    0.001
+   ],
+   "max": [
+    -0.0346,
+    1.5796,
+    0.0157
+   ]
+  },
+  "articular-disc-of-temporomandibular-joint__l": {
+   "source": "Articular disc of temporomandibular joint.l",
+   "min": [
+    0.0351,
+    1.5681,
+    0.001
+   ],
+   "max": [
+    0.0544,
+    1.5816,
+    0.0149
+   ]
+  },
+  "articular-disc-of-temporomandibular-joint__r": {
+   "source": "Articular disc of temporomandibular joint.r",
+   "min": [
+    -0.0544,
+    1.5681,
+    0.001
+   ],
+   "max": [
+    -0.0351,
+    1.5816,
+    0.0149
+   ]
+  },
+  "cricopharyngeal-ligament__l": {
+   "source": "Cricopharyngeal ligament.l",
+   "min": [
+    0.0008,
+    1.4615,
+    0.0069
+   ],
+   "max": [
+    0.0095,
+    1.4743,
+    0.025
+   ]
+  },
+  "cricopharyngeal-ligament__r": {
+   "source": "Cricopharyngeal ligament.r",
+   "min": [
+    -0.0095,
+    1.4615,
+    0.0069
+   ],
+   "max": [
+    -0.0008,
+    1.4743,
+    0.025
+   ]
+  },
+  "lateral-temporomandibular-ligament__l": {
+   "source": "Lateral temporomandibular ligament.l",
+   "min": [
+    -0.0602,
+    1.5574,
+    0.0072
+   ],
+   "max": [
+    -0.0462,
+    1.5791,
+    0.0201
+   ]
+  },
+  "lateral-temporomandibular-ligament__r": {
+   "source": "Lateral temporomandibular ligament.r",
+   "min": [
+    0.0462,
+    1.5574,
+    0.0072
+   ],
+   "max": [
+    0.0602,
+    1.5791,
+    0.0201
+   ]
+  },
+  "lateral-thyrohyoid-ligament__l": {
+   "source": "Lateral thyrohyoid ligament.l",
+   "min": [
+    0.0168,
+    1.503,
+    -0.0052
+   ],
+   "max": [
+    0.0204,
+    1.5136,
+    -0.0007
+   ]
+  },
+  "lateral-thyrohyoid-ligament__r": {
+   "source": "Lateral thyrohyoid ligament.r",
+   "min": [
+    -0.0204,
+    1.503,
+    -0.0052
+   ],
+   "max": [
+    -0.0168,
+    1.5136,
+    -0.0007
+   ]
+  },
+  "median-cricothyroid-ligament": {
+   "source": "Median cricothyroid ligament",
+   "min": [
+    -0.0026,
+    1.4613,
+    0.0189
+   ],
+   "max": [
+    0.0026,
+    1.4742,
+    0.0267
+   ]
+  },
+  "median-thyrohyoid-ligament": {
+   "source": "Median thyrohyoid ligament",
+   "min": [
+    -0.0092,
+    1.4756,
+    0.0277
+   ],
+   "max": [
+    0.0092,
+    1.4933,
+    0.0352
+   ]
+  },
+  "nuchal-ligament": {
+   "source": "Nuchal ligament",
+   "min": [
+    -0.0003,
+    1.4488,
+    -0.0958
+   ],
+   "max": [
+    0.0003,
+    1.5873,
+    -0.045
+   ]
+  },
+  "pterygospinous-ligament__l": {
+   "source": "Pterygospinous ligament.l",
+   "min": [
+    0.0281,
+    1.5644,
+    0.0089
+   ],
+   "max": [
+    0.0313,
+    1.5695,
+    0.0222
+   ]
+  },
+  "pterygospinous-ligament__r": {
+   "source": "Pterygospinous ligament.r",
+   "min": [
+    -0.0313,
+    1.5644,
+    0.0089
+   ],
+   "max": [
+    -0.0281,
+    1.5695,
+    0.0222
+   ]
+  },
+  "quadrangular-membrane__l": {
+   "source": "Quadrangular membrane.l",
+   "min": [
+    0.0051,
+    1.4856,
+    0.0029
+   ],
+   "max": [
+    0.0211,
+    1.5072,
+    0.0314
+   ]
+  },
+  "quadrangular-membrane__r": {
+   "source": "Quadrangular membrane.r",
+   "min": [
+    -0.0211,
+    1.4856,
+    0.0029
+   ],
+   "max": [
+    -0.0051,
+    1.5072,
+    0.0314
+   ]
+  },
+  "sphenomandibular-ligament__l": {
+   "source": "Sphenomandibular ligament.l",
+   "min": [
+    0.0312,
+    1.5436,
+    0.0081
+   ],
+   "max": [
+    0.042,
+    1.5694,
+    0.0224
+   ]
+  },
+  "sphenomandibular-ligament__r": {
+   "source": "Sphenomandibular ligament.r",
+   "min": [
+    -0.042,
+    1.5436,
+    0.0081
+   ],
+   "max": [
+    -0.0312,
+    1.5694,
+    0.0224
+   ]
+  },
+  "stylohyoid-ligament__l": {
+   "source": "Stylohyoid ligament.l",
+   "min": [
+    0.0145,
+    1.504,
+    0
+   ],
+   "max": [
+    0.0395,
+    1.551,
+    0.0321
+   ]
+  },
+  "stylohyoid-ligament__r": {
+   "source": "Stylohyoid ligament.r",
+   "min": [
+    -0.0395,
+    1.504,
+    0
+   ],
+   "max": [
+    -0.0145,
+    1.551,
+    0.0321
+   ]
+  },
+  "stylomandibular-ligament__l": {
+   "source": "Stylomandibular ligament.l",
+   "min": [
+    0.0368,
+    1.5285,
+    -0.0005
+   ],
+   "max": [
+    0.0407,
+    1.5576,
+    0.011
+   ]
+  },
+  "stylomandibular-ligament__r": {
+   "source": "Stylomandibular ligament.r",
+   "min": [
+    -0.0407,
+    1.5285,
+    -0.0005
+   ],
+   "max": [
+    -0.0368,
+    1.5576,
+    0.011
+   ]
+  }
+ },
+ "lymph": {
+  "anterior-inferior-jugular-nodes__l": {
+   "source": "Anterior inferior jugular nodes.l",
+   "min": [
+    0.0239,
+    1.4268,
+    0.013
+   ],
+   "max": [
+    0.0354,
+    1.4704,
+    0.024
+   ]
+  },
+  "anterior-inferior-jugular-nodes__r": {
+   "source": "Anterior inferior jugular nodes.r",
+   "min": [
+    -0.0354,
+    1.4268,
+    0.013
+   ],
+   "max": [
+    -0.0239,
+    1.4704,
+    0.024
+   ]
+  },
+  "bucinator-node__l": {
+   "source": "Bucinator node.l",
+   "min": [
+    0.0244,
+    1.5411,
+    0.069
+   ],
+   "max": [
+    0.0317,
+    1.5488,
+    0.0766
+   ]
+  },
+  "bucinator-node__r": {
+   "source": "Bucinator node.r",
+   "min": [
+    -0.0317,
+    1.5411,
+    0.069
+   ],
+   "max": [
+    -0.0244,
+    1.5488,
+    0.0766
+   ]
+  },
+  "infra-auricular-nodes__l": {
+   "source": "Infra-auricular nodes.l",
+   "min": [
+    0.0564,
+    1.5592,
+    0.0049
+   ],
+   "max": [
+    0.0597,
+    1.568,
+    0.0082
+   ]
+  },
+  "infra-auricular-nodes__r": {
+   "source": "Infra-auricular nodes.r",
+   "min": [
+    -0.06,
+    1.5606,
+    0.0028
+   ],
+   "max": [
+    -0.0562,
+    1.5666,
+    0.0104
+   ]
+  },
+  "intraglandular-parotid-nodes__l": {
+   "source": "Intraglandular parotid nodes.l",
+   "min": [
+    0.0506,
+    1.5403,
+    0.023
+   ],
+   "max": [
+    0.06,
+    1.5567,
+    0.0334
+   ]
+  },
+  "intraglandular-parotid-nodes__r": {
+   "source": "Intraglandular parotid nodes.r",
+   "min": [
+    -0.06,
+    1.5403,
+    0.023
+   ],
+   "max": [
+    -0.0506,
+    1.5567,
+    0.0334
+   ]
+  },
+  "jugulodigastric-node__l": {
+   "source": "Jugulodigastric node.l",
+   "min": [
+    0.0315,
+    1.5294,
+    -0.0026
+   ],
+   "max": [
+    0.0341,
+    1.5319,
+    -0.0001
+   ]
+  },
+  "jugulodigastric-node__r": {
+   "source": "Jugulodigastric node.r",
+   "min": [
+    -0.0341,
+    1.5294,
+    -0.0026
+   ],
+   "max": [
+    -0.0315,
+    1.5319,
+    -0.0001
+   ]
+  },
+  "lateral-superior-jugular-node__l": {
+   "source": "Lateral superior jugular node.l",
+   "min": [
+    0.0254,
+    1.4862,
+    0.0037
+   ],
+   "max": [
+    0.0338,
+    1.5217,
+    0.0136
+   ]
+  },
+  "lateral-superior-jugular-node__r": {
+   "source": "Lateral superior jugular node.r",
+   "min": [
+    -0.0338,
+    1.4862,
+    0.0037
+   ],
+   "max": [
+    -0.0254,
+    1.5217,
+    0.0136
+   ]
+  },
+  "mandibular-node__l": {
+   "source": "Mandibular node.l",
+   "min": [
+    0.0087,
+    1.5046,
+    0.0677
+   ],
+   "max": [
+    0.028,
+    1.5208,
+    0.0835
+   ]
+  },
+  "mandibular-node__r": {
+   "source": "Mandibular node.r",
+   "min": [
+    -0.028,
+    1.5046,
+    0.0677
+   ],
+   "max": [
+    -0.0087,
+    1.5208,
+    0.0835
+   ]
+  },
+  "mastoid-nodes__l": {
+   "source": "Mastoid nodes.l",
+   "min": [
+    0.0512,
+    1.5501,
+    -0.0233
+   ],
+   "max": [
+    0.0615,
+    1.5676,
+    -0.0062
+   ]
+  },
+  "mastoid-nodes__r": {
+   "source": "Mastoid nodes.r",
+   "min": [
+    -0.0615,
+    1.5501,
+    -0.0233
+   ],
+   "max": [
+    -0.0512,
+    1.5676,
+    -0.0062
+   ]
+  },
+  "nasolabial-node__l": {
+   "source": "Nasolabial node.l",
+   "min": [
+    0.0195,
+    1.5637,
+    0.0787
+   ],
+   "max": [
+    0.0221,
+    1.5663,
+    0.0813
+   ]
+  },
+  "nasolabial-node__r": {
+   "source": "Nasolabial node.r",
+   "min": [
+    -0.0221,
+    1.5637,
+    0.0787
+   ],
+   "max": [
+    -0.0195,
+    1.5663,
+    0.0813
+   ]
+  },
+  "occipital-nodes__l": {
+   "source": "Occipital nodes.l",
+   "min": [
+    0.0304,
+    1.5859,
+    -0.0931
+   ],
+   "max": [
+    0.0349,
+    1.593,
+    -0.0841
+   ]
+  },
+  "occipital-nodes__r": {
+   "source": "Occipital nodes.r",
+   "min": [
+    -0.0349,
+    1.5859,
+    -0.0931
+   ],
+   "max": [
+    -0.0304,
+    1.593,
+    -0.0841
+   ]
+  },
+  "palatine-tonsil__l": {
+   "source": "Palatine tonsil.l",
+   "min": [
+    0.024,
+    1.5504,
+    0.0247
+   ],
+   "max": [
+    0.0315,
+    1.5603,
+    0.0344
+   ]
+  },
+  "palatine-tonsil__r": {
+   "source": "Palatine tonsil.r",
+   "min": [
+    -0.0315,
+    1.5504,
+    0.0247
+   ],
+   "max": [
+    -0.024,
+    1.5603,
+    0.0344
+   ]
+  },
+  "pre-auricular-nodes__l": {
+   "source": "Pre-auricular nodes.l",
+   "min": [
+    0.0606,
+    1.5844,
+    0.0121
+   ],
+   "max": [
+    0.0662,
+    1.5907,
+    0.0203
+   ]
+  },
+  "pre-auricular-nodes__r": {
+   "source": "Pre-auricular nodes.r",
+   "min": [
+    -0.0662,
+    1.5844,
+    0.0121
+   ],
+   "max": [
+    -0.0606,
+    1.5907,
+    0.0203
+   ]
+  },
+  "retropharyngeal-nodes__l": {
+   "source": "Retropharyngeal nodes.l",
+   "min": [
+    0.0105,
+    1.5381,
+    0.0132
+   ],
+   "max": [
+    0.0132,
+    1.5498,
+    0.0164
+   ]
+  },
+  "retropharyngeal-nodes__r": {
+   "source": "Retropharyngeal nodes.r",
+   "min": [
+    -0.0132,
+    1.5381,
+    0.0132
+   ],
+   "max": [
+    -0.0105,
+    1.5498,
+    0.0164
+   ]
+  },
+  "submandibular-nodes__l": {
+   "source": "Submandibular nodes.l",
+   "min": [
+    0.0031,
+    1.4984,
+    0.0431
+   ],
+   "max": [
+    0.0096,
+    1.501,
+    0.0643
+   ]
+  },
+  "submandibular-nodes__r": {
+   "source": "Submandibular nodes.r",
+   "min": [
+    -0.0096,
+    1.4984,
+    0.0431
+   ],
+   "max": [
+    -0.0031,
+    1.501,
+    0.0643
+   ]
+  },
+  "submental-nodes__l": {
+   "source": "Submental nodes.l",
+   "min": [
+    0.0046,
+    1.4935,
+    0.0595
+   ],
+   "max": [
+    0.0282,
+    1.501,
+    0.0767
+   ]
+  },
+  "submental-nodes__r": {
+   "source": "Submental nodes.r",
+   "min": [
+    -0.0282,
+    1.4935,
+    0.0595
+   ],
+   "max": [
+    -0.0046,
+    1.501,
+    0.0767
+   ]
+  },
+  "superficial-lateral-cervical-nodes__l": {
+   "source": "Superficial lateral cervical nodes.l",
+   "min": [
+    0.0428,
+    1.4454,
+    -0.019
+   ],
+   "max": [
+    0.0653,
+    1.487,
+    -0.004
+   ]
+  },
+  "superficial-lateral-cervical-nodes__r": {
+   "source": "Superficial lateral cervical nodes.r",
+   "min": [
+    -0.0653,
+    1.4454,
+    -0.019
+   ],
+   "max": [
+    -0.0428,
+    1.487,
+    -0.004
+   ]
+  },
+  "superficial-parotid-nodes__l": {
+   "source": "Superficial parotid nodes.l",
+   "min": [
+    0.0464,
+    1.5456,
+    0.0067
+   ],
+   "max": [
+    0.0568,
+    1.5539,
+    0.0169
+   ]
+  },
+  "superficial-parotid-nodes__r": {
+   "source": "Superficial parotid nodes.r",
+   "min": [
+    -0.0568,
+    1.5456,
+    0.0067
+   ],
+   "max": [
+    -0.0464,
+    1.5539,
+    0.0169
+   ]
+  },
+  "thyroid-nodes__l": {
+   "source": "Thyroid nodes.l",
+   "min": [
+    0.0097,
+    1.4702,
+    0.0176
+   ],
+   "max": [
+    0.014,
+    1.4817,
+    0.0208
+   ]
+  },
+  "thyroid-nodes__r": {
+   "source": "Thyroid nodes.r",
+   "min": [
+    -0.014,
+    1.4702,
+    0.0176
+   ],
+   "max": [
+    -0.0097,
+    1.4817,
+    0.0208
+   ]
+  }
+ },
+ "muscles": {
+  "anterior-belly-of-digastric-muscle__l": {
+   "source": "Anterior belly of digastric muscle.l",
+   "min": [
+    0.0033,
+    1.4992,
+    0.0338
+   ],
+   "max": [
+    0.0153,
+    1.5055,
+    0.0696
+   ]
+  },
+  "anterior-belly-of-digastric-muscle__r": {
+   "source": "Anterior belly of digastric muscle.r",
+   "min": [
+    -0.0153,
+    1.4992,
+    0.0338
+   ],
+   "max": [
+    -0.0033,
+    1.5055,
+    0.0696
+   ]
+  },
+  "ary-epiglottic-part-of-oblique-arytenoid-muscle__l": {
+   "source": "Ary-epiglottic part of oblique arytenoid muscle.l",
+   "min": [
+    0.0048,
+    1.4814,
+    0.0068
+   ],
+   "max": [
+    0.009,
+    1.5048,
+    0.0194
+   ]
+  },
+  "ary-epiglottic-part-of-oblique-arytenoid-muscle__r": {
+   "source": "Ary-epiglottic part of oblique arytenoid muscle.r",
+   "min": [
+    -0.009,
+    1.4814,
+    0.0068
+   ],
+   "max": [
+    -0.0048,
+    1.5048,
+    0.0194
+   ]
+  },
+  "bucinator__l": {
+   "source": "Bucinator.l",
+   "min": [
+    0.0209,
+    1.5147,
+    0.0421
+   ],
+   "max": [
+    0.0359,
+    1.551,
+    0.071
+   ]
+  },
+  "bucinator__r": {
+   "source": "Bucinator.r",
+   "min": [
+    -0.0359,
+    1.5147,
+    0.0421
+   ],
+   "max": [
+    -0.0209,
+    1.551,
+    0.071
+   ]
+  },
+  "corrugator-supercilii__l": {
+   "source": "Corrugator supercilii.l",
+   "min": [
+    0.0089,
+    1.6021,
+    0.077
+   ],
+   "max": [
+    0.0316,
+    1.621,
+    0.084
+   ]
+  },
+  "corrugator-supercilii__r": {
+   "source": "Corrugator supercilii.r",
+   "min": [
+    -0.0316,
+    1.6021,
+    0.077
+   ],
+   "max": [
+    -0.0089,
+    1.621,
+    0.084
+   ]
+  },
+  "deep-part-of-masseter__l": {
+   "source": "Deep part of masseter.l",
+   "min": [
+    0.0348,
+    1.5134,
+    0.0095
+   ],
+   "max": [
+    0.0618,
+    1.5789,
+    0.0441
+   ]
+  },
+  "deep-part-of-masseter__r": {
+   "source": "Deep part of masseter.r",
+   "min": [
+    -0.0618,
+    1.5134,
+    0.0095
+   ],
+   "max": [
+    -0.0348,
+    1.5789,
+    0.0441
+   ]
+  },
+  "depressor-anguli-oris__l": {
+   "source": "Depressor anguli oris.l",
+   "min": [
+    0.0117,
+    1.498,
+    0.0507
+   ],
+   "max": [
+    0.0361,
+    1.5396,
+    0.0747
+   ]
+  },
+  "depressor-anguli-oris__r": {
+   "source": "Depressor anguli oris.r",
+   "min": [
+    -0.0361,
+    1.498,
+    0.0507
+   ],
+   "max": [
+    -0.0117,
+    1.5396,
+    0.0747
+   ]
+  },
+  "depressor-labii-inferioris__l": {
+   "source": "Depressor labii inferioris.l",
+   "min": [
+    0.0006,
+    1.5003,
+    0.0584
+   ],
+   "max": [
+    0.0312,
+    1.5298,
+    0.0856
+   ]
+  },
+  "depressor-labii-inferioris__r": {
+   "source": "Depressor labii inferioris.r",
+   "min": [
+    -0.0312,
+    1.5003,
+    0.0584
+   ],
+   "max": [
+    -0.0006,
+    1.5298,
+    0.0856
+   ]
+  },
+  "depressor-septi-nasi__l": {
+   "source": "Depressor septi nasi.l",
+   "min": [
+    0,
+    1.5417,
+    0.0817
+   ],
+   "max": [
+    0.0167,
+    1.5578,
+    0.0892
+   ]
+  },
+  "depressor-septi-nasi__r": {
+   "source": "Depressor septi nasi.r",
+   "min": [
+    -0.0167,
+    1.5417,
+    0.0817
+   ],
+   "max": [
+    0,
+    1.5578,
+    0.0892
+   ]
+  },
+  "frontalis-muscle__l": {
+   "source": "Frontalis muscle.l",
+   "min": [
+    0,
+    1.6043,
+    0.0426
+   ],
+   "max": [
+    0.0585,
+    1.6743,
+    0.0895
+   ]
+  },
+  "frontalis-muscle__r": {
+   "source": "Frontalis muscle.r",
+   "min": [
+    -0.0585,
+    1.6043,
+    0.0426
+   ],
+   "max": [
+    0,
+    1.6743,
+    0.0895
+   ]
+  },
+  "genioglossus-muscle__l": {
+   "source": "Genioglossus muscle.l",
+   "min": [
+    0.0012,
+    1.4995,
+    0.0313
+   ],
+   "max": [
+    0.0088,
+    1.5357,
+    0.0789
+   ]
+  },
+  "genioglossus-muscle__r": {
+   "source": "Genioglossus muscle.r",
+   "min": [
+    -0.0088,
+    1.4995,
+    0.0313
+   ],
+   "max": [
+    -0.0012,
+    1.5357,
+    0.0789
+   ]
+  },
+  "geniohyoid-muscle__l": {
+   "source": "Geniohyoid muscle.l",
+   "min": [
+    0.0001,
+    1.5007,
+    0.0298
+   ],
+   "max": [
+    0.0113,
+    1.5108,
+    0.0698
+   ]
+  },
+  "geniohyoid-muscle__r": {
+   "source": "Geniohyoid muscle.r",
+   "min": [
+    -0.0113,
+    1.5007,
+    0.0298
+   ],
+   "max": [
+    -0.0001,
+    1.5108,
+    0.0698
+   ]
+  },
+  "hyoglossus-muscle__l": {
+   "source": "Hyoglossus muscle.l",
+   "min": [
+    0.0051,
+    1.4985,
+    0.0335
+   ],
+   "max": [
+    0.013,
+    1.5239,
+    0.0643
+   ]
+  },
+  "hyoglossus-muscle__r": {
+   "source": "Hyoglossus muscle.r",
+   "min": [
+    -0.013,
+    1.4985,
+    0.0335
+   ],
+   "max": [
+    -0.0051,
+    1.5239,
+    0.0643
+   ]
+  },
+  "iliocostalis-colli-muscle": {
+   "source": "Iliocostalis colli muscle",
+   "min": [
+    0.0245,
+    1.3155,
+    -0.097
+   ],
+   "max": [
+    0.0749,
+    1.4919,
+    -0.01
+   ]
+  },
+  "iliocostalis-colli-muscle__r": {
+   "source": "Iliocostalis colli muscle.r",
+   "min": [
+    -0.0749,
+    1.3155,
+    -0.097
+   ],
+   "max": [
+    -0.0245,
+    1.4919,
+    -0.01
+   ]
+  },
+  "inferior-head-of-lateral-pterygoid-muscle__l": {
+   "source": "Inferior head of lateral pterygoid muscle.l",
+   "min": [
+    0.0254,
+    1.5551,
+    0.0078
+   ],
+   "max": [
+    0.0431,
+    1.5776,
+    0.0306
+   ]
+  },
+  "inferior-head-of-lateral-pterygoid-muscle__r": {
+   "source": "Inferior head of lateral pterygoid muscle.r",
+   "min": [
+    -0.0431,
+    1.5551,
+    0.0078
+   ],
+   "max": [
+    -0.0254,
+    1.5776,
+    0.0306
+   ]
+  },
+  "inferior-oblique-muscle__l": {
+   "source": "Inferior oblique muscle.l",
+   "min": [
+    0.0139,
+    1.5755,
+    0.0526
+   ],
+   "max": [
+    0.0433,
+    1.5917,
+    0.0787
+   ]
+  },
+  "inferior-oblique-muscle__r": {
+   "source": "Inferior oblique muscle.r",
+   "min": [
+    -0.0433,
+    1.5755,
+    0.0526
+   ],
+   "max": [
+    -0.0139,
+    1.5917,
+    0.0787
+   ]
+  },
+  "inferior-pharyngeal-constrictor__l": {
+   "source": "Inferior pharyngeal constrictor.l",
+   "min": [
+    0.0006,
+    1.4601,
+    -0.0037
+   ],
+   "max": [
+    0.0226,
+    1.5252,
+    0.0106
+   ]
+  },
+  "inferior-pharyngeal-constrictor__r": {
+   "source": "Inferior pharyngeal constrictor.r",
+   "min": [
+    -0.0226,
+    1.4601,
+    -0.0037
+   ],
+   "max": [
+    -0.0006,
+    1.5252,
+    0.0106
+   ]
+  },
+  "inferior-rectus-muscle__l": {
+   "source": "Inferior rectus muscle.l",
+   "min": [
+    0.0134,
+    1.5765,
+    0.0309
+   ],
+   "max": [
+    0.0356,
+    1.5983,
+    0.0724
+   ]
+  },
+  "inferior-rectus-muscle__r": {
+   "source": "Inferior rectus muscle.r",
+   "min": [
+    -0.0356,
+    1.5765,
+    0.0309
+   ],
+   "max": [
+    -0.0134,
+    1.5983,
+    0.0724
+   ]
+  },
+  "intermediate-tendon-of-digastric-muscle__l": {
+   "source": "Intermediate tendon of digastric muscle.l",
+   "min": [
+    0.0094,
+    1.4991,
+    0.0319
+   ],
+   "max": [
+    0.0173,
+    1.5066,
+    0.0391
+   ]
+  },
+  "intermediate-tendon-of-digastric-muscle__r": {
+   "source": "Intermediate tendon of digastric muscle.r",
+   "min": [
+    -0.0173,
+    1.4991,
+    0.0319
+   ],
+   "max": [
+    -0.0094,
+    1.5066,
+    0.0391
+   ]
+  },
+  "lateral-crico-arytenoid-muscle__l": {
+   "source": "Lateral crico-arytenoid muscle.l",
+   "min": [
+    0.0073,
+    1.4693,
+    -0.0008
+   ],
+   "max": [
+    0.0117,
+    1.48,
+    0.0091
+   ]
+  },
+  "lateral-crico-arytenoid-muscle__r": {
+   "source": "Lateral crico-arytenoid muscle.r",
+   "min": [
+    -0.0117,
+    1.4693,
+    -0.0008
+   ],
+   "max": [
+    -0.0073,
+    1.48,
+    0.0091
+   ]
+  },
+  "lateral-rectus-muscle__l": {
+   "source": "Lateral rectus muscle.l",
+   "min": [
+    0.0177,
+    1.5857,
+    0.0309
+   ],
+   "max": [
+    0.0441,
+    1.6021,
+    0.0707
+   ]
+  },
+  "lateral-rectus-muscle__r": {
+   "source": "Lateral rectus muscle.r",
+   "min": [
+    -0.0441,
+    1.5857,
+    0.0309
+   ],
+   "max": [
+    -0.0177,
+    1.6021,
+    0.0707
+   ]
+  },
+  "levator-anguli-oris__l": {
+   "source": "Levator anguli oris.l",
+   "min": [
+    0.012,
+    1.5424,
+    0.0679
+   ],
+   "max": [
+    0.0291,
+    1.5625,
+    0.0834
+   ]
+  },
+  "levator-anguli-oris__r": {
+   "source": "Levator anguli oris.r",
+   "min": [
+    -0.0291,
+    1.5424,
+    0.0679
+   ],
+   "max": [
+    -0.012,
+    1.5625,
+    0.0834
+   ]
+  },
+  "levator-labii-superioris__l": {
+   "source": "Levator labii superioris.l",
+   "min": [
+    0.0118,
+    1.5473,
+    0.069
+   ],
+   "max": [
+    0.0388,
+    1.5762,
+    0.0839
+   ]
+  },
+  "levator-labii-superioris__r": {
+   "source": "Levator labii superioris.r",
+   "min": [
+    -0.0388,
+    1.5473,
+    0.069
+   ],
+   "max": [
+    -0.0118,
+    1.5762,
+    0.0839
+   ]
+  },
+  "levator-nasolabialis__l": {
+   "source": "Levator nasolabialis.l",
+   "min": [
+    0.0106,
+    1.5576,
+    0.0772
+   ],
+   "max": [
+    0.0161,
+    1.5867,
+    0.0844
+   ]
+  },
+  "levator-nasolabialis__r": {
+   "source": "Levator nasolabialis.r",
+   "min": [
+    -0.0161,
+    1.5576,
+    0.0772
+   ],
+   "max": [
+    -0.0106,
+    1.5867,
+    0.0844
+   ]
+  },
+  "levator-palpebrae-superioris__l": {
+   "source": "Levator palpebrae superioris.l",
+   "min": [
+    0.0132,
+    1.5934,
+    0.0313
+   ],
+   "max": [
+    0.0433,
+    1.6092,
+    0.0773
+   ]
+  },
+  "levator-palpebrae-superioris__r": {
+   "source": "Levator palpebrae superioris.r",
+   "min": [
+    -0.0433,
+    1.5934,
+    0.0313
+   ],
+   "max": [
+    -0.0132,
+    1.6092,
+    0.0773
+   ]
+  },
+  "levator-scapulae__l": {
+   "source": "Levator scapulae.l",
+   "min": [
+    0.0252,
+    1.3866,
+    -0.0953
+   ],
+   "max": [
+    0.0867,
+    1.5394,
+    -0.0095
+   ]
+  },
+  "levator-scapulae__r": {
+   "source": "Levator scapulae.r",
+   "min": [
+    -0.0867,
+    1.3866,
+    -0.0953
+   ],
+   "max": [
+    -0.0252,
+    1.5394,
+    -0.0095
+   ]
+  },
+  "longissimus-capitis-muscle__l": {
+   "source": "Longissimus capitis muscle.l",
+   "min": [
+    0.0252,
+    1.4129,
+    -0.0675
+   ],
+   "max": [
+    0.0604,
+    1.5701,
+    -0.0153
+   ]
+  },
+  "longissimus-capitis-muscle__r": {
+   "source": "Longissimus capitis muscle.r",
+   "min": [
+    -0.0604,
+    1.4129,
+    -0.0675
+   ],
+   "max": [
+    -0.0252,
+    1.5701,
+    -0.0153
+   ]
+  },
+  "longissimus-colli-muscle__l": {
+   "source": "Longissimus colli muscle.l",
+   "min": [
+    0.0231,
+    1.3301,
+    -0.0924
+   ],
+   "max": [
+    0.0422,
+    1.5196,
+    -0.0112
+   ]
+  },
+  "longissimus-colli-muscle__r": {
+   "source": "Longissimus colli muscle.r",
+   "min": [
+    -0.0422,
+    1.3301,
+    -0.0924
+   ],
+   "max": [
+    -0.0231,
+    1.5196,
+    -0.0112
+   ]
+  },
+  "longus-capitis-muscle__l": {
+   "source": "Longus capitis muscle.l",
+   "min": [
+    0.0023,
+    1.459,
+    -0.0109
+   ],
+   "max": [
+    0.0266,
+    1.5691,
+    0.0067
+   ]
+  },
+  "longus-capitis-muscle__r": {
+   "source": "Longus capitis muscle.r",
+   "min": [
+    -0.0266,
+    1.459,
+    -0.0109
+   ],
+   "max": [
+    -0.0023,
+    1.5691,
+    0.0067
+   ]
+  },
+  "longus-colli-muscle__l": {
+   "source": "Longus colli muscle.l",
+   "min": [
+    0.0013,
+    1.3876,
+    -0.0294
+   ],
+   "max": [
+    0.0261,
+    1.5449,
+    0.0047
+   ]
+  },
+  "longus-colli-muscle__r": {
+   "source": "Longus colli muscle.r",
+   "min": [
+    -0.0261,
+    1.3876,
+    -0.0294
+   ],
+   "max": [
+    -0.0013,
+    1.5449,
+    0.0047
+   ]
+  },
+  "medial-pterygoid-muscle__l": {
+   "source": "Medial pterygoid muscle.l",
+   "min": [
+    0.0145,
+    1.5269,
+    0.0113
+   ],
+   "max": [
+    0.037,
+    1.5761,
+    0.0419
+   ]
+  },
+  "medial-pterygoid-muscle__r": {
+   "source": "Medial pterygoid muscle.r",
+   "min": [
+    -0.037,
+    1.5269,
+    0.0113
+   ],
+   "max": [
+    -0.0145,
+    1.5761,
+    0.0419
+   ]
+  },
+  "medial-rectus-muscle__l": {
+   "source": "Medial rectus muscle.l",
+   "min": [
+    0.0125,
+    1.5849,
+    0.0328
+   ],
+   "max": [
+    0.0225,
+    1.6015,
+    0.0732
+   ]
+  },
+  "medial-rectus-muscle__r": {
+   "source": "Medial rectus muscle.r",
+   "min": [
+    -0.0225,
+    1.5849,
+    0.0328
+   ],
+   "max": [
+    -0.0125,
+    1.6015,
+    0.0732
+   ]
+  },
+  "mentalis-muscle__l": {
+   "source": "Mentalis muscle.l",
+   "min": [
+    0.0008,
+    1.4981,
+    0.0753
+   ],
+   "max": [
+    0.0145,
+    1.5129,
+    0.0824
+   ]
+  },
+  "mentalis-muscle__r": {
+   "source": "Mentalis muscle.r",
+   "min": [
+    -0.0145,
+    1.4981,
+    0.0753
+   ],
+   "max": [
+    -0.0008,
+    1.5129,
+    0.0824
+   ]
+  },
+  "middle-pharyngeal-constrictor__l": {
+   "source": "Middle pharyngeal constrictor.l",
+   "min": [
+    0.0004,
+    1.4995,
+    0.0021
+   ],
+   "max": [
+    0.0192,
+    1.5452,
+    0.0337
+   ]
+  },
+  "middle-pharyngeal-constrictor__r": {
+   "source": "Middle pharyngeal constrictor.r",
+   "min": [
+    -0.0192,
+    1.4995,
+    0.0021
+   ],
+   "max": [
+    -0.0004,
+    1.5452,
+    0.0337
+   ]
+  },
+  "mylohyoid-muscle__l": {
+   "source": "Mylohyoid muscle.l",
+   "min": [
+    0,
+    1.4982,
+    0.0346
+   ],
+   "max": [
+    0.027,
+    1.5262,
+    0.0724
+   ]
+  },
+  "mylohyoid-muscle__r": {
+   "source": "Mylohyoid muscle.r",
+   "min": [
+    -0.027,
+    1.4982,
+    0.0346
+   ],
+   "max": [
+    0,
+    1.5262,
+    0.0724
+   ]
+  },
+  "nasalis-muscle__l": {
+   "source": "Nasalis muscle.l",
+   "min": [
+    0.0016,
+    1.5632,
+    0.0783
+   ],
+   "max": [
+    0.0149,
+    1.6035,
+    0.1001
+   ]
+  },
+  "nasalis-muscle__r": {
+   "source": "Nasalis muscle.r",
+   "min": [
+    -0.0149,
+    1.5632,
+    0.0783
+   ],
+   "max": [
+    -0.0016,
+    1.6035,
+    0.1001
+   ]
+  },
+  "obliquus-inferior-capitis-muscle__l": {
+   "source": "Obliquus inferior capitis muscle.l",
+   "min": [
+    0.0029,
+    1.5103,
+    -0.0517
+   ],
+   "max": [
+    0.0416,
+    1.5418,
+    -0.0139
+   ]
+  },
+  "obliquus-inferior-capitis-muscle__r": {
+   "source": "Obliquus inferior capitis muscle.r",
+   "min": [
+    -0.0416,
+    1.5103,
+    -0.0517
+   ],
+   "max": [
+    -0.0029,
+    1.5418,
+    -0.0139
+   ]
+  },
+  "obliquus-superior-capitis-muscle__l": {
+   "source": "Obliquus superior capitis muscle.l",
+   "min": [
+    0.0284,
+    1.5412,
+    -0.0655
+   ],
+   "max": [
+    0.0428,
+    1.5641,
+    -0.0157
+   ]
+  },
+  "obliquus-superior-capitis-muscle__r": {
+   "source": "Obliquus superior capitis muscle.r",
+   "min": [
+    -0.0428,
+    1.5412,
+    -0.0655
+   ],
+   "max": [
+    -0.0284,
+    1.5641,
+    -0.0157
+   ]
+  },
+  "occipitalis-muscle__l": {
+   "source": "Occipitalis muscle.l",
+   "min": [
+    0.0148,
+    1.5852,
+    -0.1047
+   ],
+   "max": [
+    0.0614,
+    1.6182,
+    -0.0581
+   ]
+  },
+  "occipitalis-muscle__r": {
+   "source": "Occipitalis muscle.r",
+   "min": [
+    -0.0614,
+    1.5852,
+    -0.1047
+   ],
+   "max": [
+    -0.0148,
+    1.6182,
+    -0.0581
+   ]
+  },
+  "omohyoid-muscle__l": {
+   "source": "Omohyoid muscle.l",
+   "min": [
+    0.0124,
+    1.3914,
+    -0.0598
+   ],
+   "max": [
+    0.1032,
+    1.498,
+    0.0337
+   ]
+  },
+  "omohyoid-muscle__r": {
+   "source": "Omohyoid muscle.r",
+   "min": [
+    -0.1032,
+    1.3914,
+    -0.0598
+   ],
+   "max": [
+    -0.0124,
+    1.498,
+    0.0337
+   ]
+  },
+  "orbicularis-oris-muscle__l": {
+   "source": "Orbicularis oris muscle.l",
+   "min": [
+    0,
+    1.5087,
+    0.0675
+   ],
+   "max": [
+    0.0321,
+    1.5541,
+    0.0951
+   ]
+  },
+  "orbicularis-oris-muscle__r": {
+   "source": "Orbicularis oris muscle.r",
+   "min": [
+    -0.0321,
+    1.5087,
+    0.0675
+   ],
+   "max": [
+    0,
+    1.5541,
+    0.0951
+   ]
+  },
+  "palatopharyngeus-muscle__l": {
+   "source": "Palatopharyngeus muscle.l",
+   "min": [
+    -0.0007,
+    1.463,
+    -0.0002
+   ],
+   "max": [
+    0.0198,
+    1.5511,
+    0.0151
+   ]
+  },
+  "palatopharyngeus-muscle__r": {
+   "source": "Palatopharyngeus muscle.r",
+   "min": [
+    -0.0198,
+    1.463,
+    -0.0002
+   ],
+   "max": [
+    0.0007,
+    1.5511,
+    0.0151
+   ]
+  },
+  "posterior-crico-arytenoid-muscle__l": {
+   "source": "Posterior crico-arytenoid muscle.l",
+   "min": [
+    0.0023,
+    1.4653,
+    -0.0055
+   ],
+   "max": [
+    0.0114,
+    1.4797,
+    0.0002
+   ]
+  },
+  "posterior-crico-arytenoid-muscle__r": {
+   "source": "Posterior crico-arytenoid muscle.r",
+   "min": [
+    -0.0114,
+    1.4653,
+    -0.0055
+   ],
+   "max": [
+    -0.0023,
+    1.4797,
+    0.0002
+   ]
+  },
+  "procerus-muscle__l": {
+   "source": "Procerus muscle.l",
+   "min": [
+    0,
+    1.5938,
+    0.0834
+   ],
+   "max": [
+    0.0233,
+    1.6303,
+    0.0895
+   ]
+  },
+  "procerus-muscle__r": {
+   "source": "Procerus muscle.r",
+   "min": [
+    -0.0233,
+    1.5938,
+    0.0834
+   ],
+   "max": [
+    0,
+    1.6303,
+    0.0895
+   ]
+  },
+  "rectus-posterior-major-capitis-muscle__l": {
+   "source": "Rectus posterior major capitis muscle.l",
+   "min": [
+    0.0003,
+    1.5145,
+    -0.0615
+   ],
+   "max": [
+    0.0356,
+    1.5611,
+    -0.0363
+   ]
+  },
+  "rectus-posterior-major-capitis-muscle__r": {
+   "source": "Rectus posterior major capitis muscle.r",
+   "min": [
+    -0.0356,
+    1.5145,
+    -0.0615
+   ],
+   "max": [
+    -0.0003,
+    1.5611,
+    -0.0363
+   ]
+  },
+  "rectus-posterior-minor-capitis-muscle__l": {
+   "source": "Rectus posterior minor capitis muscle.l",
+   "min": [
+    0,
+    1.5385,
+    -0.0686
+   ],
+   "max": [
+    0.0237,
+    1.5645,
+    -0.0433
+   ]
+  },
+  "rectus-posterior-minor-capitis-muscle__r": {
+   "source": "Rectus posterior minor capitis muscle.r",
+   "min": [
+    -0.0237,
+    1.5385,
+    -0.0686
+   ],
+   "max": [
+    0,
+    1.5645,
+    -0.0433
+   ]
+  },
+  "risorius-muscle__l": {
+   "source": "Risorius muscle.l",
+   "min": [
+    0.0287,
+    1.515,
+    0.0438
+   ],
+   "max": [
+    0.0484,
+    1.5422,
+    0.0714
+   ]
+  },
+  "risorius-muscle__r": {
+   "source": "Risorius muscle.r",
+   "min": [
+    -0.0484,
+    1.515,
+    0.0438
+   ],
+   "max": [
+    -0.0287,
+    1.5422,
+    0.0714
+   ]
+  },
+  "scalenus-anterior-muscle__l": {
+   "source": "Scalenus anterior muscle.l",
+   "min": [
+    0.0206,
+    1.4108,
+    -0.0104
+   ],
+   "max": [
+    0.0549,
+    1.4936,
+    0.0084
+   ]
+  },
+  "scalenus-anterior-muscle__r": {
+   "source": "Scalenus anterior muscle.r",
+   "min": [
+    -0.0549,
+    1.4108,
+    -0.0104
+   ],
+   "max": [
+    -0.0206,
+    1.4936,
+    0.0084
+   ]
+  },
+  "scalenus-medius-muscle__l": {
+   "source": "Scalenus medius muscle.l",
+   "min": [
+    0.024,
+    1.4195,
+    -0.0267
+   ],
+   "max": [
+    0.0542,
+    1.5187,
+    -0.0016
+   ]
+  },
+  "scalenus-medius-muscle__r": {
+   "source": "Scalenus medius muscle.r",
+   "min": [
+    -0.0542,
+    1.4195,
+    -0.0267
+   ],
+   "max": [
+    -0.024,
+    1.5187,
+    -0.0016
+   ]
+  },
+  "scalenus-posterior-muscle__l": {
+   "source": "Scalenus posterior muscle.l",
+   "min": [
+    0.0256,
+    1.4238,
+    -0.0398
+   ],
+   "max": [
+    0.0698,
+    1.4774,
+    -0.0123
+   ]
+  },
+  "scalenus-posterior-muscle__r": {
+   "source": "Scalenus posterior muscle.r",
+   "min": [
+    -0.0698,
+    1.4238,
+    -0.0398
+   ],
+   "max": [
+    -0.0256,
+    1.4774,
+    -0.0123
+   ]
+  },
+  "external-part-of-thyro-arytenoid-muscle__l": {
+   "source": "External part of thyro-arytenoid muscle.l",
+   "min": [
+    0.0024,
+    1.4711,
+    0.0048
+   ],
+   "max": [
+    0.0084,
+    1.4803,
+    0.0256
+   ]
+  },
+  "external-part-of-thyro-arytenoid-muscle__r": {
+   "source": "External part of thyro-arytenoid muscle.r",
+   "min": [
+    -0.0084,
+    1.4711,
+    0.0048
+   ],
+   "max": [
+    -0.0024,
+    1.4803,
+    0.0256
+   ]
+  },
+  "orbital-part-of-orbicularis-oculi__l": {
+   "source": "Orbital part of orbicularis oculi.l",
+   "min": [
+    0.0091,
+    1.5674,
+    0.0555
+   ],
+   "max": [
+    0.0534,
+    1.6171,
+    0.0869
+   ]
+  },
+  "orbital-part-of-orbicularis-oculi__r": {
+   "source": "Orbital part of orbicularis oculi.r",
+   "min": [
+    -0.0534,
+    1.5674,
+    0.0555
+   ],
+   "max": [
+    -0.0091,
+    1.6171,
+    0.0869
+   ]
+  },
+  "palpebral-part-of-orbicularis-oculi__l": {
+   "source": "Palpebral part of orbicularis oculi.l",
+   "min": [
+    0.0128,
+    1.5792,
+    0.0637
+   ],
+   "max": [
+    0.0464,
+    1.6034,
+    0.0809
+   ]
+  },
+  "palpebral-part-of-orbicularis-oculi__r": {
+   "source": "Palpebral part of orbicularis oculi.r",
+   "min": [
+    -0.0464,
+    1.5792,
+    0.0637
+   ],
+   "max": [
+    -0.0128,
+    1.6034,
+    0.0809
+   ]
+  },
+  "platysma__l": {
+   "source": "Platysma.l",
+   "min": [
+    -0.0026,
+    1.3992,
+    -0.0409
+   ],
+   "max": [
+    0.1412,
+    1.5414,
+    0.0837
+   ]
+  },
+  "platysma__r": {
+   "source": "Platysma.r",
+   "min": [
+    -0.1412,
+    1.3992,
+    -0.0409
+   ],
+   "max": [
+    0.0026,
+    1.5414,
+    0.0837
+   ]
+  },
+  "posterior-belly-of-digastric-muscle__l": {
+   "source": "Posterior belly of digastric muscle.l",
+   "min": [
+    0.0119,
+    1.5026,
+    -0.0259
+   ],
+   "max": [
+    0.0589,
+    1.5667,
+    0.0371
+   ]
+  },
+  "posterior-belly-of-digastric-muscle__r": {
+   "source": "Posterior belly of digastric muscle.r",
+   "min": [
+    -0.0589,
+    1.5026,
+    -0.0259
+   ],
+   "max": [
+    -0.0119,
+    1.5667,
+    0.0371
+   ]
+  },
+  "rectus-anterior-capitis-muscle__l": {
+   "source": "Rectus anterior capitis muscle.l",
+   "min": [
+    0.0032,
+    1.5455,
+    -0.0062
+   ],
+   "max": [
+    0.0282,
+    1.5659,
+    0.0005
+   ]
+  },
+  "rectus-anterior-capitis-muscle__r": {
+   "source": "Rectus anterior capitis muscle.r",
+   "min": [
+    -0.0282,
+    1.5455,
+    -0.0062
+   ],
+   "max": [
+    -0.0032,
+    1.5659,
+    0.0005
+   ]
+  },
+  "rectus-lateralis-capitis-muscle__l": {
+   "source": "Rectus lateralis capitis muscle.l",
+   "min": [
+    0.0295,
+    1.5409,
+    -0.0254
+   ],
+   "max": [
+    0.0418,
+    1.5622,
+    -0.008
+   ]
+  },
+  "rectus-lateralis-capitis-muscle__r": {
+   "source": "Rectus lateralis capitis muscle.r",
+   "min": [
+    -0.0418,
+    1.5409,
+    -0.0254
+   ],
+   "max": [
+    -0.0295,
+    1.5622,
+    -0.008
+   ]
+  },
+  "spinalis-capitis-muscle__l": {
+   "source": "Spinalis capitis muscle.l",
+   "min": [
+    0.0028,
+    1.4491,
+    -0.0794
+   ],
+   "max": [
+    0.0443,
+    1.5732,
+    -0.0247
+   ]
+  },
+  "spinalis-capitis-muscle__r": {
+   "source": "Spinalis capitis muscle.r",
+   "min": [
+    -0.0443,
+    1.4491,
+    -0.0794
+   ],
+   "max": [
+    -0.0028,
+    1.5732,
+    -0.0247
+   ]
+  },
+  "splenius-capitis-muscle__l": {
+   "source": "Splenius capitis muscle.l",
+   "min": [
+    -0.0007,
+    1.3578,
+    -0.1033
+   ],
+   "max": [
+    0.0606,
+    1.5734,
+    -0.019
+   ]
+  },
+  "splenius-capitis-muscle__r": {
+   "source": "Splenius capitis muscle.r",
+   "min": [
+    -0.0606,
+    1.3578,
+    -0.1033
+   ],
+   "max": [
+    0.0007,
+    1.5734,
+    -0.019
+   ]
+  },
+  "splenius-colli-muscle__l": {
+   "source": "Splenius colli muscle.l",
+   "min": [
+    -0.0011,
+    1.2854,
+    -0.1044
+   ],
+   "max": [
+    0.0426,
+    1.543,
+    -0.0121
+   ]
+  },
+  "splenius-colli-muscle__r": {
+   "source": "Splenius colli muscle.r",
+   "min": [
+    -0.0426,
+    1.2854,
+    -0.1044
+   ],
+   "max": [
+    0.0011,
+    1.543,
+    -0.0121
+   ]
+  },
+  "sternocleidomastoid-muscle__l": {
+   "source": "Sternocleidomastoid muscle.l",
+   "min": [
+    0.0037,
+    1.3817,
+    -0.0493
+   ],
+   "max": [
+    0.0614,
+    1.5754,
+    0.0644
+   ]
+  },
+  "sternocleidomastoid-muscle__r": {
+   "source": "Sternocleidomastoid muscle.r",
+   "min": [
+    -0.0614,
+    1.3817,
+    -0.0492
+   ],
+   "max": [
+    -0.0037,
+    1.5754,
+    0.0644
+   ]
+  },
+  "sternohyoid-muscle__l": {
+   "source": "Sternohyoid muscle.l",
+   "min": [
+    0.0036,
+    1.3894,
+    0.0182
+   ],
+   "max": [
+    0.0274,
+    1.4975,
+    0.0368
+   ]
+  },
+  "sternohyoid-muscle__r": {
+   "source": "Sternohyoid muscle.r",
+   "min": [
+    -0.0274,
+    1.3894,
+    0.0182
+   ],
+   "max": [
+    -0.0036,
+    1.4975,
+    0.0368
+   ]
+  },
+  "sternothyroid-muscle__l": {
+   "source": "Sternothyroid muscle.l",
+   "min": [
+    0.0042,
+    1.3813,
+    0.0082
+   ],
+   "max": [
+    0.0225,
+    1.4801,
+    0.0382
+   ]
+  },
+  "sternothyroid-muscle__r": {
+   "source": "Sternothyroid muscle.r",
+   "min": [
+    -0.0225,
+    1.3813,
+    0.0082
+   ],
+   "max": [
+    -0.0042,
+    1.4801,
+    0.0382
+   ]
+  },
+  "straight-part-of-cricothyroid-muscle__l": {
+   "source": "Straight part of cricothyroid muscle.l",
+   "min": [
+    0.0023,
+    1.463,
+    0.0065
+   ],
+   "max": [
+    0.012,
+    1.4733,
+    0.0133
+   ]
+  },
+  "straight-part-of-cricothyroid-muscle__r": {
+   "source": "Straight part of cricothyroid muscle.r",
+   "min": [
+    -0.012,
+    1.463,
+    0.0065
+   ],
+   "max": [
+    -0.0023,
+    1.4733,
+    0.0133
+   ]
+  },
+  "stylohyoid-muscle__l": {
+   "source": "Stylohyoid muscle.l",
+   "min": [
+    0.0098,
+    1.499,
+    -0.0066
+   ],
+   "max": [
+    0.0414,
+    1.5617,
+    0.0342
+   ]
+  },
+  "stylohyoid-muscle__r": {
+   "source": "Stylohyoid muscle.r",
+   "min": [
+    -0.0414,
+    1.499,
+    -0.0066
+   ],
+   "max": [
+    -0.0098,
+    1.5617,
+    0.0342
+   ]
+  },
+  "stylopharyngeus-muscle__l": {
+   "source": "Stylopharyngeus muscle.l",
+   "min": [
+    0.0126,
+    1.4907,
+    -0.0052
+   ],
+   "max": [
+    0.0404,
+    1.5574,
+    0.0191
+   ]
+  },
+  "stylopharyngeus-muscle__r": {
+   "source": "Stylopharyngeus muscle.r",
+   "min": [
+    -0.0404,
+    1.4907,
+    -0.0052
+   ],
+   "max": [
+    -0.0126,
+    1.5574,
+    0.0191
+   ]
+  },
+  "superficial-part-of-masseter__l": {
+   "source": "Superficial part of masseter.l",
+   "min": [
+    0.0361,
+    1.5122,
+    0.0172
+   ],
+   "max": [
+    0.0627,
+    1.5743,
+    0.0567
+   ]
+  },
+  "superficial-part-of-masseter__r": {
+   "source": "Superficial part of masseter.r",
+   "min": [
+    -0.0627,
+    1.5122,
+    0.0172
+   ],
+   "max": [
+    -0.0361,
+    1.5743,
+    0.0567
+   ]
+  },
+  "superior-head-of-lateral-pterygoid-muscle__l": {
+   "source": "Superior head of lateral pterygoid muscle.l",
+   "min": [
+    0.0217,
+    1.5693,
+    0.0101
+   ],
+   "max": [
+    0.043,
+    1.5841,
+    0.0324
+   ]
+  },
+  "superior-head-of-lateral-pterygoid-muscle__r": {
+   "source": "Superior head of lateral pterygoid muscle.r",
+   "min": [
+    -0.043,
+    1.5693,
+    0.0101
+   ],
+   "max": [
+    -0.0217,
+    1.5841,
+    0.0324
+   ]
+  },
+  "superior-oblique-muscle__l": {
+   "source": "Superior oblique muscle.l",
+   "min": [
+    0.0126,
+    1.5954,
+    0.0339
+   ],
+   "max": [
+    0.0406,
+    1.6073,
+    0.0772
+   ]
+  },
+  "superior-oblique-muscle__r": {
+   "source": "Superior oblique muscle.r",
+   "min": [
+    -0.0406,
+    1.5954,
+    0.0339
+   ],
+   "max": [
+    -0.0126,
+    1.6073,
+    0.0772
+   ]
+  },
+  "superior-pharyngeal-constrictor__l": {
+   "source": "Superior pharyngeal constrictor.l",
+   "min": [
+    0.0007,
+    1.5209,
+    0.0058
+   ],
+   "max": [
+    0.0336,
+    1.5746,
+    0.0385
+   ]
+  },
+  "superior-pharyngeal-constrictor__r": {
+   "source": "Superior pharyngeal constrictor.r",
+   "min": [
+    -0.0336,
+    1.5209,
+    0.0058
+   ],
+   "max": [
+    -0.0007,
+    1.5746,
+    0.0385
+   ]
+  },
+  "superior-rectus-muscle__l": {
+   "source": "Superior rectus muscle.l",
+   "min": [
+    0.0139,
+    1.5984,
+    0.0328
+   ],
+   "max": [
+    0.0368,
+    1.6048,
+    0.0735
+   ]
+  },
+  "superior-rectus-muscle__r": {
+   "source": "Superior rectus muscle.r",
+   "min": [
+    -0.0368,
+    1.5984,
+    0.0328
+   ],
+   "max": [
+    -0.0139,
+    1.6048,
+    0.0735
+   ]
+  },
+  "temporalis-muscle__l": {
+   "source": "Temporalis muscle.l",
+   "min": [
+    0.0378,
+    1.546,
+    -0.0505
+   ],
+   "max": [
+    0.0768,
+    1.6619,
+    0.0634
+   ]
+  },
+  "temporalis-muscle__r": {
+   "source": "Temporalis muscle.r",
+   "min": [
+    -0.0768,
+    1.546,
+    -0.0505
+   ],
+   "max": [
+    -0.0378,
+    1.6619,
+    0.0634
+   ]
+  },
+  "temporoparietalis-muscle__l": {
+   "source": "Temporoparietalis muscle.l",
+   "min": [
+    0.0421,
+    1.575,
+    -0.0718
+   ],
+   "max": [
+    0.0805,
+    1.6777,
+    0.045
+   ]
+  },
+  "temporoparietalis-muscle__r": {
+   "source": "Temporoparietalis muscle.r",
+   "min": [
+    -0.0805,
+    1.575,
+    -0.0718
+   ],
+   "max": [
+    -0.0421,
+    1.6777,
+    0.045
+   ]
+  },
+  "thyro-epiglottic-part-of-thyro-arytenoid-muscle__l": {
+   "source": "Thyro-epiglottic part of thyro-arytenoid muscle.l",
+   "min": [
+    0.0003,
+    1.4779,
+    0.0095
+   ],
+   "max": [
+    0.0088,
+    1.5028,
+    0.0283
+   ]
+  },
+  "thyro-epiglottic-part-of-thyro-arytenoid-muscle__r": {
+   "source": "Thyro-epiglottic part of thyro-arytenoid muscle.r",
+   "min": [
+    -0.0088,
+    1.4779,
+    0.0095
+   ],
+   "max": [
+    -0.0003,
+    1.5028,
+    0.0283
+   ]
+  },
+  "thyrohyoid-muscle__l": {
+   "source": "Thyrohyoid muscle.l",
+   "min": [
+    0.0075,
+    1.4665,
+    0.0071
+   ],
+   "max": [
+    0.0198,
+    1.4974,
+    0.0321
+   ]
+  },
+  "thyrohyoid-muscle__r": {
+   "source": "Thyrohyoid muscle.r",
+   "min": [
+    -0.0198,
+    1.4665,
+    0.0071
+   ],
+   "max": [
+    -0.0075,
+    1.4974,
+    0.0321
+   ]
+  },
+  "transverse-arytenoid-muscle": {
+   "source": "Transverse arytenoid muscle",
+   "min": [
+    -0.008,
+    1.4732,
+    0.0043
+   ],
+   "max": [
+    0.0067,
+    1.4794,
+    0.0073
+   ]
+  },
+  "trochlea-of-superior-oblique-muscle__l": {
+   "source": "Trochlea of superior oblique muscle.l",
+   "min": [
+    0.0125,
+    1.6051,
+    0.074
+   ],
+   "max": [
+    0.0167,
+    1.6087,
+    0.0769
+   ]
+  },
+  "trochlea-of-superior-oblique-muscle__r": {
+   "source": "Trochlea of superior oblique muscle.r",
+   "min": [
+    -0.0167,
+    1.6051,
+    0.074
+   ],
+   "max": [
+    -0.0125,
+    1.6087,
+    0.0769
+   ]
+  },
+  "zygomaticus-major-muscle__l": {
+   "source": "Zygomaticus major muscle.l",
+   "min": [
+    0.0261,
+    1.5243,
+    0.0504
+   ],
+   "max": [
+    0.0555,
+    1.5789,
+    0.076
+   ]
+  },
+  "zygomaticus-major-muscle__r": {
+   "source": "Zygomaticus major muscle.r",
+   "min": [
+    -0.0555,
+    1.5243,
+    0.0504
+   ],
+   "max": [
+    -0.0261,
+    1.5789,
+    0.076
+   ]
+  },
+  "zygomaticus-minor-muscle__l": {
+   "source": "Zygomaticus minor muscle.l",
+   "min": [
+    0.0127,
+    1.5467,
+    0.06
+   ],
+   "max": [
+    0.0503,
+    1.5773,
+    0.0847
+   ]
+  },
+  "zygomaticus-minor-muscle__r": {
+   "source": "Zygomaticus minor muscle.r",
+   "min": [
+    -0.0503,
+    1.5467,
+    0.06
+   ],
+   "max": [
+    -0.0127,
+    1.5773,
+    0.0847
+   ]
+  }
+ },
+ "nerves": {
+  "abducens-nerve-vi__l": {
+   "source": "Abducens nerve (VI).l",
+   "min": [
+    0.0012,
+    1.5752,
+    -0.0161
+   ],
+   "max": [
+    0.0325,
+    1.6006,
+    0.0465
+   ]
+  },
+  "abducens-nerve-vi__r": {
+   "source": "Abducens nerve (VI).r",
+   "min": [
+    -0.0325,
+    1.5752,
+    -0.0161
+   ],
+   "max": [
+    -0.0012,
+    1.6006,
+    0.0465
+   ]
+  },
+  "accessory-nerve-xi__l": {
+   "source": "Accessory nerve (XI).l",
+   "min": [
+    0.0027,
+    1.2901,
+    -0.1123
+   ],
+   "max": [
+    0.0595,
+    1.5696,
+    0.012
+   ]
+  },
+  "accessory-nerve-xi__r": {
+   "source": "Accessory nerve (XI).r",
+   "min": [
+    -0.0595,
+    1.29,
+    -0.1123
+   ],
+   "max": [
+    -0.0027,
+    1.5696,
+    0.012
+   ]
+  },
+  "anterior-division-of-mandibular-nerve__l": {
+   "source": "Anterior division of mandibular nerve.l",
+   "min": [
+    0.0226,
+    1.5638,
+    0.0147
+   ],
+   "max": [
+    0.0302,
+    1.5771,
+    0.0223
+   ]
+  },
+  "anterior-division-of-mandibular-nerve__r": {
+   "source": "Anterior division of mandibular nerve.r",
+   "min": [
+    -0.0302,
+    1.5638,
+    0.0147
+   ],
+   "max": [
+    -0.0226,
+    1.5771,
+    0.0223
+   ]
+  },
+  "buccal-nerve__l": {
+   "source": "Buccal nerve.l",
+   "min": [
+    0.0296,
+    1.5286,
+    0.0218
+   ],
+   "max": [
+    0.0339,
+    1.5641,
+    0.0628
+   ]
+  },
+  "buccal-nerve__r": {
+   "source": "Buccal nerve.r",
+   "min": [
+    -0.0339,
+    1.5286,
+    0.0218
+   ],
+   "max": [
+    -0.0296,
+    1.5641,
+    0.0628
+   ]
+  },
+  "chorda-tympani__l": {
+   "source": "Chorda tympani.l",
+   "min": [
+    0.0258,
+    1.5562,
+    -0.0063
+   ],
+   "max": [
+    0.0367,
+    1.5802,
+    0.0171
+   ]
+  },
+  "chorda-tympani__r": {
+   "source": "Chorda tympani.r",
+   "min": [
+    -0.0367,
+    1.5562,
+    -0.0063
+   ],
+   "max": [
+    -0.0258,
+    1.5802,
+    0.0171
+   ]
+  },
+  "facial-nerve-vii__l": {
+   "source": "Facial nerve (VII).l",
+   "min": [
+    0.0002,
+    1.5082,
+    -0.0174
+   ],
+   "max": [
+    0.0656,
+    1.6244,
+    0.0867
+   ]
+  },
+  "facial-nerve-vii__r": {
+   "source": "Facial nerve (VII).r",
+   "min": [
+    -0.0656,
+    1.5082,
+    -0.0174
+   ],
+   "max": [
+    -0.0002,
+    1.6244,
+    0.0867
+   ]
+  },
+  "glossopharyngeal-nerve-ix__l": {
+   "source": "Glossopharyngeal nerve (IX).l",
+   "min": [
+    0.0017,
+    1.4297,
+    -0.0211
+   ],
+   "max": [
+    0.0407,
+    1.5773,
+    0.0338
+   ]
+  },
+  "glossopharyngeal-nerve-ix__r": {
+   "source": "Glossopharyngeal nerve (IX).r",
+   "min": [
+    -0.0407,
+    1.4297,
+    -0.0211
+   ],
+   "max": [
+    -0.0017,
+    1.5773,
+    0.0338
+   ]
+  },
+  "hypoglossal-nerve-xii__l": {
+   "source": "Hypoglossal nerve (XII).l",
+   "min": [
+    0.0015,
+    1.5093,
+    -0.0211
+   ],
+   "max": [
+    0.028,
+    1.5738,
+    0.0547
+   ]
+  },
+  "hypoglossal-nerve-xii__r": {
+   "source": "Hypoglossal nerve (XII).r",
+   "min": [
+    -0.028,
+    1.5093,
+    -0.0211
+   ],
+   "max": [
+    -0.0015,
+    1.5738,
+    0.0547
+   ]
+  },
+  "inferior-alveolar-nerve__l": {
+   "source": "Inferior alveolar nerve.l",
+   "min": [
+    0.0016,
+    1.5009,
+    0.0189
+   ],
+   "max": [
+    0.0373,
+    1.546,
+    0.0847
+   ]
+  },
+  "inferior-alveolar-nerve__r": {
+   "source": "Inferior alveolar nerve.r",
+   "min": [
+    -0.0373,
+    1.5009,
+    0.0189
+   ],
+   "max": [
+    -0.0016,
+    1.546,
+    0.0847
+   ]
+  },
+  "lingual-nerve__l": {
+   "source": "Lingual nerve.l",
+   "min": [
+    0.008,
+    1.519,
+    0.0156
+   ],
+   "max": [
+    0.0308,
+    1.5704,
+    0.0616
+   ]
+  },
+  "lingual-nerve__r": {
+   "source": "Lingual nerve.r",
+   "min": [
+    -0.0308,
+    1.519,
+    0.0156
+   ],
+   "max": [
+    -0.008,
+    1.5704,
+    0.0616
+   ]
+  },
+  "maxillary-nerve__l": {
+   "source": "Maxillary nerve.l",
+   "min": [
+    0.0108,
+    1.5439,
+    0.002
+   ],
+   "max": [
+    0.0332,
+    1.6001,
+    0.0792
+   ]
+  },
+  "maxillary-nerve__r": {
+   "source": "Maxillary nerve.r",
+   "min": [
+    -0.0332,
+    1.5439,
+    0.002
+   ],
+   "max": [
+    -0.0108,
+    1.6001,
+    0.0792
+   ]
+  },
+  "meningeal-branch-of-maxillary-nerve__l": {
+   "source": "Meningeal branch of maxillary nerve.l",
+   "min": [
+    0.0226,
+    1.5574,
+    -0.0243
+   ],
+   "max": [
+    0.0762,
+    1.6644,
+    0.0275
+   ]
+  },
+  "meningeal-branch-of-maxillary-nerve__r": {
+   "source": "Meningeal branch of maxillary nerve.r",
+   "min": [
+    -0.0762,
+    1.5574,
+    -0.0243
+   ],
+   "max": [
+    -0.0226,
+    1.6644,
+    0.0275
+   ]
+  },
+  "mental-nerve__l": {
+   "source": "Mental nerve.l",
+   "min": [
+    0.0175,
+    1.5036,
+    0.0673
+   ],
+   "max": [
+    0.0219,
+    1.5155,
+    0.0726
+   ]
+  },
+  "mental-nerve__r": {
+   "source": "Mental nerve.r",
+   "min": [
+    -0.0219,
+    1.5036,
+    0.0673
+   ],
+   "max": [
+    -0.0175,
+    1.5155,
+    0.0726
+   ]
+  },
+  "motor-root-of-trigeminal-nerve__l": {
+   "source": "Motor root of trigeminal nerve.l",
+   "min": [
+    0.0068,
+    1.5877,
+    -0.0118
+   ],
+   "max": [
+    0.0087,
+    1.591,
+    -0.0099
+   ]
+  },
+  "motor-root-of-trigeminal-nerve__r": {
+   "source": "Motor root of trigeminal nerve.r",
+   "min": [
+    -0.0087,
+    1.5877,
+    -0.0118
+   ],
+   "max": [
+    -0.0068,
+    1.591,
+    -0.0099
+   ]
+  },
+  "nerve-to-mylohyoid-muscle__l": {
+   "source": "Nerve to mylohyoid muscle.l",
+   "min": [
+    0.0112,
+    1.5027,
+    0.0191
+   ],
+   "max": [
+    0.0363,
+    1.5459,
+    0.0544
+   ]
+  },
+  "nerve-to-mylohyoid-muscle__r": {
+   "source": "Nerve to mylohyoid muscle.r",
+   "min": [
+    -0.0363,
+    1.5027,
+    0.0191
+   ],
+   "max": [
+    -0.0112,
+    1.5459,
+    0.0544
+   ]
+  },
+  "oculomotor-nerve-iii__l": {
+   "source": "Oculomotor nerve (III).l",
+   "min": [
+    0.0002,
+    1.5744,
+    -0.0095
+   ],
+   "max": [
+    0.0391,
+    1.6085,
+    0.0718
+   ]
+  },
+  "oculomotor-nerve-iii__r": {
+   "source": "Oculomotor nerve (III).r",
+   "min": [
+    -0.0391,
+    1.5744,
+    -0.0095
+   ],
+   "max": [
+    -0.0002,
+    1.6085,
+    0.0718
+   ]
+  },
+  "olfactory-nerve-i__l": {
+   "source": "Olfactory nerve (I).l",
+   "min": [
+    -0.0001,
+    1.5962,
+    0.0179
+   ],
+   "max": [
+    0.0233,
+    1.6141,
+    0.0692
+   ]
+  },
+  "olfactory-nerve-i__r": {
+   "source": "Olfactory nerve (I).r",
+   "min": [
+    -0.0233,
+    1.5962,
+    0.0179
+   ],
+   "max": [
+    0.0001,
+    1.6141,
+    0.0692
+   ]
+  },
+  "ophthalmic-nerve__l": {
+   "source": "Ophthalmic nerve.l",
+   "min": [
+    0.0098,
+    1.597,
+    0.0019
+   ],
+   "max": [
+    0.0391,
+    1.633,
+    0.088
+   ]
+  },
+  "ophthalmic-nerve__r": {
+   "source": "Ophthalmic nerve.r",
+   "min": [
+    -0.0391,
+    1.597,
+    0.0019
+   ],
+   "max": [
+    -0.0098,
+    1.633,
+    0.088
+   ]
+  },
+  "optic-nerve-ii__l": {
+   "source": "Optic nerve (II).l",
+   "min": [
+    0,
+    1.5928,
+    0.0189
+   ],
+   "max": [
+    0.0305,
+    1.6095,
+    0.0614
+   ]
+  },
+  "optic-nerve-ii__r": {
+   "source": "Optic nerve (II).r",
+   "min": [
+    -0.0305,
+    1.5928,
+    0.0189
+   ],
+   "max": [
+    0,
+    1.6095,
+    0.0614
+   ]
+  },
+  "posterior-division-of-mandibular-nerve__l": {
+   "source": "Posterior division of mandibular nerve.l",
+   "min": [
+    0.0226,
+    1.5455,
+    0.0146
+   ],
+   "max": [
+    0.0366,
+    1.5771,
+    0.0201
+   ]
+  },
+  "posterior-division-of-mandibular-nerve__r": {
+   "source": "Posterior division of mandibular nerve.r",
+   "min": [
+    -0.0366,
+    1.5455,
+    0.0146
+   ],
+   "max": [
+    -0.0226,
+    1.5771,
+    0.0201
+   ]
+  },
+  "sensory-root-of-trigeminal-nerve__l": {
+   "source": "Sensory root of trigeminal nerve.l",
+   "min": [
+    0.0024,
+    1.5428,
+    -0.0341
+   ],
+   "max": [
+    0.0067,
+    1.6096,
+    -0.0078
+   ]
+  },
+  "sensory-root-of-trigeminal-nerve__r": {
+   "source": "Sensory root of trigeminal nerve.r",
+   "min": [
+    -0.0067,
+    1.5428,
+    -0.0341
+   ],
+   "max": [
+    -0.0024,
+    1.6096,
+    -0.0078
+   ]
+  },
+  "trigeminal-nerve-v__l": {
+   "source": "Trigeminal nerve (V).l",
+   "min": [
+    0.0045,
+    1.5766,
+    -0.0169
+   ],
+   "max": [
+    0.0233,
+    1.6001,
+    0.0154
+   ]
+  },
+  "trigeminal-nerve-v__r": {
+   "source": "Trigeminal nerve (V).r",
+   "min": [
+    -0.0233,
+    1.5766,
+    -0.0169
+   ],
+   "max": [
+    -0.0045,
+    1.6001,
+    0.0154
+   ]
+  },
+  "trochlear-nerve-iv__l": {
+   "source": "Trochlear nerve (IV).l",
+   "min": [
+    -0.0018,
+    1.5961,
+    -0.016
+   ],
+   "max": [
+    0.0302,
+    1.6068,
+    0.0579
+   ]
+  },
+  "trochlear-nerve-iv__r": {
+   "source": "Trochlear nerve (IV).r",
+   "min": [
+    -0.0302,
+    1.5961,
+    -0.016
+   ],
+   "max": [
+    0.0018,
+    1.6068,
+    0.0579
+   ]
+  },
+  "vagus-nerve-x__l": {
+   "source": "Vagus nerve (X).l",
+   "min": [
+    0.0016,
+    1.3462,
+    -0.0427
+   ],
+   "max": [
+    0.0289,
+    1.5758,
+    0.0312
+   ]
+  },
+  "vestibulocochlear-nerve-viii__l": {
+   "source": "Vestibulocochlear nerve (VIII).l",
+   "min": [
+    0.0072,
+    1.5766,
+    -0.0161
+   ],
+   "max": [
+    0.0216,
+    1.582,
+    -0.0048
+   ]
+  },
+  "vestibulocochlear-nerve-viii__r": {
+   "source": "Vestibulocochlear nerve (VIII).r",
+   "min": [
+    -0.0216,
+    1.5766,
+    -0.0161
+   ],
+   "max": [
+    -0.0072,
+    1.582,
+    -0.0048
+   ]
+  }
+ },
+ "teeth": {
+  "lower-canine__l": {
+   "source": "Lower canine.l",
+   "min": [
+    0.009,
+    1.5017,
+    0.0687
+   ],
+   "max": [
+    0.0167,
+    1.5278,
+    0.0839
+   ]
+  },
+  "lower-canine__r": {
+   "source": "Lower canine.r",
+   "min": [
+    -0.0167,
+    1.5017,
+    0.0687
+   ],
+   "max": [
+    -0.009,
+    1.5278,
+    0.0839
+   ]
+  },
+  "lower-first-molar-tooth__l": {
+   "source": "Lower first molar tooth.l",
+   "min": [
+    0.0168,
+    1.5134,
+    0.0499
+   ],
+   "max": [
+    0.0288,
+    1.5327,
+    0.0647
+   ]
+  },
+  "lower-first-molar-tooth__r": {
+   "source": "Lower first molar tooth.r",
+   "min": [
+    -0.0288,
+    1.5134,
+    0.0499
+   ],
+   "max": [
+    -0.0168,
+    1.5327,
+    0.0647
+   ]
+  },
+  "lower-first-premolar__l": {
+   "source": "Lower first premolar.l",
+   "min": [
+    0.013,
+    1.5065,
+    0.064
+   ],
+   "max": [
+    0.0208,
+    1.5285,
+    0.0778
+   ]
+  },
+  "lower-first-premolar__r": {
+   "source": "Lower first premolar.r",
+   "min": [
+    -0.0208,
+    1.5065,
+    0.064
+   ],
+   "max": [
+    -0.013,
+    1.5285,
+    0.0778
+   ]
+  },
+  "lower-lateral-incisor__l": {
+   "source": "Lower lateral incisor.l",
+   "min": [
+    0.0042,
+    1.5029,
+    0.0713
+   ],
+   "max": [
+    0.0119,
+    1.5274,
+    0.0878
+   ]
+  },
+  "lower-lateral-incisor__r": {
+   "source": "Lower lateral incisor.r",
+   "min": [
+    -0.0119,
+    1.5029,
+    0.0713
+   ],
+   "max": [
+    -0.0042,
+    1.5274,
+    0.0878
+   ]
+  },
+  "lower-medial-incisor__r": {
+   "source": "Lower medial incisor.r",
+   "min": [
+    -0.0063,
+    1.5027,
+    0.0707
+   ],
+   "max": [
+    -0.0002,
+    1.5274,
+    0.0886
+   ]
+  },
+  "lower-medial-incisor__l": {
+   "source": "Lower medial incisor.l",
+   "min": [
+    0.0002,
+    1.5027,
+    0.0707
+   ],
+   "max": [
+    0.0063,
+    1.5274,
+    0.0886
+   ]
+  },
+  "lower-second-molar-tooth__l": {
+   "source": "Lower second molar tooth.l",
+   "min": [
+    0.0203,
+    1.5186,
+    0.0376
+   ],
+   "max": [
+    0.0321,
+    1.5368,
+    0.0538
+   ]
+  },
+  "lower-second-molar-tooth__r": {
+   "source": "Lower second molar tooth.r",
+   "min": [
+    -0.0321,
+    1.5186,
+    0.0376
+   ],
+   "max": [
+    -0.0203,
+    1.5368,
+    0.0538
+   ]
+  },
+  "lower-second-premolar__l": {
+   "source": "Lower second premolar.l",
+   "min": [
+    0.016,
+    1.507,
+    0.0581
+   ],
+   "max": [
+    0.0239,
+    1.5298,
+    0.0711
+   ]
+  },
+  "lower-second-premolar__r": {
+   "source": "Lower second premolar.r",
+   "min": [
+    -0.0239,
+    1.507,
+    0.0581
+   ],
+   "max": [
+    -0.016,
+    1.5298,
+    0.0711
+   ]
+  },
+  "upper-canine__l": {
+   "source": "Upper canine.l",
+   "min": [
+    0.0125,
+    1.5271,
+    0.0769
+   ],
+   "max": [
+    0.0216,
+    1.5577,
+    0.086
+   ]
+  },
+  "upper-canine__r": {
+   "source": "Upper canine.r",
+   "min": [
+    -0.0216,
+    1.5271,
+    0.0769
+   ],
+   "max": [
+    -0.0125,
+    1.5577,
+    0.086
+   ]
+  },
+  "upper-first-molar-tooth__l": {
+   "source": "Upper first molar tooth.l",
+   "min": [
+    0.0185,
+    1.5317,
+    0.0535
+   ],
+   "max": [
+    0.0298,
+    1.5557,
+    0.0648
+   ]
+  },
+  "upper-first-molar-tooth__r": {
+   "source": "Upper first molar tooth.r",
+   "min": [
+    -0.0298,
+    1.5317,
+    0.0535
+   ],
+   "max": [
+    -0.0185,
+    1.5557,
+    0.0648
+   ]
+  },
+  "upper-first-premolar__l": {
+   "source": "Upper first premolar.l",
+   "min": [
+    0.0154,
+    1.5287,
+    0.0699
+   ],
+   "max": [
+    0.0247,
+    1.5565,
+    0.0778
+   ]
+  },
+  "upper-first-premolar__r": {
+   "source": "Upper first premolar.r",
+   "min": [
+    -0.0247,
+    1.5287,
+    0.0699
+   ],
+   "max": [
+    -0.0154,
+    1.5565,
+    0.0778
+   ]
+  },
+  "upper-lateral-incisor__l": {
+   "source": "Upper lateral incisor.l",
+   "min": [
+    0.0065,
+    1.5256,
+    0.0791
+   ],
+   "max": [
+    0.0159,
+    1.5538,
+    0.0902
+   ]
+  },
+  "upper-lateral-incisor__r": {
+   "source": "Upper lateral incisor.r",
+   "min": [
+    -0.0159,
+    1.5256,
+    0.0791
+   ],
+   "max": [
+    -0.0065,
+    1.5538,
+    0.0902
+   ]
+  },
+  "upper-medial-incisor__l": {
+   "source": "Upper medial incisor.l",
+   "min": [
+    0.0001,
+    1.5263,
+    0.0806
+   ],
+   "max": [
+    0.0088,
+    1.552,
+    0.0932
+   ]
+  },
+  "upper-medial-incisor__r": {
+   "source": "Upper medial incisor.r",
+   "min": [
+    -0.0088,
+    1.5263,
+    0.0806
+   ],
+   "max": [
+    -0.0001,
+    1.552,
+    0.0932
+   ]
+  },
+  "upper-second-molar-tooth__l": {
+   "source": "Upper second molar tooth.l",
+   "min": [
+    0.0179,
+    1.5352,
+    0.0459
+   ],
+   "max": [
+    0.0295,
+    1.5573,
+    0.0555
+   ]
+  },
+  "upper-second-molar-tooth__r": {
+   "source": "Upper second molar tooth.r",
+   "min": [
+    -0.0295,
+    1.5352,
+    0.0459
+   ],
+   "max": [
+    -0.0179,
+    1.5573,
+    0.0555
+   ]
+  },
+  "upper-second-premolar__l": {
+   "source": "Upper second premolar.l",
+   "min": [
+    0.0185,
+    1.5297,
+    0.0641
+   ],
+   "max": [
+    0.0276,
+    1.555,
+    0.0716
+   ]
+  },
+  "upper-second-premolar__r": {
+   "source": "Upper second premolar.r",
+   "min": [
+    -0.0276,
+    1.5297,
+    0.0641
+   ],
+   "max": [
+    -0.0185,
+    1.555,
+    0.0716
+   ]
+  }
+ },
+ "vessels": {
+  "accessory-branch-of-middle-meningeal-artery__l": {
+   "source": "Accessory branch of middle meningeal artery.l",
+   "min": [
+    0.0213,
+    1.5672,
+    0.0104
+   ],
+   "max": [
+    0.0374,
+    1.5902,
+    0.0153
+   ]
+  },
+  "accessory-branch-of-middle-meningeal-artery__r": {
+   "source": "Accessory branch of middle meningeal artery.r",
+   "min": [
+    -0.0374,
+    1.5672,
+    0.0104
+   ],
+   "max": [
+    -0.0213,
+    1.5902,
+    0.0153
+   ]
+  },
+  "angular-artery__l": {
+   "source": "Angular artery.l",
+   "min": [
+    0.0002,
+    1.5523,
+    0.0677
+   ],
+   "max": [
+    0.0306,
+    1.6653,
+    0.0878
+   ]
+  },
+  "angular-artery__r": {
+   "source": "Angular artery.r",
+   "min": [
+    -0.0306,
+    1.5523,
+    0.0677
+   ],
+   "max": [
+    -0.0002,
+    1.6653,
+    0.0878
+   ]
+  },
+  "angular-vein__l": {
+   "source": "Angular vein.l",
+   "min": [
+    0.0076,
+    1.5519,
+    0.0687
+   ],
+   "max": [
+    0.0295,
+    1.6232,
+    0.0855
+   ]
+  },
+  "angular-vein__r": {
+   "source": "Angular vein.r",
+   "min": [
+    -0.0295,
+    1.5519,
+    0.0687
+   ],
+   "max": [
+    -0.0076,
+    1.6232,
+    0.0855
+   ]
+  },
+  "anterior-deep-temporal-artery__l": {
+   "source": "Anterior deep temporal artery.l",
+   "min": [
+    0.0333,
+    1.5719,
+    0.0271
+   ],
+   "max": [
+    0.0555,
+    1.6162,
+    0.0408
+   ]
+  },
+  "anterior-deep-temporal-artery__r": {
+   "source": "Anterior deep temporal artery.r",
+   "min": [
+    -0.0555,
+    1.5719,
+    0.0271
+   ],
+   "max": [
+    -0.0333,
+    1.6162,
+    0.0408
+   ]
+  },
+  "anterior-division-of-retromandibular-vein__l": {
+   "source": "Anterior division of retromandibular vein.l",
+   "min": [
+    0.0321,
+    1.5287,
+    0.0055
+   ],
+   "max": [
+    0.0422,
+    1.5495,
+    0.0107
+   ]
+  },
+  "anterior-division-of-retromandibular-vein__r": {
+   "source": "Anterior division of retromandibular vein.r",
+   "min": [
+    -0.0422,
+    1.5287,
+    0.0055
+   ],
+   "max": [
+    -0.0321,
+    1.5495,
+    0.0107
+   ]
+  },
+  "anterior-ethmoidal-artery__l": {
+   "source": "Anterior ethmoidal artery.l",
+   "min": [
+    0.002,
+    1.586,
+    0.0523
+   ],
+   "max": [
+    0.0128,
+    1.5991,
+    0.0786
+   ]
+  },
+  "anterior-ethmoidal-artery__r": {
+   "source": "Anterior ethmoidal artery.r",
+   "min": [
+    -0.0128,
+    1.586,
+    0.0523
+   ],
+   "max": [
+    -0.002,
+    1.5991,
+    0.0786
+   ]
+  },
+  "anterior-intercavernous-sinus": {
+   "source": "Anterior intercavernous sinus",
+   "min": [
+    -0.0046,
+    1.6046,
+    0.0168
+   ],
+   "max": [
+    0.0046,
+    1.6068,
+    0.0191
+   ]
+  },
+  "anterior-septal-branches-of-anterior-ethmoidal-artery__l": {
+   "source": "Anterior septal branches of anterior ethmoidal artery.l",
+   "min": [
+    0.0013,
+    1.5741,
+    0.0431
+   ],
+   "max": [
+    0.003,
+    1.5957,
+    0.0642
+   ]
+  },
+  "anterior-septal-branches-of-anterior-ethmoidal-artery__r": {
+   "source": "Anterior septal branches of anterior ethmoidal artery.r",
+   "min": [
+    -0.003,
+    1.5741,
+    0.0431
+   ],
+   "max": [
+    -0.0013,
+    1.5957,
+    0.0642
+   ]
+  },
+  "artery-of-pterygoid-canal__l": {
+   "source": "Artery of pterygoid canal.l",
+   "min": [
+    0.0087,
+    1.5703,
+    0.0311
+   ],
+   "max": [
+    0.0339,
+    1.5766,
+    0.0396
+   ]
+  },
+  "artery-of-pterygoid-canal__r": {
+   "source": "Artery of pterygoid canal.r",
+   "min": [
+    -0.0339,
+    1.5703,
+    0.0311
+   ],
+   "max": [
+    -0.0087,
+    1.5766,
+    0.0396
+   ]
+  },
+  "ascending-pharyngeal-artery__l": {
+   "source": "Ascending pharyngeal artery.l",
+   "min": [
+    0.0129,
+    1.5217,
+    0.0028
+   ],
+   "max": [
+    0.0411,
+    1.5515,
+    0.0514
+   ]
+  },
+  "ascending-pharyngeal-artery__r": {
+   "source": "Ascending pharyngeal artery.r",
+   "min": [
+    -0.0411,
+    1.5217,
+    0.0028
+   ],
+   "max": [
+    -0.0129,
+    1.5514,
+    0.0514
+   ]
+  },
+  "basilar-venous-plexus": {
+   "source": "Basilar venous plexus",
+   "min": [
+    -0.0097,
+    1.5853,
+    0.0014
+   ],
+   "max": [
+    0.0097,
+    1.6027,
+    0.0102
+   ]
+  },
+  "buccal-artery__l": {
+   "source": "Buccal artery.l",
+   "min": [
+    0.0296,
+    1.543,
+    0.03
+   ],
+   "max": [
+    0.0345,
+    1.5729,
+    0.0655
+   ]
+  },
+  "buccal-artery__r": {
+   "source": "Buccal artery.r",
+   "min": [
+    -0.0345,
+    1.543,
+    0.03
+   ],
+   "max": [
+    -0.0296,
+    1.5729,
+    0.0655
+   ]
+  },
+  "cavernous-sinus__l": {
+   "source": "Cavernous sinus.l",
+   "min": [
+    0.005,
+    1.587,
+    0.0044
+   ],
+   "max": [
+    0.0183,
+    1.6038,
+    0.0242
+   ]
+  },
+  "cavernous-sinus__r": {
+   "source": "Cavernous sinus.r",
+   "min": [
+    -0.0183,
+    1.587,
+    0.0044
+   ],
+   "max": [
+    -0.005,
+    1.6038,
+    0.0242
+   ]
+  },
+  "central-retinal-artery__l": {
+   "source": "Central retinal artery.l",
+   "min": [
+    0.0136,
+    1.578,
+    0.034
+   ],
+   "max": [
+    0.0431,
+    1.6031,
+    0.0678
+   ]
+  },
+  "central-retinal-artery__r": {
+   "source": "Central retinal artery.r",
+   "min": [
+    -0.0431,
+    1.578,
+    0.034
+   ],
+   "max": [
+    -0.0136,
+    1.6031,
+    0.0678
+   ]
+  },
+  "common-facial-vein__l": {
+   "source": "Common facial vein.l",
+   "min": [
+    0.0274,
+    1.522,
+    0.0016
+   ],
+   "max": [
+    0.0344,
+    1.5304,
+    0.0103
+   ]
+  },
+  "common-facial-vein__r": {
+   "source": "Common facial vein.r",
+   "min": [
+    -0.0344,
+    1.522,
+    0.0016
+   ],
+   "max": [
+    -0.0274,
+    1.5304,
+    0.0103
+   ]
+  },
+  "deep-cervical-artery__l": {
+   "source": "Deep cervical artery.l",
+   "min": [
+    0.0324,
+    1.4198,
+    -0.0479
+   ],
+   "max": [
+    0.0494,
+    1.5,
+    -0.0101
+   ]
+  },
+  "deep-cervical-artery__r": {
+   "source": "Deep cervical artery.r",
+   "min": [
+    -0.0493,
+    1.4198,
+    -0.0479
+   ],
+   "max": [
+    -0.0324,
+    1.5,
+    -0.0101
+   ]
+  },
+  "descending-palatine-artery__l": {
+   "source": "Descending palatine artery.l",
+   "min": [
+    0.0151,
+    1.5541,
+    0.0325
+   ],
+   "max": [
+    0.0319,
+    1.5743,
+    0.0458
+   ]
+  },
+  "descending-palatine-artery__r": {
+   "source": "Descending palatine artery.r",
+   "min": [
+    -0.0319,
+    1.5541,
+    0.0325
+   ],
+   "max": [
+    -0.0151,
+    1.5743,
+    0.0458
+   ]
+  },
+  "external-carotid-artery__l": {
+   "source": "External carotid artery.l",
+   "min": [
+    0.0278,
+    1.4857,
+    -0.0036
+   ],
+   "max": [
+    0.046,
+    1.561,
+    0.0069
+   ]
+  },
+  "external-carotid-artery__r": {
+   "source": "External carotid artery.r",
+   "min": [
+    -0.046,
+    1.4857,
+    -0.0036
+   ],
+   "max": [
+    -0.0278,
+    1.561,
+    0.0069
+   ]
+  },
+  "external-jugular-vein__l": {
+   "source": "External jugular vein.l",
+   "min": [
+    0.0301,
+    1.4085,
+    -0.0025
+   ],
+   "max": [
+    0.0512,
+    1.5359,
+    0.0185
+   ]
+  },
+  "external-jugular-vein__r": {
+   "source": "External jugular vein.r",
+   "min": [
+    -0.0512,
+    1.4085,
+    -0.0025
+   ],
+   "max": [
+    -0.0301,
+    1.5359,
+    0.0185
+   ]
+  },
+  "facial-artery__l": {
+   "source": "Facial artery.l",
+   "min": [
+    0.029,
+    1.5085,
+    0.0041
+   ],
+   "max": [
+    0.0406,
+    1.5535,
+    0.0696
+   ]
+  },
+  "facial-artery__r": {
+   "source": "Facial artery.r",
+   "min": [
+    -0.0406,
+    1.5085,
+    0.0041
+   ],
+   "max": [
+    -0.029,
+    1.5535,
+    0.0696
+   ]
+  },
+  "facial-vein__l": {
+   "source": "Facial vein.l",
+   "min": [
+    0.0278,
+    1.5075,
+    0.0089
+   ],
+   "max": [
+    0.0378,
+    1.5532,
+    0.0706
+   ]
+  },
+  "facial-vein__r": {
+   "source": "Facial vein.r",
+   "min": [
+    -0.0378,
+    1.5075,
+    0.0089
+   ],
+   "max": [
+    -0.0278,
+    1.5532,
+    0.0706
+   ]
+  },
+  "frontal-branch-of-superficial-temporal-artery__l": {
+   "source": "Frontal branch of superficial temporal artery.l",
+   "min": [
+    0.0247,
+    1.6225,
+    0.0429
+   ],
+   "max": [
+    0.0579,
+    1.6474,
+    0.0853
+   ]
+  },
+  "frontal-branch-of-superficial-temporal-artery__r": {
+   "source": "Frontal branch of superficial temporal artery.r",
+   "min": [
+    -0.0579,
+    1.6225,
+    0.0429
+   ],
+   "max": [
+    -0.0247,
+    1.6474,
+    0.0853
+   ]
+  },
+  "greater-palatine-artery__l": {
+   "source": "Greater palatine artery.l",
+   "min": [
+    0.002,
+    1.5433,
+    0.0441
+   ],
+   "max": [
+    0.0166,
+    1.5576,
+    0.0791
+   ]
+  },
+  "greater-palatine-artery__r": {
+   "source": "Greater palatine artery.r",
+   "min": [
+    -0.0166,
+    1.5433,
+    0.0441
+   ],
+   "max": [
+    -0.002,
+    1.5576,
+    0.0791
+   ]
+  },
+  "inferior-alveolar-artery__l": {
+   "source": "Inferior alveolar artery.l",
+   "min": [
+    0.0148,
+    1.5066,
+    0.0077
+   ],
+   "max": [
+    0.0389,
+    1.5657,
+    0.0746
+   ]
+  },
+  "inferior-alveolar-artery__r": {
+   "source": "Inferior alveolar artery.r",
+   "min": [
+    -0.0389,
+    1.5066,
+    0.0077
+   ],
+   "max": [
+    -0.0148,
+    1.5657,
+    0.0746
+   ]
+  },
+  "inferior-labial-artery__l": {
+   "source": "Inferior labial artery.l",
+   "min": [
+    0.003,
+    1.512,
+    0.0608
+   ],
+   "max": [
+    0.0339,
+    1.5358,
+    0.0811
+   ]
+  },
+  "inferior-labial-artery__r": {
+   "source": "Inferior labial artery.r",
+   "min": [
+    -0.0339,
+    1.512,
+    0.0608
+   ],
+   "max": [
+    -0.003,
+    1.5358,
+    0.0811
+   ]
+  },
+  "inferior-labial-veins__l": {
+   "source": "Inferior labial veins.l",
+   "min": [
+    0.003,
+    1.4972,
+    0.0492
+   ],
+   "max": [
+    0.0356,
+    1.5301,
+    0.0811
+   ]
+  },
+  "inferior-labial-veins__r": {
+   "source": "Inferior labial veins.r",
+   "min": [
+    -0.0356,
+    1.4972,
+    0.0492
+   ],
+   "max": [
+    -0.003,
+    1.5301,
+    0.0811
+   ]
+  },
+  "inferior-ophthalmic-vein__l": {
+   "source": "Inferior ophthalmic vein.l",
+   "min": [
+    0.0151,
+    1.5843,
+    0.0222
+   ],
+   "max": [
+    0.0206,
+    1.5976,
+    0.0524
+   ]
+  },
+  "inferior-ophthalmic-vein__r": {
+   "source": "Inferior ophthalmic vein.r",
+   "min": [
+    -0.0206,
+    1.5843,
+    0.0222
+   ],
+   "max": [
+    -0.0151,
+    1.5976,
+    0.0524
+   ]
+  },
+  "inferior-petrosal-sinus__l": {
+   "source": "Inferior petrosal sinus.l",
+   "min": [
+    0.0083,
+    1.5666,
+    -0.0226
+   ],
+   "max": [
+    0.0463,
+    1.5901,
+    0.0081
+   ]
+  },
+  "inferior-petrosal-sinus__r": {
+   "source": "Inferior petrosal sinus.r",
+   "min": [
+    -0.0463,
+    1.5666,
+    -0.0226
+   ],
+   "max": [
+    -0.0083,
+    1.5901,
+    0.0081
+   ]
+  },
+  "inferior-sagittal-sinus": {
+   "source": "Inferior sagittal sinus",
+   "min": [
+    -0.001,
+    1.6087,
+    -0.0447
+   ],
+   "max": [
+    0.001,
+    1.6529,
+    0.04
+   ]
+  },
+  "infra-orbital-artery__l": {
+   "source": "Infra-orbital artery.l",
+   "min": [
+    0.0234,
+    1.5594,
+    0.0455
+   ],
+   "max": [
+    0.0297,
+    1.5756,
+    0.0726
+   ]
+  },
+  "infra-orbital-artery__r": {
+   "source": "Infra-orbital artery.r",
+   "min": [
+    -0.0297,
+    1.5594,
+    0.0455
+   ],
+   "max": [
+    -0.0234,
+    1.5756,
+    0.0726
+   ]
+  },
+  "internal-carotid-artery__l": {
+   "source": "Internal carotid artery.l",
+   "min": [
+    0.0091,
+    1.4856,
+    -0.0041
+   ],
+   "max": [
+    0.0368,
+    1.6039,
+    0.0265
+   ]
+  },
+  "internal-carotid-artery__r": {
+   "source": "Internal carotid artery.r",
+   "min": [
+    -0.0368,
+    1.4856,
+    -0.0041
+   ],
+   "max": [
+    -0.0091,
+    1.6039,
+    0.0265
+   ]
+  },
+  "internal-jugular-vein__l": {
+   "source": "Internal jugular vein.l",
+   "min": [
+    0.0198,
+    1.4115,
+    -0.0198
+   ],
+   "max": [
+    0.0397,
+    1.5742,
+    0.0237
+   ]
+  },
+  "internal-jugular-vein__r": {
+   "source": "Internal jugular vein.r",
+   "min": [
+    -0.0397,
+    1.4115,
+    -0.0198
+   ],
+   "max": [
+    -0.0198,
+    1.5742,
+    0.0237
+   ]
+  },
+  "lacrimal-artery__l": {
+   "source": "Lacrimal artery.l",
+   "min": [
+    0.0136,
+    1.5999,
+    0.0338
+   ],
+   "max": [
+    0.0427,
+    1.6071,
+    0.0655
+   ]
+  },
+  "lacrimal-artery__r": {
+   "source": "Lacrimal artery.r",
+   "min": [
+    -0.0427,
+    1.5999,
+    0.0338
+   ],
+   "max": [
+    -0.0136,
+    1.6071,
+    0.0655
+   ]
+  },
+  "left-common-carotid-artery": {
+   "source": "Left common carotid artery",
+   "min": [
+    0.0124,
+    1.3952,
+    -0.0042
+   ],
+   "max": [
+    0.0352,
+    1.4866,
+    0.0099
+   ]
+  },
+  "lingual-vein__l": {
+   "source": "Lingual vein.l",
+   "min": [
+    0.0157,
+    1.527,
+    0.0064
+   ],
+   "max": [
+    0.0319,
+    1.5398,
+    0.0524
+   ]
+  },
+  "lingual-vein__r": {
+   "source": "Lingual vein.r",
+   "min": [
+    -0.0319,
+    1.527,
+    0.0064
+   ],
+   "max": [
+    -0.0157,
+    1.5398,
+    0.0524
+   ]
+  },
+  "maxillary-artery__l": {
+   "source": "Maxillary artery.l",
+   "min": [
+    0.0257,
+    1.5463,
+    0.0014
+   ],
+   "max": [
+    0.0448,
+    1.5761,
+    0.0613
+   ]
+  },
+  "maxillary-artery__r": {
+   "source": "Maxillary artery.r",
+   "min": [
+    -0.0448,
+    1.5463,
+    0.0014
+   ],
+   "max": [
+    -0.0257,
+    1.5761,
+    0.0613
+   ]
+  },
+  "maxillary-veins__l": {
+   "source": "Maxillary veins.l",
+   "min": [
+    0.0283,
+    1.5443,
+    0.0054
+   ],
+   "max": [
+    0.0443,
+    1.5556,
+    0.0678
+   ]
+  },
+  "maxillary-veins__r": {
+   "source": "Maxillary veins.r",
+   "min": [
+    -0.0443,
+    1.5443,
+    0.0054
+   ],
+   "max": [
+    -0.0283,
+    1.5556,
+    0.0678
+   ]
+  },
+  "mental-branch-of-inferior-alveolar-artery__l": {
+   "source": "Mental branch of inferior alveolar artery.l",
+   "min": [
+    0.0082,
+    1.5088,
+    0.0741
+   ],
+   "max": [
+    0.0153,
+    1.5134,
+    0.0781
+   ]
+  },
+  "mental-branch-of-inferior-alveolar-artery__r": {
+   "source": "Mental branch of inferior alveolar artery.r",
+   "min": [
+    -0.0153,
+    1.5088,
+    0.0741
+   ],
+   "max": [
+    -0.0082,
+    1.5134,
+    0.0781
+   ]
+  },
+  "middle-meningeal-artery__l": {
+   "source": "Middle meningeal artery.l",
+   "min": [
+    0.0249,
+    1.566,
+    0.0071
+   ],
+   "max": [
+    0.0375,
+    1.5899,
+    0.0123
+   ]
+  },
+  "middle-meningeal-artery__r": {
+   "source": "Middle meningeal artery.r",
+   "min": [
+    -0.0375,
+    1.566,
+    0.0071
+   ],
+   "max": [
+    -0.0249,
+    1.5899,
+    0.0123
+   ]
+  },
+  "mylohyoid-branch-of-inferior-alveolar-artery__l": {
+   "source": "Mylohyoid branch of inferior alveolar artery.l",
+   "min": [
+    0.0303,
+    1.5251,
+    0.0186
+   ],
+   "max": [
+    0.0371,
+    1.5445,
+    0.0214
+   ]
+  },
+  "mylohyoid-branch-of-inferior-alveolar-artery__r": {
+   "source": "Mylohyoid branch of inferior alveolar artery.r",
+   "min": [
+    -0.0371,
+    1.5251,
+    0.0186
+   ],
+   "max": [
+    -0.0303,
+    1.5445,
+    0.0214
+   ]
+  },
+  "occipital-artery__l": {
+   "source": "Occipital artery.l",
+   "min": [
+    0.031,
+    1.5527,
+    -0.1032
+   ],
+   "max": [
+    0.0632,
+    1.6795,
+    0.0038
+   ]
+  },
+  "occipital-artery__r": {
+   "source": "Occipital artery.r",
+   "min": [
+    -0.0632,
+    1.5527,
+    -0.1031
+   ],
+   "max": [
+    -0.031,
+    1.6795,
+    0.0038
+   ]
+  },
+  "occipital-sinus": {
+   "source": "Occipital sinus",
+   "min": [
+    -0.001,
+    1.5624,
+    -0.0332
+   ],
+   "max": [
+    0.001,
+    1.5825,
+    -0.0018
+   ]
+  },
+  "occipital-vein__l": {
+   "source": "Occipital vein.l",
+   "min": [
+    0.0107,
+    1.5356,
+    -0.1034
+   ],
+   "max": [
+    0.0537,
+    1.6441,
+    -0.0007
+   ]
+  },
+  "occipital-vein__r": {
+   "source": "Occipital vein.r",
+   "min": [
+    -0.0537,
+    1.5356,
+    -0.1034
+   ],
+   "max": [
+    -0.0107,
+    1.6441,
+    -0.0007
+   ]
+  },
+  "ophthalmic-artery__l": {
+   "source": "Ophthalmic artery.l",
+   "min": [
+    0.0109,
+    1.5984,
+    0.0222
+   ],
+   "max": [
+    0.0187,
+    1.6027,
+    0.0542
+   ]
+  },
+  "ophthalmic-artery__r": {
+   "source": "Ophthalmic artery.r",
+   "min": [
+    -0.0187,
+    1.5984,
+    0.0222
+   ],
+   "max": [
+    -0.0109,
+    1.6027,
+    0.0542
+   ]
+  },
+  "posterior-auricular-vein__l": {
+   "source": "Posterior auricular vein.l",
+   "min": [
+    0.0486,
+    1.5622,
+    -0.0312
+   ],
+   "max": [
+    0.0766,
+    1.6186,
+    0.0067
+   ]
+  },
+  "posterior-auricular-vein__r": {
+   "source": "Posterior auricular vein.r",
+   "min": [
+    -0.0766,
+    1.5622,
+    -0.0312
+   ],
+   "max": [
+    -0.0486,
+    1.6186,
+    0.0067
+   ]
+  },
+  "posterior-deep-temporal-artery__l": {
+   "source": "Posterior deep temporal artery.l",
+   "min": [
+    0.0366,
+    1.5725,
+    0.0184
+   ],
+   "max": [
+    0.0618,
+    1.6195,
+    0.0271
+   ]
+  },
+  "posterior-deep-temporal-artery__r": {
+   "source": "Posterior deep temporal artery.r",
+   "min": [
+    -0.0618,
+    1.5725,
+    0.0184
+   ],
+   "max": [
+    -0.0366,
+    1.6195,
+    0.0271
+   ]
+  },
+  "posterior-division-of-retromandibular-vein__l": {
+   "source": "Posterior division of retromandibular vein.l",
+   "min": [
+    0.0405,
+    1.5355,
+    -0.0025
+   ],
+   "max": [
+    0.051,
+    1.5496,
+    0.0074
+   ]
+  },
+  "posterior-division-of-retromandibular-vein__r": {
+   "source": "Posterior division of retromandibular vein.r",
+   "min": [
+    -0.051,
+    1.5355,
+    -0.0025
+   ],
+   "max": [
+    -0.0405,
+    1.5496,
+    0.0074
+   ]
+  },
+  "posterior-ethmoidal-artery__l": {
+   "source": "Posterior ethmoidal artery.l",
+   "min": [
+    0.0097,
+    1.5941,
+    0.0434
+   ],
+   "max": [
+    0.0179,
+    1.6003,
+    0.0459
+   ]
+  },
+  "posterior-ethmoidal-artery__r": {
+   "source": "Posterior ethmoidal artery.r",
+   "min": [
+    -0.0179,
+    1.5941,
+    0.0434
+   ],
+   "max": [
+    -0.0097,
+    1.6003,
+    0.0459
+   ]
+  },
+  "posterior-septal-branches-of-sphenopalatine-artery__l": {
+   "source": "Posterior septal branches of sphenopalatine artery.l",
+   "min": [
+    -0.0001,
+    1.5436,
+    0.0389
+   ],
+   "max": [
+    0.0091,
+    1.571,
+    0.081
+   ]
+  },
+  "posterior-septal-branches-of-sphenopalatine-artery__r": {
+   "source": "Posterior septal branches of sphenopalatine artery.r",
+   "min": [
+    -0.0091,
+    1.5436,
+    0.0389
+   ],
+   "max": [
+    0.0001,
+    1.571,
+    0.0809
+   ]
+  },
+  "posterior-superior-alveolar-artery__l": {
+   "source": "Posterior superior alveolar artery.l",
+   "min": [
+    0.0247,
+    1.5589,
+    0.03
+   ],
+   "max": [
+    0.0344,
+    1.5725,
+    0.047
+   ]
+  },
+  "posterior-superior-alveolar-artery__r": {
+   "source": "Posterior superior alveolar artery.r",
+   "min": [
+    -0.0344,
+    1.5589,
+    0.03
+   ],
+   "max": [
+    -0.0247,
+    1.5725,
+    0.047
+   ]
+  },
+  "right-common-carotid-artery": {
+   "source": "Right common carotid artery",
+   "min": [
+    -0.0352,
+    1.4098,
+    -0.0041
+   ],
+   "max": [
+    -0.0106,
+    1.4866,
+    0.0211
+   ]
+  },
+  "long-posterior-ciliary-arteries__l": {
+   "source": "Long posterior ciliary arteries.l",
+   "min": [
+    0.0137,
+    1.5986,
+    0.0338
+   ],
+   "max": [
+    0.0287,
+    1.6076,
+    0.0561
+   ]
+  },
+  "long-posterior-ciliary-arteries__r": {
+   "source": "Long posterior ciliary arteries.r",
+   "min": [
+    -0.0287,
+    1.5986,
+    0.0338
+   ],
+   "max": [
+    -0.0137,
+    1.6076,
+    0.0561
+   ]
+  },
+  "posterior-intercavernous-sinus": {
+   "source": "Posterior intercavernous sinus",
+   "min": [
+    -0.0058,
+    1.6014,
+    0.0095
+   ],
+   "max": [
+    0.0058,
+    1.6055,
+    0.0175
+   ]
+  },
+  "posterior-lateral-nasal-branches-of-sphenopalatine-artery__l": {
+   "source": "Posterior lateral nasal branches of sphenopalatine artery..l",
+   "min": [
+    0.001,
+    1.5593,
+    0.0406
+   ],
+   "max": [
+    0.0169,
+    1.5979,
+    0.0791
+   ]
+  },
+  "posterior-lateral-nasal-branches-of-sphenopalatine-artery__r": {
+   "source": "Posterior lateral nasal branches of sphenopalatine artery..r",
+   "min": [
+    -0.0169,
+    1.5593,
+    0.0406
+   ],
+   "max": [
+    -0.001,
+    1.5979,
+    0.0791
+   ]
+  },
+  "retromandibular-vein__l": {
+   "source": "Retromandibular vein.l",
+   "min": [
+    0.04,
+    1.5485,
+    0.0052
+   ],
+   "max": [
+    0.0499,
+    1.5633,
+    0.0079
+   ]
+  },
+  "retromandibular-vein__r": {
+   "source": "Retromandibular vein.r",
+   "min": [
+    -0.0499,
+    1.5485,
+    0.0052
+   ],
+   "max": [
+    -0.04,
+    1.5633,
+    0.0079
+   ]
+  },
+  "septal-branches-of-posterior-ethmoidal-artery__l": {
+   "source": "Septal branches of posterior ethmoidal artery.l",
+   "min": [
+    0.0009,
+    1.5711,
+    0.0343
+   ],
+   "max": [
+    0.0098,
+    1.5966,
+    0.044
+   ]
+  },
+  "septal-branches-of-posterior-ethmoidal-artery__r": {
+   "source": "Septal branches of posterior ethmoidal artery.r",
+   "min": [
+    -0.0098,
+    1.5711,
+    0.0343
+   ],
+   "max": [
+    -0.0009,
+    1.5966,
+    0.044
+   ]
+  },
+  "short-posterior-ciliary-arteries__l": {
+   "source": "Short posterior ciliary arteries.l",
+   "min": [
+    0.0137,
+    1.5977,
+    0.034
+   ],
+   "max": [
+    0.0251,
+    1.601,
+    0.0425
+   ]
+  },
+  "short-posterior-ciliary-arteries__r": {
+   "source": "Short posterior ciliary arteries.r",
+   "min": [
+    -0.0251,
+    1.5977,
+    0.034
+   ],
+   "max": [
+    -0.0137,
+    1.601,
+    0.0425
+   ]
+  },
+  "sigmoid-sinus__l": {
+   "source": "Sigmoid sinus.l",
+   "min": [
+    0.0449,
+    1.5667,
+    -0.0408
+   ],
+   "max": [
+    0.061,
+    1.594,
+    -0.0211
+   ]
+  },
+  "sigmoid-sinus__r": {
+   "source": "Sigmoid sinus.r",
+   "min": [
+    -0.061,
+    1.5667,
+    -0.0408
+   ],
+   "max": [
+    -0.0449,
+    1.594,
+    -0.0211
+   ]
+  },
+  "straight-sinus": {
+   "source": "Straight sinus",
+   "min": [
+    -0.0015,
+    1.5809,
+    -0.0336
+   ],
+   "max": [
+    0.0015,
+    1.6138,
+    0.0172
+   ]
+  },
+  "submental-artery__l": {
+   "source": "Submental artery.l",
+   "min": [
+    0.0018,
+    1.4975,
+    0.0359
+   ],
+   "max": [
+    0.0323,
+    1.5124,
+    0.0726
+   ]
+  },
+  "submental-artery__r": {
+   "source": "Submental artery.r",
+   "min": [
+    -0.0323,
+    1.4975,
+    0.0359
+   ],
+   "max": [
+    -0.0018,
+    1.5124,
+    0.0726
+   ]
+  },
+  "submental-vein__l": {
+   "source": "Submental vein.l",
+   "min": [
+    0.0035,
+    1.4962,
+    0.0414
+   ],
+   "max": [
+    0.0311,
+    1.5101,
+    0.0802
+   ]
+  },
+  "submental-vein__r": {
+   "source": "Submental vein.r",
+   "min": [
+    -0.0311,
+    1.4962,
+    0.0414
+   ],
+   "max": [
+    -0.0035,
+    1.5101,
+    0.0802
+   ]
+  },
+  "superficial-temporal-artery__l": {
+   "source": "Superficial temporal artery.l",
+   "min": [
+    0.0412,
+    1.5594,
+    -0.0568
+   ],
+   "max": [
+    0.0744,
+    1.685,
+    0.0545
+   ]
+  },
+  "superficial-temporal-artery__r": {
+   "source": "Superficial temporal artery.r",
+   "min": [
+    -0.0744,
+    1.5594,
+    -0.0568
+   ],
+   "max": [
+    -0.0412,
+    1.685,
+    0.0545
+   ]
+  },
+  "superficial-temporal-veins__l": {
+   "source": "Superficial temporal veins.l",
+   "min": [
+    0.0482,
+    1.5621,
+    -0.0209
+   ],
+   "max": [
+    0.0789,
+    1.6716,
+    0.022
+   ]
+  },
+  "superficial-temporal-veins__r": {
+   "source": "Superficial temporal veins.r",
+   "min": [
+    -0.0789,
+    1.5621,
+    -0.0209
+   ],
+   "max": [
+    -0.0482,
+    1.6716,
+    0.022
+   ]
+  },
+  "superior-labial-artery__l": {
+   "source": "Superior labial artery.l",
+   "min": [
+    0.0118,
+    1.5423,
+    0.065
+   ],
+   "max": [
+    0.0337,
+    1.5442,
+    0.0884
+   ]
+  },
+  "superior-labial-artery__r": {
+   "source": "Superior labial artery.r",
+   "min": [
+    -0.0337,
+    1.5423,
+    0.065
+   ],
+   "max": [
+    -0.0118,
+    1.5442,
+    0.0884
+   ]
+  },
+  "superior-labial-vein__l": {
+   "source": "Superior labial vein.l",
+   "min": [
+    0.0118,
+    1.5394,
+    0.0654
+   ],
+   "max": [
+    0.0339,
+    1.5428,
+    0.0884
+   ]
+  },
+  "superior-labial-vein__r": {
+   "source": "Superior labial vein.r",
+   "min": [
+    -0.0339,
+    1.5394,
+    0.0654
+   ],
+   "max": [
+    -0.0118,
+    1.5428,
+    0.0884
+   ]
+  },
+  "superior-ophthalmic-vein__l": {
+   "source": "Superior ophthalmic vein.l",
+   "min": [
+    0.0135,
+    1.5969,
+    0.0222
+   ],
+   "max": [
+    0.0259,
+    1.6123,
+    0.0833
+   ]
+  },
+  "superior-ophthalmic-vein__r": {
+   "source": "Superior ophthalmic vein.r",
+   "min": [
+    -0.0259,
+    1.5969,
+    0.0222
+   ],
+   "max": [
+    -0.0135,
+    1.6123,
+    0.0833
+   ]
+  },
+  "superior-petrosal-sinus__l": {
+   "source": "Superior petrosal sinus.l",
+   "min": [
+    0.0136,
+    1.5885,
+    -0.0395
+   ],
+   "max": [
+    0.0605,
+    1.5971,
+    0.0057
+   ]
+  },
+  "superior-petrosal-sinus__r": {
+   "source": "Superior petrosal sinus.r",
+   "min": [
+    -0.0605,
+    1.5885,
+    -0.0395
+   ],
+   "max": [
+    -0.0136,
+    1.5971,
+    0.0057
+   ]
+  },
+  "superior-sagittal-sinus": {
+   "source": "Superior sagittal sinus",
+   "min": [
+    -0.002,
+    1.5805,
+    -0.0981
+   ],
+   "max": [
+    0.002,
+    1.7015,
+    0.0791
+   ]
+  },
+  "superior-thyroid-vein__l": {
+   "source": "Superior thyroid vein.l",
+   "min": [
+    0.0166,
+    1.4611,
+    0.0014
+   ],
+   "max": [
+    0.0474,
+    1.5103,
+    0.0137
+   ]
+  },
+  "superior-thyroid-vein__r": {
+   "source": "Superior thyroid vein.r",
+   "min": [
+    -0.0474,
+    1.4611,
+    0.0014
+   ],
+   "max": [
+    -0.0166,
+    1.5103,
+    0.0137
+   ]
+  },
+  "supra-orbital-artery__l": {
+   "source": "Supra-orbital artery.l",
+   "min": [
+    0.0171,
+    1.5999,
+    0.0452
+   ],
+   "max": [
+    0.036,
+    1.6456,
+    0.0865
+   ]
+  },
+  "supra-orbital-artery__r": {
+   "source": "Supra-orbital artery.r",
+   "min": [
+    -0.036,
+    1.5999,
+    0.0452
+   ],
+   "max": [
+    -0.0171,
+    1.6456,
+    0.0865
+   ]
+  },
+  "supratrochlear-artery__l": {
+   "source": "Supratrochlear artery.l",
+   "min": [
+    0.01,
+    1.5985,
+    0.0341
+   ],
+   "max": [
+    0.0152,
+    1.6201,
+    0.0864
+   ]
+  },
+  "supratrochlear-artery__r": {
+   "source": "Supratrochlear artery.r",
+   "min": [
+    -0.0152,
+    1.5985,
+    0.0341
+   ],
+   "max": [
+    -0.01,
+    1.6202,
+    0.0864
+   ]
+  },
+  "transverse-cervical-artery__l": {
+   "source": "Transverse cervical artery.l",
+   "min": [
+    0.0411,
+    1.4295,
+    -0.0179
+   ],
+   "max": [
+    0.0617,
+    1.4783,
+    0.0053
+   ]
+  },
+  "transverse-cervical-artery__r": {
+   "source": "Transverse cervical artery.r",
+   "min": [
+    -0.0617,
+    1.4295,
+    -0.0179
+   ],
+   "max": [
+    -0.0411,
+    1.4783,
+    0.0053
+   ]
+  },
+  "transverse-facial-artery__l": {
+   "source": "Transverse facial artery.l",
+   "min": [
+    0.0209,
+    1.5608,
+    0.0013
+   ],
+   "max": [
+    0.0653,
+    1.5805,
+    0.0744
+   ]
+  },
+  "transverse-facial-artery__r": {
+   "source": "Transverse facial artery.r",
+   "min": [
+    -0.0653,
+    1.5608,
+    0.0013
+   ],
+   "max": [
+    -0.0209,
+    1.5805,
+    0.0744
+   ]
+  },
+  "transverse-sinus__l": {
+   "source": "Transverse sinus.l",
+   "min": [
+    -0.0004,
+    1.5803,
+    -0.0806
+   ],
+   "max": [
+    0.0606,
+    1.5944,
+    -0.039
+   ]
+  },
+  "transverse-sinus__r": {
+   "source": "Transverse sinus.r",
+   "min": [
+    -0.0606,
+    1.5803,
+    -0.0806
+   ],
+   "max": [
+    0.0004,
+    1.5944,
+    -0.039
+   ]
+  },
+  "vertebral-artery__l": {
+   "source": "Vertebral artery.l",
+   "min": [
+    -0.0009,
+    1.4203,
+    -0.0307
+   ],
+   "max": [
+    0.0422,
+    1.5792,
+    -0.0003
+   ]
+  },
+  "vertebral-artery__r": {
+   "source": "Vertebral artery.r",
+   "min": [
+    -0.0422,
+    1.4203,
+    -0.0307
+   ],
+   "max": [
+    0.0009,
+    1.5792,
+    -0.0003
+   ]
+  },
+  "vertebral-vein__l": {
+   "source": "Vertebral vein.l",
+   "min": [
+    0.0188,
+    1.4101,
+    -0.0409
+   ],
+   "max": [
+    0.0535,
+    1.5683,
+    0.0182
+   ]
+  },
+  "vertebral-vein__r": {
+   "source": "Vertebral vein.r",
+   "min": [
+    -0.0535,
+    1.4101,
+    -0.0409
+   ],
+   "max": [
+    -0.0188,
+    1.5683,
+    0.0182
+   ]
+  }
+ },
+ "viscera": {
+  "accessory-parotid-gland__l": {
+   "source": "(Accessory parotid gland).l",
+   "min": [
+    0.0531,
+    1.5515,
+    0.0382
+   ],
+   "max": [
+    0.0614,
+    1.5602,
+    0.0499
+   ]
+  },
+  "accessory-parotid-gland__r": {
+   "source": "(Accessory parotid gland).r",
+   "min": [
+    -0.0614,
+    1.5515,
+    0.0382
+   ],
+   "max": [
+    -0.0531,
+    1.5602,
+    0.0499
+   ]
+  },
+  "epiglottis": {
+   "source": "Epiglottis",
+   "min": [
+    -0.0078,
+    1.481,
+    0.0194
+   ],
+   "max": [
+    0.0078,
+    1.5105,
+    0.0271
+   ]
+  },
+  "gingiva": {
+   "source": "Gingiva",
+   "min": [
+    -0.0367,
+    1.5086,
+    0.0326
+   ],
+   "max": [
+    0.0367,
+    1.553,
+    0.0915
+   ]
+  },
+  "laryngopharynx": {
+   "source": "Laryngopharynx",
+   "min": [
+    -0.0144,
+    1.4564,
+    -0.0005
+   ],
+   "max": [
+    0.0144,
+    1.5104,
+    0.0332
+   ]
+  },
+  "mucosa-of-nasal-cavity": {
+   "source": "Mucosa of nasal cavity",
+   "min": [
+    -0.0137,
+    1.5497,
+    0.0422
+   ],
+   "max": [
+    0.0137,
+    1.5976,
+    0.1081
+   ]
+  },
+  "nasopharynx": {
+   "source": "Nasopharynx",
+   "min": [
+    -0.0175,
+    1.5501,
+    0.0096
+   ],
+   "max": [
+    0.0175,
+    1.5912,
+    0.0454
+   ]
+  },
+  "oropharynx": {
+   "source": "Oropharynx",
+   "min": [
+    -0.0328,
+    1.5083,
+    0.0086
+   ],
+   "max": [
+    0.0328,
+    1.5525,
+    0.0755
+   ]
+  },
+  "parotid-duct__l": {
+   "source": "Parotid duct.l",
+   "min": [
+    0.0334,
+    1.5389,
+    0.0323
+   ],
+   "max": [
+    0.0616,
+    1.558,
+    0.0554
+   ]
+  },
+  "parotid-duct__r": {
+   "source": "Parotid duct.r",
+   "min": [
+    -0.0616,
+    1.5389,
+    0.0323
+   ],
+   "max": [
+    -0.0334,
+    1.558,
+    0.0554
+   ]
+  },
+  "parotid-gland__l": {
+   "source": "Parotid gland.l",
+   "min": [
+    0.0336,
+    1.5289,
+    0.0032
+   ],
+   "max": [
+    0.065,
+    1.5765,
+    0.0363
+   ]
+  },
+  "parotid-gland__r": {
+   "source": "Parotid gland.r",
+   "min": [
+    -0.065,
+    1.5289,
+    0.0032
+   ],
+   "max": [
+    -0.0336,
+    1.5765,
+    0.0363
+   ]
+  },
+  "soft-palate": {
+   "source": "Soft palate",
+   "min": [
+    -0.0176,
+    1.5447,
+    0.015
+   ],
+   "max": [
+    0.0176,
+    1.5549,
+    0.0556
+   ]
+  },
+  "sublingual-gland__l": {
+   "source": "Sublingual gland.l",
+   "min": [
+    0.0034,
+    1.5061,
+    0.049
+   ],
+   "max": [
+    0.0199,
+    1.5184,
+    0.0702
+   ]
+  },
+  "sublingual-gland__r": {
+   "source": "Sublingual gland.r",
+   "min": [
+    -0.0198,
+    1.5059,
+    0.049
+   ],
+   "max": [
+    -0.0035,
+    1.5185,
+    0.0702
+   ]
+  },
+  "submandibular-duct__l": {
+   "source": "Submandibular duct.l",
+   "min": [
+    0.0044,
+    1.5044,
+    0.0377
+   ],
+   "max": [
+    0.0252,
+    1.5202,
+    0.0646
+   ]
+  },
+  "submandibular-duct__r": {
+   "source": "Submandibular duct.r",
+   "min": [
+    -0.0252,
+    1.5044,
+    0.0377
+   ],
+   "max": [
+    -0.0044,
+    1.5202,
+    0.0646
+   ]
+  },
+  "submandibular-gland__l": {
+   "source": "Submandibular gland.l",
+   "min": [
+    0.016,
+    1.5041,
+    0.0306
+   ],
+   "max": [
+    0.0317,
+    1.5267,
+    0.0523
+   ]
+  },
+  "submandibular-gland__r": {
+   "source": "Submandibular gland.r",
+   "min": [
+    -0.0317,
+    1.5041,
+    0.0306
+   ],
+   "max": [
+    -0.016,
+    1.5267,
+    0.0523
+   ]
+  },
+  "superior-parathyroid-gland__l": {
+   "source": "Superior parathyroid gland.l",
+   "min": [
+    0.0144,
+    1.4786,
+    -0.0045
+   ],
+   "max": [
+    0.0183,
+    1.4817,
+    -0.0019
+   ]
+  },
+  "superior-parathyroid-gland__r": {
+   "source": "Superior parathyroid gland.r",
+   "min": [
+    -0.0183,
+    1.4786,
+    -0.0045
+   ],
+   "max": [
+    -0.0144,
+    1.4817,
+    -0.0019
+   ]
+  },
+  "thyroid-gland": {
+   "source": "Thyroid gland",
+   "min": [
+    -0.0243,
+    1.4547,
+    -0.0045
+   ],
+   "max": [
+    0.0243,
+    1.4888,
+    0.037
+   ]
+  },
+  "tongue": {
+   "source": "Tongue",
+   "min": [
+    -0.0168,
+    1.4969,
+    0.0219
+   ],
+   "max": [
+    0.0168,
+    1.5396,
+    0.0782
+   ]
+  },
+  "uvula-of-palate": {
+   "source": "Uvula of palate",
+   "min": [
+    -0.0025,
+    1.5409,
+    0.0134
+   ],
+   "max": [
+    0.0025,
+    1.5501,
+    0.0179
+   ]
+  }
+ }
+}
